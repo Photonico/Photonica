@@ -1,0 +1,29 @@
+{
+    "name": "luke-dark-theme",
+    "publisher": "ConAntares",
+    "displayName": "Luke Dark Theme",
+    "description": "A dark VS Code Theme with Soft Colors.",
+    "repository": "https://github.com/ConAntares/Luke_Dark_Theme",
+    "version": "0.5.0",
+    "icon": "icon.png",
+    "categories": 
+    [
+        "Themes"
+    ],
+    "engines": 
+    {
+        "vscode": "^1.30.0"
+    },
+    "license": "MIT",
+    "contributes": 
+    {
+        "themes": 
+        [
+            {
+                "label": "Luke Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Luke Dark-color-theme.json"
+            }
+        ]
+    }
+}

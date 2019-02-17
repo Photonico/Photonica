@@ -1,0 +1,29 @@
+{
+    "name": "Photonica",
+    "publisher": "ConAntares",
+    "displayName": "Photonica",
+    "description": "A light theme for VS code. Its soft colors will be helpful for you to get inspired.",
+    "repository": "https://github.com/ConAntares/Photonica",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "categories": 
+    [
+        "Themes"
+    ],
+    "engines": 
+    {
+        "vscode": "^1.30.0"
+    },
+    "license": "MIT",
+    "contributes": 
+    {
+        "themes": 
+        [
+            {
+                "label": "Photonica",
+                "uiTheme": "vs",
+                "path": "./themes/Photonica-color-theme.json"
+            }
+        ]
+    }
+}
