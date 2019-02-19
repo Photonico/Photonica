@@ -82,7 +82,7 @@
 
         // Terminal Colors
     
-        "terminal.background":"#FFFFFF",			// 255,255,255
+        "terminal.background":"#FAFAFA",			// 250,250,250
         "terminal.foreground":"#0A0A0A",			// 010,010,010
         /*
         "terminal.ansiBlack":"#323C50",				// 050,060,080
