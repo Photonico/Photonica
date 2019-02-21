@@ -222,11 +222,11 @@
         "list.activeSelectionForeground": "#0A0A0A",		// 010,010,010
  
         "list.dropBackground": "#FAFAFA", 				// 250,250,250
-        "list.focusBackground": "#C8F0FA",				// 200,240,250
+        "list.focusBackground": "#FFFFFF",				// 255,255,255
         "list.focusForeground": "#505050",			    // 080,080,080
         "list.highlightForeground": "#6464DC",		    // 100,100,220
  
-        "list.hoverBackground": "#EBEBEB",					// 235,235,235
+        "list.hoverBackground": "#E1E1E1",					// 225,225,225
         "list.hoverForeground": "#0A0A0A",					// 010,010,010
         "list.inactiveSelectionBackground": "#FAFAFA",		// 250,250,250
         "list.inactiveSelectionForeground": "#0064A0", 		// 000,100,160
