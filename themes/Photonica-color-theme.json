@@ -36,7 +36,7 @@
         "editorWhitespace.foreground":"#DCDCDC",				// 220,220,220
         "editorLineNumber.foreground":"#A0A0A0",				// 160,160,160
         //"editorLineNumber.activeForeground":"#0078F0", 			// 000,120,240
-        "editorLineNumber.activeForeground":"#0A0A0A",			// 010,010,010
+        "editorLineNumber.activeForeground":"#3C3C3C",			// 060,060,060
         //"editor.inactiveSelectionBackground":"#5050507e",		// 080,080,080
         "editor.selectionHighlightBackground":"#A0D2FF7e", 		// 200,230,255
         //"editor.selectionHighlightBorder":"#5A5A5A",			// 090,090,090
