@@ -19,6 +19,7 @@
 
         // Title Bar
         "titleBar.activeBackground":"#E6E6E6",			// 230,230,230
+        //"titleBar.activeBackground":"#ff0000",			// 230,230,230
         "titleBar.activeForeground":"#000000",			// 000,000,000
         "titleBar.inactiveBackground":"#E6E6E6",		// 230,230,230
         "titleBar.inactiveForeground":"#646464",		// 100,100,100
@@ -28,7 +29,7 @@
         "editor.background":"#FFFFFF",							// 255,255,255
         "editor.foreground":"#0A0A0A",							// 010,010,010
         //"editor.selectionForeground":"#F0F0F0",				// 240,240,240
-        "editor.selectionBackground":"#A0D2FF", 				// 160,210,255
+        "editor.selectionBackground":"#C8F0FF", 				// 200,240,255
         "editor.lineHighlightBackground":"#F5F5F5",				// 245,245,245
         //"editor.lineHighlightBorder":"#8C8C8C",				// 140,140,140
         "editorCursor.foreground":"#0078F0", 					// 000,120,240
@@ -81,27 +82,25 @@
         "panelTitle.inactiveForeground": "#0A0A0A",		// 010,010,010P
 
         // Terminal Colors
-    
-        "terminal.background":"#FAFAFA",			// 250,250,250
-        "terminal.foreground":"#0A0A0A",			// 010,010,010
-        /*
-        "terminal.ansiBlack":"#323C50",				// 050,060,080
-        "terminal.ansiRed":"#FF5064",				// 255,080,100
-        "terminal.ansiGreen":"#5AFF46",				// 090,255,070
-        "terminal.ansiYellow":"#FFC81E",			// 255,200,030 
-        "terminal.ansiBlue":"#0078DC",				// 000,120,220
-        "terminal.ansiMagenta":"#AF8CF0",			// 175,140,240
-        "terminal.ansiCyan":"#28B4B4",				// 040,180,180
-        "terminal.ansiWhite":"#F0F0F0",				// 240,240,240
-        "terminal.ansiBrightBlack":"#646464",		// 100,100,100
-        "terminal.ansiBrightRed":"#FF7878",			// 255,120,120
-        "terminal.ansiBrightGreen":"#C8FF46", 		// 200,255,070
-        "terminal.ansiBrightYellow":"#FFDC64",		// 255,220,100
-        "terminal.ansiBrightBlue":"#00B4FF",		// 000,180,255
-        "terminal.ansiBrightMagenta":"#C88CF0",		// 200,140,240
-        "terminal.ansiBrightCyan":"#8CE1E1",		// 140,225,225
-        "terminal.ansiBrightWhite":"#FFFFFF",		// 255,255,255
-        */
+        "terminal.background": "#FAFAFA",			// 250,250,250
+        "terminal.foreground": "#141414",           // 020,020,020
+        "terminal.ansiBlack": "#000000",            // 000,000,000
+        "terminal.ansiRed": "#DC6464",              // 220,100,100
+        "terminal.ansiGreen": "#96BE64",            // 150,190,100
+        "terminal.ansiYellow": "#F0AA3C",           // 240,170,060
+        "terminal.ansiBlue": "#3296E1",             // 050,150,225
+        "terminal.ansiMagenta": "#7864C8",          // 120,100,200
+        "terminal.ansiCyan": "#3CB48C",             // 060,180,140
+        "terminal.ansiWhite": "#C8C8C8",            // 200,200,200
+        "terminal.ansiBrightBlack": "#646464",		// 100,100,100
+        "terminal.ansiBrightRed": "#F06E6E",        // 240,110,110
+        "terminal.ansiBrightGreen": "#8CB450",      // 140,180,080
+        "terminal.ansiBrightYellow": "#F0AA46",     // 240,170,070
+        "terminal.ansiBrightBlue": "#3CA0E6",       // 060,160,230
+        "terminal.ansiBrightMagenta": "#A078C8",    // 160,120,200
+        "terminal.ansiBrightCyan": "#50C8A0",       // 080,200,160
+        "terminal.ansiBrightWhite": "#DCDCDC",      // 220,220,220
+        
         
         // Status Bar
         "statusBar.background": "#E6E6E6",						// 230,230,230
