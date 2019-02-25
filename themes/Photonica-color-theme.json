@@ -29,17 +29,17 @@
         "editor.background":"#FFFFFF",							// 255,255,255
         "editor.foreground":"#0A0A0A",							// 010,010,010
         //"editor.selectionForeground":"#F0F0F0",				// 240,240,240
-        "editor.selectionBackground":"#C8F0FF", 				// 200,240,255
+        "editor.selectionBackground":"#D2F0FF", 				// 210,240,255
         "editor.lineHighlightBackground":"#F5F5F5",				// 245,245,245
         //"editor.lineHighlightBorder":"#8C8C8C",				// 140,140,140
         "editorCursor.foreground":"#0078F0", 					// 000,120,240
         //"editorCursor.background":"#3C3C3C",					// 060,060,060
         "editorWhitespace.foreground":"#DCDCDC",				// 220,220,220
         "editorLineNumber.foreground":"#A0A0A0",				// 160,160,160
-        //"editorLineNumber.activeForeground":"#0078F0", 			// 000,120,240
+        //"editorLineNumber.activeForeground":"#0078F0", 		// 000,120,240
         "editorLineNumber.activeForeground":"#3C3C3C",			// 060,060,060
         //"editor.inactiveSelectionBackground":"#5050507e",		// 080,080,080
-        "editor.selectionHighlightBackground":"#A0D2FF7e", 		// 200,230,255
+        "editor.selectionHighlightBackground":"#c8c8c860", 		// 200,200,200
         //"editor.selectionHighlightBorder":"#5A5A5A",			// 090,090,090
         //"editor.wordHighlightBackground":"#5A5A5A7e",			// 090,090,090
         //"editor.wordHighlightBorder":"#5A5A5A",				// 090,090,090
