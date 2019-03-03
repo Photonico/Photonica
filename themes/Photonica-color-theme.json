@@ -26,7 +26,7 @@
         //"titleBar.border":"#3C3C3C",					// 060,060,060
 
         // Editor 
-        "editor.background":"#FFFFFF",							// 255,255,255
+        "editor.background":"#FEFEFE",							// 254,254,254
         "editor.foreground":"#0A0A0A",							// 010,010,010
         //"editor.selectionForeground":"#F0F0F0",				// 240,240,240
         "editor.selectionBackground":"#D2F0FF", 				// 210,240,255
@@ -86,7 +86,7 @@
         "terminal.foreground": "#141414",           // 020,020,020
         "terminal.ansiBlack": "#000000",            // 000,000,000
         "terminal.ansiRed": "#DC6464",              // 220,100,100
-        "terminal.ansiGreen": "#96BE64",            // 150,190,100
+        "terminal.ansiGreen": "#64B450",            // 100,180,080
         "terminal.ansiYellow": "#F0AA3C",           // 240,170,060
         "terminal.ansiBlue": "#3296E1",             // 050,150,225
         "terminal.ansiMagenta": "#7864C8",          // 120,100,200
@@ -94,7 +94,7 @@
         "terminal.ansiWhite": "#C8C8C8",            // 200,200,200
         "terminal.ansiBrightBlack": "#646464",		// 100,100,100
         "terminal.ansiBrightRed": "#F06E6E",        // 240,110,110
-        "terminal.ansiBrightGreen": "#8CB450",      // 140,180,080
+        "terminal.ansiBrightGreen": "#78B450",      // 120,180,080
         "terminal.ansiBrightYellow": "#F0AA46",     // 240,170,070
         "terminal.ansiBrightBlue": "#3CA0E6",       // 060,160,230
         "terminal.ansiBrightMagenta": "#A078C8",    // 160,120,200
@@ -145,8 +145,8 @@
         //"editorGroup.focusedEmptyBorder":"#3C3C3C",		// 060,060,060
         "tab.activeBackground":"#FFFFFF",					// 255,255,255
         "tab.activeForeground":"#0A0A0A",					// 010,010,010
-        "tab.inactiveBackground":"#F5F5F5",					// 245,245,245
-        "tab.inactiveForeground":"#0A0A0A",					// 010,010,010
+        "tab.inactiveBackground":"#F0F0F0",					// 240,240,240
+        "tab.inactiveForeground":"#0A0A0A",				    // 010,010,010
         //"tab.activeBorder":"#3C3C3C",						// 060,060,060
         //"tab.unfocusedActiveBorder":"#3C3C3C",			// 060,060,060
         //"tab.activeBorderTop":"#3C3C3C",					// 060,060,060
@@ -162,10 +162,12 @@
         //"tab.inactiveModifiedBorder":"#505050",			// 080,080,080
         //"tab.unfocusedActiveModifiedBorder": "#505050",	// 080,080,080
         //"tab.unfocusedInactiveModifiedBorder":"#505050",  // 080,080,080
+        /*
         "tab.activeBorder": "#88c0d000",
         "tab.unfocusedActiveBorder": "#88c0d000",
         "tab.unfocusedActiveForeground": "#d8dee900",
         "tab.unfocusedInactiveForeground": "#d8dee900",
+        */
 
         // Text
         //"textBlockQuote.background": "#FA9632",			// 250,150,050
@@ -316,7 +318,6 @@
             "settings": 
             {
                 "foreground": "#285078"		// 040,080,120
-                
             }
         },
         {
@@ -332,7 +333,7 @@
             "scope": "constant.numeric.julia",	// 数字 for Julia
             "settings": 
             {
-                "foreground": "#643C64",	    // 100,060,100
+                "foreground": "#2D5AB4"		// 045,090,180
             }
         },
         {
@@ -542,7 +543,7 @@
             "scope": "keyword.operator",	// 运算符
             "settings": 
             {
-                "foreground": "#0078C8"		// 000,120,200
+                "foreground": "#0078B4"		// 000,120,180
 
             }
         },
@@ -555,8 +556,7 @@
             ],
             "settings": 
             {
-                "foreground": "#0078C8"		// 000,120,200
-
+                "foreground": "#0078B4"		// 000,120,180
             }
         },
         {
