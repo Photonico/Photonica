@@ -120,8 +120,8 @@
         "activityBarBadge.foreground":"#FFFFFF",		// 255,255,255
         "activityBar.background":"#E1E1E1",				// 225,225,225
         "activityBar.dropBackground":"#FAFAFA",			// 250,250,250
-        "activityBar.foreground":"#323232",				//050,050,050
-        "activityBar.inactiveForeground":"#646464",		// 100,100,100
+        "activityBar.foreground":"#1E1E1E",				// 030,030,030
+        "activityBar.inactiveForeground":"#505050",		// 080,080,080
         //"activityBar.border":"#00B4FF",					// 000,180,255 
 
         // Side Bar
