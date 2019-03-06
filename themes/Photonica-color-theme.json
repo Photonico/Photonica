@@ -68,10 +68,10 @@
         "walkThrough.embeddedEditorBackground": "#FAFAFA",		// 250,250,250
 
         // Editor Widget
-        "editorWidget.background":"#FAFAFA",			// 250,250,250
+        "editorWidget.background":"#FAFAFA",		    // 250,250,250
         "editorWidget.border":"#C8C8C8",				// 200,200,200
-        //"editorWidget.resizeBorder":"#464646",			// 070,070,070
-        //"editorSuggestWidget.background":"#464646",		// 070,070,070
+        "editorWidget.resizeBorder":"#DCDCDC",			// 220,220,220
+        "editorSuggestWidget.background":"#F0F0F0",		// 240,240,240
 
         //Panel colors
         "panel.background":"#F0F0F0",					// 240,240,240
@@ -79,7 +79,7 @@
         "panelTitle.activeBorder": "#F0F0F0",			// 240,240,240
         "panel.dropBackground": "#FAFAFA",				// 250,250,250
         "panelTitle.activeForeground": "#0064A0", 		// 000,100,160
-        "panelTitle.inactiveForeground": "#0A0A0A",		// 010,010,010P
+        "panelTitle.inactiveForeground": "#0A0A0A",		// 010,010,010
 
         // Terminal Colors
         "terminal.background": "#FAFAFA",			// 250,250,250
@@ -185,7 +185,7 @@
 
         // Dropdown Control
         "dropdown.foreground":"#0A0A0A",			// 010,010,010
-        "dropdown.background":"#FFFFFF",			// 255,255,255
+        "dropdown.background":"#FFFFFF",		    // 255,255,255
         "dropdown.listBackground":"#FFFFFF",		// 255,255,255
         "dropdown.border":"#C8C8C8",				// 200,200,200
     
@@ -222,7 +222,7 @@
         "list.activeSelectionBackground": "#C8F0FA",		// 200,240,250
         "list.activeSelectionForeground": "#0A0A0A",		// 010,010,010
  
-        "list.dropBackground": "#FAFAFA", 				// 250,250,250
+        "list.dropBackground": "#FAFAFA",		        // 250,250,250
         "list.focusBackground": "#FFFFFF",				// 255,255,255
         "list.focusForeground": "#505050",			    // 080,080,080
         "list.highlightForeground": "#6464DC",		    // 100,100,220
