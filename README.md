@@ -2,6 +2,12 @@
 
 ![Photonica](icon.png)
 
+[![Made for VSCode](MadeforVSCode.svg)](https://code.visualstudio.com/)
+[![License: MIT](LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
+[![License: Anti996](LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+![Opensource](OpenSource.svg)
+
 ## About Photonica
 
 A light theme is made for [VS Code](https://code.visualstudio.com/). A light theme for VS code. Its soft colors will be helpful for you to get inspired!
