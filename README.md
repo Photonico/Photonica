@@ -2,11 +2,11 @@
 
 ![Photonica](icon.png)
 
-[![Made for VSCode](MadeforVSCode.svg)](https://code.visualstudio.com/)
-[![License: MIT](LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
-[![License: Anti996](LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![Made for VSCode](https://github.com/ConAntares/About/blob/master/Attachments/MadeforVSCode.svg)](https://code.visualstudio.com/)
+[![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
+[![Anti996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
 
-![Opensource](OpenSource.svg)
+![Opensource](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
 
 ## About Photonica
 
