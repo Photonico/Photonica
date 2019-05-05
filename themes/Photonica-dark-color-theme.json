@@ -341,6 +341,54 @@
 			}
 		},
 		{
+			"name": "[Julia] Keyword Import",
+			"scope": "keyword.control.julia",
+			"settings": 
+			{
+				"foreground": "#FFAA23"
+			}
+		},
+		{
+			"name": "[Julia] Keyword Other",
+			"scope": "keyword.other.julia",
+			"settings": 
+			{
+				"foreground": "#E1C300"
+			}
+		},
+		{
+			"name": "[Julia] Keyword End",
+			"scope": "keyword.control.end.julia",
+			"settings": 
+			{
+				"foreground": "#E1C300"
+			}
+		},
+		{
+			"name": "[Julia] Keyword Control",
+			"scope": "keyword.control.julia",
+			"settings": 
+			{
+				"foreground": "#E1C300"
+			}
+		},
+		{
+			"name": "[Julia] Keyword Function",
+			"scope": "support.function.julia",
+			"settings": 
+			{
+				"foreground": "#78D2FF"
+			}
+		},
+		{
+			"name": "[Julia] Keyword Macro",
+			"scope": "support.function.macro.julia",
+			"settings": 
+			{
+				"foreground": "#78DCC8"
+			}
+		},
+		{
 			"name": "Constant Character",
 			"scope": 
 			[
@@ -457,7 +505,7 @@
 			"scope": "support.function.magic.python",
 			"settings": 
 			{
-				"foreground": "#B4AAFF"
+				"foreground": "#A5A5FF"
 			}
 		},
 		{
@@ -468,7 +516,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#E19BEB"
+				"foreground": "#DC96E1"
 			}
 		},
 		{
@@ -2446,7 +2494,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#D796FA"		// 215,150,250
+				"foreground": "#CD96FF"
 			}
 		},
 		{
