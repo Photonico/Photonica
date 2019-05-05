@@ -10,7 +10,7 @@
 
 ## About Photonica
 
-A light theme is made for [VS Code](https://code.visualstudio.com/). A light theme for VS code. Its soft colors will be helpful for you to get inspired!
+Photonica is made for [VS Code](https://code.visualstudio.com/). It contains both dark theme and light theme. Its soft colors will be helpful for you to get inspired!
 
 ## Getting started
 
@@ -37,19 +37,29 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 ## Screenshot
 
-Python:
+Dark(Python):
 
-![Python](screenshots/Python.png)
+![Dark(Python)](screenshots/Dark_Python.png)
+
+Light(Python):
+
+![Light(Python)](screenshots/Light_Python.png)
 
 ## Preferences shown in the screenshots
 
 * The font  is [Fira Mono](https://github.com/mozilla/Fira).
 
+* The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+
+* The extension which match brackets to be identified with colours is [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
+
+## Acknowledgment
+
+* The dark theme is inspired by the [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula).
+
 ## More information
 
-* This theme is open source via  [GitHub Repository](https://github.com/ConAntares/Photonica/). I will feel happy if someone can develop his themes based on Photonica.
-
-* If you like dark themes, please get to know [Luke Dark Theme](https://marketplace.visualstudio.com/items?itemName=ConAntares.luke-dark-theme).
+* These themes is open source via  [GitHub Repository](https://github.com/ConAntares/Photonica/). I will feel happy if someone can develop his themes based on Photonica.
 
 ## License
 

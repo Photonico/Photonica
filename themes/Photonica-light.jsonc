@@ -1,13 +1,15 @@
 /* 	
     Photonica
 
-     Copyright Luke Niu
-     LukeNiu@outlook.com
+    Copyright Luke Niu
+    LukeNiu@outlook.com
     Github.com/Conantares
 */
 
+// Inspect TM Scope: >tm scope
+
 { 
-    "name": "Photonica",
+    "name": "Photonica Light",
     "type": "light",
     "colors": 
     {
@@ -19,11 +21,9 @@
 
         // Title Bar
         "titleBar.activeBackground":"#E1E1E1",			// 225,225,225
-        //"titleBar.activeBackground":"#000000",			// 000,000,000
         "titleBar.activeForeground":"#000000",			// 000,000,000
         "titleBar.inactiveBackground":"#E1E1E1",		// 225,225,225
         "titleBar.inactiveForeground":"#646464",		// 100,100,100
-        //"titleBar.border":"#3C3C3C",					// 060,060,060
 
         // Editor 
         "editor.background":"#FEFEFE",							// 254,254,254
