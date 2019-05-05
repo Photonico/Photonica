@@ -268,11 +268,11 @@
 	[
 		{
 			"name": "Text",
-			"scope": "", 	// 通用字符
+			"scope": "",
 			"settings": 
 			{
-				"foreground": "#DCDCDC"		// 220,220,220
-				}
+				"foreground": "#D7D7D7"		// 215,215,215
+			}
 		},
 		{
 			"name": "Comment",
@@ -453,6 +453,14 @@
 			}
 		},
 		{
+			"name": "[Python] Support Function Magic",
+			"scope": "support.function.magic.python",
+			"settings": 
+			{
+				"foreground": "#B4AAFF"
+			}
+		},
+		{
 			"name": "[Python] Special Self",
 			"scope": 
 			[
@@ -460,7 +468,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#BEAAFA"				// 190,170,250
+				"foreground": "#E19BEB"
 			}
 		},
 		{
@@ -649,8 +657,7 @@
 			"settings": 
 			{
 				"fontStyle": "",
-				//"foreground": "#BE96B4"		// 190,150,180
-				"foreground": "#DCB4DC",		// 220,180,220
+				"foreground": "#F0B4DC",		// 240,180,220
 			}
 		},
 		{
@@ -682,14 +689,12 @@
 			}
 		},
 		{
-				"name": "Meta Preprocessor",
-				"scope": "meta.preprocessor",
-				"settings": 
-				{
-				//"foreground": "#6482B4"		// 100,130,180
-				//"foreground": "#64B4FF"		// 100,180,255
+			"name": "Meta Preprocessor",
+			"scope": "meta.preprocessor",
+			"settings": 
+			{
 				"foreground": "#96C8FF"		// 150,200,255
-				}
+			}
 		},
 		{
 			"name": "Preprocessor At Rule",
@@ -886,38 +891,32 @@
 			"settings": 
 			{
 				"foreground": "#D2D2D2"		// 210,210,210
-				//"foreground": "#C8D7DC" 	// 200,215,220
-				//"foreground": "#fd0101" 	// 200,215,220
 			}
 		},
 		{
-				"name": "Punctuation Definition Tag",
-				"scope": "punctuation.definition.tag",
-				"settings": 
-				{
+			"name": "Punctuation Definition Tag",
+			"scope": "punctuation.definition.tag",
+			"settings": 
+			{
 				"foreground": "#D2D2D2"		// 210,210,210
-				//"foreground": "#fffb00" 	// 200,215,220
-				//"foreground": "#F0C864"		// 240,200,100
-				}
+			}
 		},
 		{
-				"name": "Punctuation Definition Comment",	// 备注的标识符
-				"scope": 
-				[
+			"name": "Punctuation Definition Comment",	// 备注的标识符
+			"scope": 
+			[
 				"punctuation.definition.comment",
 				"punctuation.end.definition.comment",
 				"punctuation.start.definition.comment"
-				],
+			],
 			"settings": 
 			{
-				//"foreground": "#78B4B4" 	// 120,180,180
 				"foreground": "#A0A0A0" 	// 160,160,160
-
-				}
+			}
 		},
 		{
-				"name": "Punctuation Section",
-				"scope": "punctuation.section",
+			"name": "Punctuation Section",
+			"scope": "punctuation.section",
 			"settings": 
 			{
 				"foreground": "#D2D2D2"		// 210,210,210
@@ -1064,7 +1063,7 @@
 			"scope": "storage.type",
 			"settings": 
 			{
-				"foreground": "#F0DC3C"		//240,220,060
+				"foreground": "#EBDC3C"
 			}
 		},
 
@@ -1090,14 +1089,14 @@
 			"settings": 
 			{
 				"foreground": "#FAC864"			// 250,200,100
-				}
+			}
 		},
 		{
 			"name": "Support Console",
 			"scope": "support.class.console.js",
 			"settings": 
 			{
-				"foreground": "#FAC864"			// 250,200,100
+				"foreground": "#DCA0FF"			// 220,160,255
 			}
 		},
 		
@@ -1106,7 +1105,7 @@
 			"scope": "support.function.console.js",
 			"settings": 
 			{
-				"foreground": "#FAC864"			// 250,200,100
+				"foreground": "#B4A0FF"			// 180,160,255
 			}
 		},
 		{
@@ -1489,7 +1488,6 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#96B48C"		// 150,180,140
 				"foreground": "#A0DCDC"		// 180,220,220
 			}
 		},
@@ -1711,22 +1709,28 @@
 				}
 		},
 		{
-				"name": "[diff] Punctuation Definition Separator",
-				"scope": "source.diff punctuation.definition.separator",
-						"settings": 
-						{
-					"foreground": "#82A0C8"    // 130,160,200
-				}
+			"name": "[diff] Punctuation Definition Separator",
+			"scope": "source.diff punctuation.definition.separator",
+			"settings": 
+			{
+				"foreground": "#82A0C8"    // 130,160,200
+			}
 		},
-	
 		{
 				"name": "[Go] String Format Placeholder",
 				"scope": "source.go constant.other.placeholder.go",
-						"settings": 
-						{
-				//"foreground": "#F0C88C"    // 240,200,140
+				"settings": 
+				{
 				"foreground": "#C8D7DC" 	// 200,215,220
 				}
+		},
+		{
+			"name": "[Java] Meta Class",
+			"scope": "storage.modifier.java",
+			"settings": 
+			{
+				"foreground": "#E6AAFF"
+			}
 		},
 		{
 				"name": "[Java](JavaDoc) Comment Block Documentation HTML Entities",
@@ -1749,143 +1753,136 @@
 		{
 				"name": "[Java](JavaDoc) Keyword Other Documentation",
 				"scope": "source.java keyword.other.documentation",
-						"settings": 
-						{
-				//"foreground": "#96BEBE"    // 150,190,190
-				"foreground": "#B4dCA0"		// 180,220,160
+				"settings": 
+				{
+					"foreground": "#B4dCA0"		// 180,220,160
 				}
 		},
 		{
 				"name": "[Java](JavaDoc) Keyword Other Documentation Author",
 				"scope": "source.java keyword.other.documentation.author.javadoc",
-						"settings": 
-						{
+				"settings": 
+				{
 				"foreground": "#B4dCA0"		// 180,220,160
 				}
 		},
 		{
 				"name": "[Java](JavaDoc) Keyword Other Documentation Directive/Custom",
-						"scope": 
-						[
+				"scope": 
+				[
 					"source.java keyword.other.documentation.directive",
 					"source.java keyword.other.documentation.custom"
 				],
-						"settings": 
-						{
+				"settings": 
+				{
 				"foreground": "#FF7800"		// 255,120,000
 				}
 		},
 		{
 				"name": "[Java](JavaDoc) Keyword Other Documentation See",
 				"scope": "source.java keyword.other.documentation.see.javadoc",
-						"settings": 
-						{
-				"foreground": "#FF7800"		// 255,120,000
+				"settings": 
+				{
+					"foreground": "#FF7800"		// 255,120,000
 				}
 		},
 		{
 				"name": "[Java] Meta Method-Call",
 				"scope": "source.java meta.method-call meta.method",
-						"settings": 
-						{
-				"foreground": "#8CC8DC"    // 240,200,140
+				"settings": 
+				{
+					"foreground": "#8CC8DC"    // 240,200,140
 				}
 		},
 		{
 				"name": "[Java](JavaDoc) Meta Tag Template Link",
-						"scope": 
-						[
+				"scope": 
+				[
 					"source.java meta.tag.template.link.javadoc",
 					"source.java string.other.link.title.javadoc"
 				],
-						"settings": 
-						{
-				//"foreground": "#96BEBE"    // 150,190,190
-				"foreground": "#AA8CAF"		// 170,140,175
+				"settings": 
+				{
+					"foreground": "#AA8CAF"		// 170,140,175
 				}
 		},
 		{
 				"name": "[Java](JavaDoc) Meta Tag Template Value",
 				"scope": "source.java meta.tag.template.value.javadoc",
-						"settings": 
-						{
-				//"foreground": "#8CC8DC"    // 240,200,140
+				"settings": 
+				{
 				"foreground": "#B4DCB4"		// 180,220,180
 				}
 		},
 		{
 				"name": "[Java](JavaDoc) Punctuation Definition Keyword",
 				"scope": "source.java punctuation.definition.keyword.javadoc",
-						"settings": 
-						{
-				//"foreground": "#96BEBE"    // 150,190,190
+				"settings": 
+				{
+
 				"foreground": "#96AABE"		// 150,170,190
 				}
 		},
 		{
 				"name": "[Java](JavaDoc) Punctuation Definition Tag",
-						"scope": 
-						[
+				"scope": 
+				[
 					"source.java punctuation.definition.tag.begin.javadoc",
 					"source.java punctuation.definition.tag.end.javadoc"
 				],
-						"settings": 
-						{
-				//"foreground": "#505A64"    // 080,090,100
+					"settings": 
+				{
 				"foreground": "#B4DCB4"		// 180,220,180
 				}
 		},
 		{
 				"name": "[Java] Storage Modifier Import",
 				"scope": "source.java storage.modifier.import",
-						"settings": 
-						{
+				"settings": 
+				{
 					"foreground": "#96BEBE"    // 150,190,190
 				}
 		},
 		{
 				"name": "[Java] Storage Modifier Package",
 				"scope": "source.java storage.modifier.package",
-						"settings": 
-						{
+				"settings": 
+				{
 					"foreground": "#96BEBE"    // 150,190,190
 				}
 		},
 		{
 				"name": "[Java] Storage Type",
 				"scope": "source.java storage.type",
-						"settings": 
-						{
+				"settings": 
+				{
 					"foreground": "#96BEBE"    // 150,190,190
 				}
 		},
 		{
 				"name": "[Java] Storage Type Annotation",
 				"scope": "source.java storage.type.annotation",
-						"settings": 
-						{
+				"settings": 
+				{
 					"foreground": "#C8646E"		// 200,100,100
 				}
 		},
 		{
 				"name": "[Java] Storage Type Generic",
 				"scope": "source.java storage.type.generic",
-						"settings": 
-						{
-				//"foreground": "#FAC832" 	//250,200,050
-				"foreground": "#F0C864"		// 240,200,100
+				"settings": 
+				{
+					"foreground": "#F0C864"		// 240,200,100
 				}
 		},
 		{
 				"name": "[Java] Storage Type Primitive",
 				"scope": "source.java storage.type.primitive",
-						"settings": 
-						{
-				//"foreground": "#FAC832" 	//250,200,050
-				"foreground": "#F0C864"		// 240,200,100
+				"settings": 
+				{
+					"foreground": "#DCEB78"
 				}
 		},
-		
 		{
 				"name": "[JavaScript] Decorator",
 						"scope": 
@@ -2168,20 +2165,20 @@
 			}
 		},
 		{
-				"name": "[INI] Entity Name Section Group-Title",
-				"scope": "source.properties entity.name.section.group-title.ini",
-						"settings": 
-						{
-					"foreground": "#8CC8DC"    // 240,200,140
-				}
+			"name": "[INI] Entity Name Section Group-Title",
+			"scope": "source.properties entity.name.section.group-title.ini",
+			"settings": 
+			{
+				"foreground": "#8CC8DC"    // 240,200,140
+			}
 		},
 		{
-				"name": "[INI] Punctuation Separator Key-Value",
-				"scope": "source.properties punctuation.separator.key-value.ini",
-						"settings": 
-						{
-					"foreground": "#C8D7DC" 	// 200,215,220
-				}
+			"name": "[INI] Punctuation Separator Key-Value",
+			"scope": "source.properties punctuation.separator.key-value.ini",
+			"settings": 
+			{
+				"foreground": "#C8D7DC" 	// 200,215,220
+			}
 		},
 
 
@@ -2552,7 +2549,31 @@
 			"scope": "keyword.control.export.ts, keyword.control.flow.ts",
 			"settings": 
 			{
-				"foreground": "#F07828" 	// 240,120,040
+				"foreground": "#FA8C28"
+			}
+		},
+		{
+			"name": "[TypeScript] Arrow",
+			"scope": "storage.type.function.arrow.ts",
+			"settings": 
+			{
+				"foreground": "#C8C8FF"
+			}
+		},
+		{
+			"name": "[TypeScript] Types",
+			"scope": "storage.type.ts",
+			"settings": 
+			{
+				"foreground": "#A0F0FF"
+			}
+		},
+		{
+			"name": "[TypeScript] Types",
+			"scope": "entity.name.function.ts",
+			"settings": 
+			{
+				"foreground": "#A0CDFF"
 			}
 		},
 		{
@@ -2579,8 +2600,15 @@
 			"scope": "storage.modifier.ts",
 			"settings": 
 			{
-				//"foreground": "#C8646E" 	// 200,100,110
-				"foreground": "#96BEBE"    // 150,190,190
+				"foreground": "#9BFAFA"
+			}
+		},
+		{
+			"name": "[TypeScript] TS Math",
+			"scope": "support.function.math.ts",
+			"settings": 
+			{
+				"foreground": "#DCB4FF"
 			}
 		},
 		{
@@ -2600,12 +2628,12 @@
 				}
 		},
 		{
-				"name": "[TypeScript] Class",
+			"name": "[TypeScript] Class",
 			"scope": 
 			[
 				"source.ts support.class", 
 				"source.ts entity.name.class"
-				],
+			],
 			"settings": 
 			{
 				"foreground": "#FAC864"		// 250,200,100
@@ -3019,7 +3047,6 @@
 			"settings": 
 			{
 				"fontStyle": "bold",
-				//"foreground": "#F07828" 	// 240,120,040
 				"foreground": "#FF7800"		// 255,120,000
 			}
 		},
@@ -3048,6 +3075,105 @@
 				"foreground": "#C8D7DC" 	// 200,215,220
 			}
 		},
-
+		{
+			"name": "[LaTeX] Support Class",
+			"scope": 
+			[
+				"support.class.latex",
+			],
+			"settings": 
+			{
+				"foreground": "#D2A0FF"			// 210,160,255
+			}
+		},
+		{
+			"name": "[LaTeX] Support Math",
+			"scope": 
+			[
+				"support.class.math.latex",
+			],
+			"settings": 
+			{
+				"foreground": "#DCA0FA"			// 220,160,250
+			}
+		},
+		{
+			"name": "[LaTeX] Support Math",
+			"scope": 
+			[
+				"support.class.math.block.environment.latex",
+				"support.class.math.block.tex",
+			],
+			"settings": 
+			{
+				"foreground": "#A0DCFF"			// 160,200,255
+			}
+		},
+		{
+			"name": "[LaTeX] Character",
+			"scope": 
+			[
+				"constant.character.math.tex",
+			],
+			"settings": 
+			{
+				"foreground": "#DCB4FF"
+			}
+		},
+		{
+			"name": "[LaTeX] General Function",
+			"scope": 
+			[
+				"support.function.general.tex",
+			],
+			"settings": 
+			{
+				"foreground": "#50C8FF"
+			}
+		},
+		{
+			"name": "[LaTeX] New Line",
+			"scope": 
+			[
+				"keyword.control.newline.tex",
+			],
+			"settings": 
+			{
+				"foreground": "#96B4FA"
+			}
+		},
+		{
+			"name": "[Gnuplot] Class",
+			"scope": 
+			[
+				"support.class.options.gnuplot",
+			],
+			"settings": 
+			{
+				"foreground": "#96D2FF"
+			}
+		},
+		{
+			"name": "[Gnuplot] Type",
+			"scope": 
+			[
+				"storage.type.plot.gnuplot",
+			],
+			"settings": 
+			{
+				"foreground": "#D2AAFA"
+			}
+		},
+		{
+			"name": "[Gnuplot] Keyword",
+			"scope": 
+			[
+				"keyword.other.command.gnuplot",
+			],
+			"settings": 
+			{
+				"foreground": "#F0BE00"
+			}
+		},
 	]
 }
