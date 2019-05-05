@@ -1,6 +1,6 @@
 # Photonica
 
-![Photonica](icon.png)
+![Photonica](logo.png)
 
 <!-- [![Made for VSCode](https://github.com/ConAntares/About/blob/master/Attachments/MadeforVSCode.svg)](https://code.visualstudio.com/)
 [![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
