@@ -37,13 +37,13 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 ## Screenshot
 
-Dark(Python):
+Dark (Python):
 
-![Dark(Python)](screenshots/Dark_Python.png)
+![Dark (Python)](screenshots/Dark_Python.png)
 
-Light(Python):
+Light (Python):
 
-![Light(Python)](screenshots/Light_Python.png)
+![Light (Python)](screenshots/Light_Python.png)
 
 ## Preferences shown in the screenshots
 
