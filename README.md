@@ -59,7 +59,7 @@ Light (Python):
 
 ## More information
 
-* These themes is open source via  [GitHub Repository](https://github.com/ConAntares/Photonica/). I will feel happy if someone can develop his themes based on Photonica.
+* Photonica is open source via  [GitHub Repository](https://github.com/ConAntares/Photonica/). I will feel happy if someone can develop his themes based on Photonica.
 
 ## License
 
