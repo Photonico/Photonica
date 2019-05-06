@@ -4,7 +4,7 @@
     "displayName": "Photonica",
     "description": "Photonica themes for VS code. Its soft colors will be helpful for you to get inspired.",
     "repository": "https://github.com/ConAntares/Photonica",
-    "version": "0.3.5",
+    "version": "0.3.4",
     "icon": "icon.png",
     "categories": 
     [
@@ -33,7 +33,7 @@
     },
     "galleryBanner": 
     {
-        "color": "#A0E6F0",
+        "color": "#ECF0F4",
         "theme": "light"
     }
 }
