@@ -12,7 +12,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 * Merge theme [Luke Dark Theme](https://marketplace.visualstudio.com/items?itemName=ConAntares.luke-dark-theme).
 
-## 0.0.1 @ Feb. 3, 2019
+## 0.0.1 @ Feb. 17, 2019
 
 * Initial release!
 
