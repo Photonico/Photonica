@@ -30,5 +30,10 @@
                 "path": "./themes/Photonica-light-color-theme.json"
             }
         ]
+    },
+    "galleryBanner": 
+    {
+        "color": "#A0E6F0",
+        "theme": "light"
     }
 }
