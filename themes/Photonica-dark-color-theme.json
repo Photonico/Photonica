@@ -597,7 +597,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#C896EB"
+				"foreground": "#CDA5FF"
 			}
 		},
 		{
@@ -621,7 +621,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#8CDCFF"
+				"foreground": "#8CD2FF"
 			}
 		},
 		{
@@ -629,7 +629,7 @@
 			"scope": "source.python support.type",
 			"settings": 
 			{
-				"foreground": "#E182D2"
+				"foreground": "#DCA0EB"
 			}
 		},
 		{
@@ -873,9 +873,9 @@
 			"settings": 
 			{
 				"fontStyle": "",
-				"foreground": "#F0B4DC",		// 240,180,220
+				"foreground": "#E6DCFF",
 			}
-		},
+		},		
 		{
 			"name": "Link Text",
 			"scope": "string.other.link",
@@ -1276,19 +1276,19 @@
 			"scope": "variable.parameter",
 			"settings": 
 			{
-				"foreground": "#5ABEFF"		// 100,200,240
+				"foreground": "#5ACDFF"	
 			}
 		},
 		{
 			"name": "Variable Parameter Function",
 			"scope": 
 			[
-				"variable.parameter.function", 	// Variable in Python
-				"text.html.basic",				// Variable in html
+				"variable.parameter.function",
+				"text.html.basic",
 			],
 			"settings": 
 			{
-				"foreground": "#5ABEFF"		// 100,200,240
+				"foreground": "#5ACDFF"	
 			}
 		},
 		{
@@ -1296,7 +1296,7 @@
 			"scope": "punctuation.definition.variable",
 			"settings": 
 			{
-				"foreground": "#5ABEFF"		// 100,200,240
+				"foreground": "#5ACDFF"
 			}
 		},
 		
@@ -1321,7 +1321,7 @@
 			"scope": "string",
 			"settings": 
 			{
-				"foreground": "#A0CDA0"
+				"foreground": "#A5C396"
 			}
 		},
 		{
@@ -3283,7 +3283,7 @@
 			"scope": "punctuation.definition.variable.elixir",
 			"settings": 
 			{
-				"foreground": "#C8D7DC" 	// 200,215,220
+				"foreground": "#C8D7DC"
 			}
 		},
 		{
@@ -3294,7 +3294,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#D2A0FF"			// 210,160,255
+				"foreground": "#78E6FF"
 			}
 		},
 		{
@@ -3305,7 +3305,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#DCA0FA"			// 220,160,250
+				"foreground": "#DCA0FA"
 			}
 		},
 		{
@@ -3328,7 +3328,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#DCB4FF"
+				"foreground": "#DCB4F0"
 			}
 		},
 		{
@@ -3339,7 +3339,53 @@
 			],
 			"settings": 
 			{
-				"foreground": "#50C8FF"
+				"foreground": "#DCB4F0"
+			}
+		},
+		{
+			"name": "[LaTeX] Be Function",
+			"scope": 
+			[
+				"support.function.be.latex",
+			],
+			"settings": 
+			{
+				"foreground": "#5AD7FF"
+			}
+		},
+		{
+			"name": "[LaTeX] Textit Function",
+			"scope": 
+			[
+				"support.function.textit.latex",
+			],
+			"settings": 
+			{
+				"foreground": "#78E1B4"
+			}
+		},
+		
+		{
+			"name": "[LaTeX] Parameter Function",
+			"scope": 
+			[
+				"variable.parameter.function.latex",
+			],
+			"settings": 
+			{
+				"foreground": "#78EBD7"
+			}
+		},
+		{
+			"name": "[LaTeX] Table",
+			"scope": 
+			[
+				"keyword.control.table.cell.latex",
+				"keyword.control.table.newline.latex"
+			],
+			"settings": 
+			{
+				"foreground": "#96BEFF"
 			}
 		},
 		{
@@ -3350,9 +3396,34 @@
 			],
 			"settings": 
 			{
-				"foreground": "#96B4FA"
+				"foreground": "#96BEFF"
 			}
 		},
+		
+		{
+			"name": "[LaTeX] Section Function",
+			"scope": 
+			[
+				"support.function.section.latex",
+			],
+			"settings": 
+			{
+				"foreground": "#BEBEFF"
+			}
+		},
+		{
+			"name": "[LaTeX] Item",
+			"scope": 
+			[
+				"keyword.other.item.latex",
+			],
+			"settings": 
+			{
+				"foreground": "#DC96BE"
+			}
+		},
+		
+
 		{
 			"name": "[Gnuplot] Class",
 			"scope": 
@@ -3384,6 +3455,18 @@
 			"settings": 
 			{
 				"foreground": "#F0BE00"
+			}
+		},
+		{
+			"name": "[LaTeX] Headings",
+			"scope": 
+			[
+				"entity.name.section.latex", 
+			],
+			"settings": 
+			{
+				"fontStyle": "",
+				"foreground": "#E6DCFF",
 			}
 		},
 	]
