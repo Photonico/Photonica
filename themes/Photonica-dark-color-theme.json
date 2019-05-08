@@ -3458,6 +3458,19 @@
 			}
 		},
 		{
+			"name": "[Gnuplot] Escape",
+			"scope": 
+			[
+				"constant.character.escape.gnuplot",
+			],
+			"settings": 
+			{
+				"foreground": "#A5C396"
+			}
+		},
+
+		
+		{
 			"name": "[LaTeX] Headings",
 			"scope": 
 			[
