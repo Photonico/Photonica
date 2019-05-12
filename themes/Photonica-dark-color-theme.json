@@ -352,7 +352,7 @@
 			"scope": "keyword.other.julia",
 			"settings": 
 			{
-				"foreground": "#E1C300"
+				"foreground": "#E6CD4B"
 			}
 		},
 		{
@@ -360,7 +360,7 @@
 			"scope": "keyword.control.end.julia",
 			"settings": 
 			{
-				"foreground": "#E1C300"
+				"foreground": "#E6CD4B"
 			}
 		},
 		{
@@ -368,7 +368,7 @@
 			"scope": "keyword.control.julia",
 			"settings": 
 			{
-				"foreground": "#E1C300"
+				"foreground": "#E6CD4B"
 			}
 		},
 		{
@@ -409,7 +409,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#C8B4FF"		// 200,180,255
+				"foreground": "#C3AFF0"		// 200,180,255
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			{
 				"foreground": "#78C8F0"		// 120,200,240
 			}
-		},
+		},		
 		{
 			"name": "[Python] Entity Name Function",
 			"scope": 
@@ -545,7 +545,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#64B9FF"
+				"foreground": "#C3A0F0"
 			}
 		},
 		{
@@ -556,7 +556,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#FF9100"
+				"foreground": "#F0A000"
 			}
 		},
 		{
@@ -578,7 +578,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#F0D74B"
+				"foreground": "#E6CD4B"
 			}
 		},
 		{
@@ -621,7 +621,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#8CD2FF"
+				"foreground": "#5ABEE6"
 			}
 		},
 		{
@@ -629,7 +629,7 @@
 			"scope": "source.python support.type",
 			"settings": 
 			{
-				"foreground": "#DCA0EB"
+				"foreground": "#D79BE6"
 			}
 		},
 		{
@@ -773,7 +773,7 @@
 			"scope": "keyword",
 			"settings": 
 			{
-				"foreground": "#FFA500"
+				"foreground": "#F0A500"
 			}
 		},
 		{
@@ -874,6 +874,7 @@
 			{
 				"fontStyle": "",
 				"foreground": "#E6DCFF",
+				//"foreground": "#B4C8DC",
 			}
 		},		
 		{
@@ -1276,7 +1277,7 @@
 			"scope": "variable.parameter",
 			"settings": 
 			{
-				"foreground": "#5ACDFF"	
+				"foreground": "#A0BEF0"	
 			}
 		},
 		{
@@ -1288,7 +1289,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#5ACDFF"	
+				"foreground": "#A0BEF0"	
 			}
 		},
 		{
@@ -1296,7 +1297,7 @@
 			"scope": "punctuation.definition.variable",
 			"settings": 
 			{
-				"foreground": "#5ACDFF"
+				"foreground": "#A0BEF0"
 			}
 		},
 		
@@ -1374,7 +1375,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#78DCE1"	
+				"foreground": "#6EE1E1"	
 			}
 		},
 		{
@@ -1382,7 +1383,7 @@
 			"scope": "support.function.construct",
 			"settings": 
 			{
-				"foreground": "#78DCE1"
+				"foreground": "#6EE1E1"
 			}
 		},
 		{
