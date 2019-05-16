@@ -336,7 +336,7 @@
 			"scope": "constant.numeric.julia",	// 数字 for Julia
 			"settings": 
 			{
-				"foreground": "#DCB4DC" 	// 220,180,220
+				"foreground": "#CDB4CD"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 			"scope": "support.function.julia",
 			"settings": 
 			{
-				"foreground": "#78D2FF"
+				"foreground": "#5ABEE6"
 			}
 		},
 		{
@@ -384,7 +384,40 @@
 			"scope": "support.function.macro.julia",
 			"settings": 
 			{
-				"foreground": "#78DCC8"
+				"foreground": "#AABEFF"
+			}
+		},
+		{
+			"name": "[Julia] Entity Name Function",
+			"scope": 
+			[
+				"entity.name.function.julia",
+			],
+			"settings": 
+			{
+				"foreground": "#B9AFFF",
+			}
+		},
+		{
+			"name": "[Julia] Entity Name Function",
+			"scope": 
+			[
+				"entity.name.function.julia",
+			],
+			"settings": 
+			{
+				"foreground": "#BEAAFA",			// 190,170,250
+			}
+		},
+		{
+			"name": "[Julia] Entity Name Function",
+			"scope": 
+			[
+				"variable.interpolation.julia",
+			],
+			"settings": 
+			{
+				"foreground": "#A0BEF0",
 			}
 		},
 		{
@@ -409,7 +442,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#C3AFF0"		// 200,180,255
+				"foreground": "#B9AAEB"
 			}
 		},
 		{
@@ -417,7 +450,7 @@
 			"scope": "constant.character.escape",
 			"settings": 
 			{
-				"foreground": "#8CB4B4"		// 140,80,180
+				"foreground": "#8CB4BE"
 			}
 		},
 		{
@@ -545,9 +578,21 @@
 			],
 			"settings": 
 			{
-				"foreground": "#C3A0F0"
+				"foreground": "#C8BEE6"
 			}
 		},
+		{
+			"name": "[Python] Storage Type Format Python",
+			"scope": 
+			[
+				"storage.type.format.python",
+			],
+			"settings": 
+			{
+				"foreground": "#96C8DC"
+			}
+		},
+		
 		{
 			"name": "[Python] Keyword Import",
 			"scope": 
@@ -597,7 +642,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#CDA5FF"
+				"foreground": "#DCA5EB"
 			}
 		},
 		{
@@ -629,7 +674,7 @@
 			"scope": "source.python support.type",
 			"settings": 
 			{
-				"foreground": "#D79BE6"
+				"foreground": "#C3A5F0"
 			}
 		},
 		{
@@ -640,7 +685,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#AFA5FF"
+				"foreground": "#B9B9FF"
 			}
 		},
 		{
@@ -662,7 +707,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#78D2AA"
+				"foreground": "#82CDAF"
 			}
 		},
 		{
@@ -687,18 +732,19 @@
 				"foreground": "#8CB4F0"
 			}
 		},
-		
 		{
-			"name": "[Julia] Entity Name Function",
+			"name": "[Python] Placeholder",
 			"scope": 
 			[
-				"entity.name.function.julia",
+				"constant.character.format.placeholder.other.python"
 			],
 			"settings": 
 			{
-				"foreground": "#BEAAFA",			// 190,170,250
+				"foreground": "#A0C8FF"
 			}
 		},
+		
+
 		{
 			"name": "Methods",
 			"scope": "keyword.other.special-method",
@@ -756,7 +802,7 @@
 			"scope": "invalid.deprecated",
 			"settings": 
 			{
-				"foreground": "#B4B4B4"		// 180,180,180
+				"foreground": "#B4B4B4"
 			}
 		},
 		
@@ -765,7 +811,7 @@
 			"scope": "invalid.illegal",
 			"settings": 
 			{
-				"foreground": "#C86478",		// 255,100,120
+				"foreground": "#DC788C",
 			}
 		},
 		{
@@ -840,12 +886,12 @@
 				}
 		},
 		{
-				"name": "Markup Inserted",
-				"scope": "markup.inserted",
+			"name": "Markup Inserted",
+			"scope": "markup.inserted",
 			"settings": 
 			{
-				"foreground": "#A0BE8C"		// 160,190,140
-				}
+				"foreground": "#A0BE96"
+			}
 		},
 		{
 			"name": "Quotes",
@@ -894,7 +940,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#AA8CAF"		// 170,140,175
+				"foreground": "#B996B9"
 			}
 		},
 		{
@@ -1322,7 +1368,7 @@
 			"scope": "string",
 			"settings": 
 			{
-				"foreground": "#A5C396"
+				"foreground": "#A0BE96"
 			}
 		},
 		{
@@ -1330,8 +1376,8 @@
 			"scope": "string.regexp",
 			"settings": 
 			{
-				"foreground": "#B4DCB4"		// 180,220,180
-				}
+				"foreground": "#B4C891"
+			}
 		},
 		{
 			"name": "Support Class",
@@ -1375,7 +1421,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#6EE1E1"	
+				"foreground": "#6EDCE1"	
 			}
 		},
 		{
@@ -1383,24 +1429,24 @@
 			"scope": "support.function.construct",
 			"settings": 
 			{
-				"foreground": "#6EE1E1"
+				"foreground": "#6EDCE1"
 			}
 		},
 		{
-				"name": "Support Type",
-				"scope": "support.type",
-				"settings": 
-				{
-				"foreground": "#C8A0DC"		// 180,160,220
-				}
+			"name": "Support Type",
+			"scope": "support.type",
+			"settings": 
+			{
+				"foreground": "#C8A0E1"		// 180,160,220
+			}
 		},
 		{
-				"name": "Support Type Exception",
-				"scope": "support.type.exception",
+			"name": "Support Type Exception",
+			"scope": "support.type.exception",
 			"settings": 
 			{
 				"foreground": "#FAC864"			// 250,200,100
-				}
+			}
 		},
 		
 		{
@@ -2453,27 +2499,24 @@
 
 
 		{
-				"name": "[Markdown] Markup Fenced Code Block",
-						"scope": 
-						[
-					"text.html.markdown markup.fenced_code.block",
-					"text.html.markdown markup.fenced_code.block punctuation.definition"
-				],
-						"settings": 
-						{
-				//"foreground": "#96BEBE"    // 150,190,190
+			"name": "[Markdown] Markup Fenced Code Block",
+			"scope": 
+			[
+				"text.html.markdown markup.fenced_code.block",
+				"text.html.markdown markup.fenced_code.block punctuation.definition"
+			],
+			"settings": 
+			{
 				"foreground": "#BE96B4"		// 190,150,180
-				}
+			}
 		},
 		{
-				"name": "[Markdown] Markup Heading",
-				"scope": "markup.heading",
-						"settings": 
-						{
-				//"foreground": "#8CC8DC"    // 240,200,140
-				//"foreground": "#BE96B4"		// 190,150,180
-				"foreground": "#DCB4DC",		// 220,180,220
-				}
+			"name": "[Markdown] Markup Heading",
+			"scope": "markup.heading",
+			"settings": 
+			{
+				"foreground": "#CDB4CD",
+			}
 		},
 		{
 			"name": "[Markdown] Markup Inline",
@@ -2861,7 +2904,7 @@
 			],
 				"settings": 
 				{
-				"foreground": "#C8A0DC"		// 180,160,220
+				"foreground": "#C8A0E1"		// 180,160,220
 			}
 		},
 		{
@@ -2874,7 +2917,7 @@
 			],
 				"settings": 
 				{
-				"foreground": "#C8A0DC"		// 180,160,220
+				"foreground": "#C8A0E1"		// 180,160,220
 			}
 			},
 		{
