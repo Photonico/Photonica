@@ -10,7 +10,7 @@
 
 ## About Photonica
 
-[Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) is made for [VS Code](https://code.visualstudio.com/). It contains both dark theme and light theme. Its soft colors will be helpful for you to get inspired!
+:rainbow:[Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) is made for [VS Code](https://code.visualstudio.com/). It contains both dark theme and light theme. Its soft colors will be helpful for you to get inspired!
 
 ## Getting started
 
