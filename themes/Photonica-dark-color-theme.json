@@ -79,8 +79,8 @@
 		"panelTitle.activeBorder": "#373737",			// 055,055,055
 		//"panel.dropBackground": "#2D2D2D",			// 045,045,045
 		//"panelTitle.activeBorder": "#2D2D2D",			// 045,045,045
-		"panelTitle.activeForeground": "#F0F0F0",		// 240,240,240
-		"panelTitle.inactiveForeground": "#D2D2D2",		// 210,210,210
+		"panelTitle.activeForeground": "#FAFAFA",		// 250,250,250
+		"panelTitle.inactiveForeground": "#B4B4B4",		// 180,180,180
 
 		// Terminal Colors
 		"terminal.background":"#313131",			// 049,049,049
@@ -578,7 +578,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#C8BEE6"
+				"foreground": "#BEBEFF"
 			}
 		},
 		{
@@ -685,7 +685,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#B9B9FF"
+				"foreground": "#D2B4D2"
 			}
 		},
 		{
