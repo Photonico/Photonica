@@ -114,6 +114,8 @@
         //"statusBarItem.prominentBackground": "#ff0000",		// 050,100,200
         //"statusBarItem.prominentHoverBackground": "#15ff00",	// 050,100,200
         //"statusBar.border": "#",
+        "statusBarItem.remoteForeground": "#FAFAFA",
+		"statusBarItem.remoteBackground": "#28A0FF",
 
         // Activity Bar
         "activityBarBadge.background": "#00B4FF",		// 000,180,255

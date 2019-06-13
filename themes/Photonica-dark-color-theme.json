@@ -108,13 +108,15 @@
 		"statusBar.debuggingBackground": "#555555",		// 085,085,085
 		"statusBar.debuggingForeground": "#d8dee9",
 		"statusBar.noFolderForeground": "#d8dee9",
-		"statusBar.foreground": "#F0F0F0",						// 240,240,240
-		"statusBarItem.activeBackground": "#282828",			// 040,040,040
-		//"statusBarItem.hoverBackground": "#3264C8",				// 050,100,200
-		"statusBarItem.hoverBackground": "#646464",				// 100,100,100
-		//"statusBarItem.prominentBackground": "#3264C8",			// 050,100,200
+		"statusBar.foreground": "#F0F0F0",				// 240,240,240
+		"statusBarItem.activeBackground": "#282828",	// 040,040,040
+		//"statusBarItem.hoverBackground": "#3264C8",	    // 050,100,200
+		"statusBarItem.hoverBackground": "#646464",		// 100,100,100
+		//"statusBarItem.prominentBackground": "#3264C8",	// 050,100,200
 		//"statusBarItem.prominentHoverBackground": "#3264C8",	// 050,100,200
 		//"statusBar.border": "#",
+		"statusBarItem.remoteForeground": "#FAFAFA",
+		"statusBarItem.remoteBackground": "#5078A0",
 
 		// Activity Bar
 		"activityBarBadge.background": "#00A0FF",		// 000,160,255
@@ -212,9 +214,9 @@
 		//"inputValidation.warningBorder":"#3C3C3C",			// 060,060,060
 
 		// Scrollbar Control
-			"scrollbar.shadow":"#000000ab",						// 000,000,000
-			"scrollbarSlider.activeBackground":"#DCDCDCab",		// 220,220,220
-			"scrollbarSlider.background":"#646464ab",			// 100,100,100
+		"scrollbar.shadow":"#000000ab",						// 000,000,000
+		"scrollbarSlider.activeBackground":"#DCDCDCab",		// 220,220,220
+		"scrollbarSlider.background":"#646464ab",			// 100,100,100
 		"scrollbarSlider.hoverBackground":"#969696ab",		// 150,150,150
 		
 		// Badge
@@ -319,7 +321,7 @@
 			"scope": "constant.numeric",	// 数字
 			"settings": 
 			{
-				"foreground": "#C8DCF0"		// 200,220,240
+				"foreground": "#C8DCF0"
 				
 			}
 		},
@@ -336,7 +338,7 @@
 			"scope": "constant.numeric.julia",	// 数字 for Julia
 			"settings": 
 			{
-				"foreground": "#CDB4CD"
+				"foreground": "#D7AFD2"
 			}
 		},
 		{
@@ -406,7 +408,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#BEAAFA",			// 190,170,250
+				"foreground": "#C8AAFF",
 			}
 		},
 		{
@@ -578,7 +580,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#BEBEFF"
+				"foreground": "#C8AAFF"
 			}
 		},
 		{
@@ -685,7 +687,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#D2B4D2"
+				"foreground": "#D7AFD2"
 			}
 		},
 		{
@@ -707,7 +709,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#82CDAF"
+				"foreground": "#BEBEFF"
 			}
 		},
 		{
@@ -2515,7 +2517,7 @@
 			"scope": "markup.heading",
 			"settings": 
 			{
-				"foreground": "#CDB4CD",
+				"foreground": "#D7AFD2",
 			}
 		},
 		{
