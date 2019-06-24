@@ -350,6 +350,15 @@
 			}
 		},
 		{
+			"name": "[Julia] Keyword Modifier",
+			"scope": "keyword.storage.modifier.julia",
+			"settings": 
+			{
+				"foreground": "#DC8791"
+			}
+		},
+		
+		{
 			"name": "[Julia] Keyword Other",
 			"scope": "keyword.other.julia",
 			"settings": 
