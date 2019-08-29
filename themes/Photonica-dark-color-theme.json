@@ -293,15 +293,15 @@
 				"foreground": "#D2D2D2"		// 210,210,210
 			}
 		},
-		{
-			"name": "Comment Other",
-			"scope": "punctuation.definition.comment",	// 备注前面的标识符号 
-			"settings": 
-			{
-				"foreground": "#8C8C8C",	// 140,140,140
-					"fontStyle": ""
-			}
-		},
+		// {
+		// 	"name": "Comment Other",
+		// 	"scope": "punctuation.definition.comment",	// 备注前面的标识符号 
+		// 	"settings": 
+		// 	{
+		// 		"foreground": "#8C8C8C",	// 140,140,140
+		// 			"fontStyle": ""
+		// 	}
+		// },
 		{
 				"scope": "emphasis",
 				"settings": 
@@ -1185,7 +1185,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#A0A0A0" 	// 160,160,160
+				"foreground": "#AAAAAA" 	// 170,170,170
 			}
 		},
 		{
