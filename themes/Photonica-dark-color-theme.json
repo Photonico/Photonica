@@ -27,7 +27,7 @@
 		//"titleBar.border":"#3C3C3C",					// 060,060,060
 
 		// Editor
-		"editor.background":"#2D2D2D",							// 045,045,045
+		"editor.background":"#232323",							// 035,035,035
 		"editor.foreground":"#DCDCDC",							// 220,220,220
 		//"editor.selectionForeground":"#F0F0F0",				// 240,240,240
 		"editor.selectionBackground":"#5A5A5A",					// 090,090,090
@@ -74,22 +74,23 @@
 		//"editorSuggestWidget.background":"#464646",		// 070,070,070
 
 		//Panel colors
-		"panel.background":"#373737",					// 055,055,055
-		"panel.border": "#373737",						// 055,055,055
-		"panelTitle.activeBorder": "#373737",			// 055,055,055
+		"panel.background":"#323232",					// 050,050,050
+		"panel.border": "#323232",						// 050,050,050
+		"panelTitle.activeBorder": "#323232",			// 050,050,050
 		//"panel.dropBackground": "#2D2D2D",			// 045,045,045
 		//"panelTitle.activeBorder": "#2D2D2D",			// 045,045,045
 		"panelTitle.activeForeground": "#FAFAFA",		// 250,250,250
 		"panelTitle.inactiveForeground": "#B4B4B4",		// 180,180,180
 
 		// Terminal Colors
-		"terminal.background":"#313131",			// 049,049,049
-		"terminal.foreground":"#D2D2D2",			// 210,210,210
-		"terminal.ansiBlack":"#323C50",				// 050,060,080
+		"terminal.background":"#282828",			// 040,040,040
+		//"terminal.border":"#282828",				// 040,040,040
+		"terminal.foreground":"#E6E6E6",			// 230,230,230
+		"terminal.ansiBlack":"#3C3C3C",				// 060,060,060
 		"terminal.ansiRed":"#FF5064",				// 255,080,100
-		"terminal.ansiGreen":"#5AFF46",				// 090,255,070
-		"terminal.ansiYellow":"#FFC81E",			// 255,200,030 
-		"terminal.ansiBlue":"#0078DC",				// 000,120,220
+		"terminal.ansiGreen":"#64F050",				// 100,240,080
+		"terminal.ansiYellow":"#FFC814",			// 255,200,020 
+		"terminal.ansiBlue":"#28A0F5",				// 000,160,245
 		"terminal.ansiMagenta":"#AF8CF0",			// 175,140,240
 		"terminal.ansiCyan":"#28B4B4",				// 040,180,180
 		"terminal.ansiWhite":"#F0F0F0",				// 240,240,240
@@ -97,10 +98,13 @@
 		"terminal.ansiBrightRed":"#FF7878",			// 255,120,120
 		"terminal.ansiBrightGreen":"#C8FF46", 		// 200,255,070
 		"terminal.ansiBrightYellow":"#FFDC64",		// 255,220,100
-		"terminal.ansiBrightBlue":"#00B4FF",		// 000,180,255
-		"terminal.ansiBrightMagenta":"#C88CF0",		// 200,140,240
+		"terminal.ansiBrightBlue":"#3CC8FF",		// 060,200,255
+		"terminal.ansiBrightMagenta":"#C8AFFF",		// 200,175,255
 		"terminal.ansiBrightCyan":"#8CE1E1",		// 140,225,225
 		"terminal.ansiBrightWhite":"#FFFFFF",		// 255,255,255
+		"terminal.selectionBackground":"#6464647e",	// 100,100,100
+		"terminalCursor.background":"#282828",		// 040,040,040
+		"terminalCursor.foreground":"#C8C8C8",		// 200,200,200
 
 		// Status Bar
 		"statusBar.background": "#4B4B4B",				// 075,075,075
@@ -128,7 +132,7 @@
 		"activityBarBadge.foreground":"#F0F0F0",		// 240,240,240
 
 		// Side Bar
-		"sideBar.background": "#373737",				// 055,055,055
+		"sideBar.background": "#323232",				// 050,050,050
 		"sideBar.foreground": "#D2D2D2",				// 210,210,210
 		//"sideBar.border": "#282828",					// 040,040,040
 		//"sideBar.dropBackground": "#282828",			// 040,040,040
@@ -141,18 +145,18 @@
 		"editorGroup.border":"#505050",						// 080,080,080
 		"editorGroup.dropBackground":"#64646475",			// 100,100,100
 		//"editorGroupHeader.noTabsBackground":"#646464",	// 100,100,100
-		"editorGroupHeader.tabsBackground":"#373737",		// 055,055,055
+		"editorGroupHeader.tabsBackground":"#323232",		// 050,050,050
 		//"editorGroupHeader.tabsBorder":"#323232",			// 050,050,050
 		//"editorGroup.emptyBackground":"#3C3C3C",			// 060,060,060
 		//"editorGroup.focusedEmptyBorder":"#3C3C3C",		// 060,060,060
-		"tab.activeBackground":"#2D2D2D",					// 045,045,045
+		"tab.activeBackground":"#232323",					// 035,035,035
 		"tab.activeForeground":"#FFFFFF",					// 255,255,255
 		//"tab.activeBorder":"#3C3C3C",						// 060,060,060
 		//"tab.unfocusedActiveBorder":"#3C3C3C",			// 060,060,060
 		//"tab.activeBorderTop":"#3C3C3C",					// 060,060,060
 		//"tab.unfocusedActiveBorderTop":"#BEBEBE",			// 190,190,190
-		"tab.border":"#373737",								// 055,055,055
-		"tab.inactiveBackground":"#373737",					// 055,055,055
+		"tab.border":"#323232",								// 050,050,050
+		"tab.inactiveBackground":"#323232",					// 050,050,050
 		"tab.inactiveForeground":"#D2D2D2",					// 210,210,210
 		//"tab.unfocusedActiveForeground":"#BEBEBE",		// 190,190,190
 		//"tab.unfocusedInactiveForeground":"#BEBEBE",		// 190,190,190
@@ -169,7 +173,6 @@
 		"tab.unfocusedActiveBorder": "#88c0d000",
 		"tab.unfocusedActiveForeground": "#d8dee999",
 		"tab.unfocusedInactiveForeground": "#d8dee966",
-	
 
 		// Insert
 		"diffEditor.insertedTextBackground": "#a3be8c4d",
@@ -193,7 +196,7 @@
 
 		// Dropdown Control
 		"dropdown.foreground":"#D2D2D2",			// 210,210,210
-		"dropdown.background":"#2D2D2D",			// 045,045,045
+		"dropdown.background":"#282828",			// 040,040,040
 		"dropdown.listBackground":"#323232",		// 050,050,050
 		"dropdown.border":"#414141",				// 065,065,065
 	
@@ -235,9 +238,9 @@
 		//"list.highlightForeground": "#BEBEBE",			// 190,190,190
 		"list.hoverBackground": "#2D2D2D",					// 045,045,045
 		"list.hoverForeground": "#F0F0F0",					// 240,240,240
-		"list.inactiveSelectionBackground": "#414141",		// 065,065,065
+		"list.inactiveSelectionBackground": "#3C3C3C",		// 060,060,060
 		"list.inactiveSelectionForeground": "#F0F0F0",		// 240,240,240
-		"list.inactiveFocusBackground":"#414141",			// 065,065,065
+		"list.inactiveFocusBackground":"#3C3C3C",			// 060,060,060
 		"list.invalidItemForeground": "#DCDCDC",			// 220,220,220
 		"list.warningForeground": "#96B48C",				// 150,180,140
 		"list.errorForeground":"#FF5064",					// 255,080,100
@@ -718,7 +721,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#BEBEFF"
+				"foreground": "#B4B4FF"
 			}
 		},
 		{
@@ -3369,6 +3372,9 @@
 			[
 				"support.class.math.block.environment.latex",
 				"support.class.math.block.tex",
+				"meta.function.environment.math.latex",
+				"meta.function.environment.frame.latex",
+				"text.tex.latex"
 			],
 			"settings": 
 			{
@@ -3463,7 +3469,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#BEBEFF"
+				"foreground": "#B4B4FF"
 			}
 		},
 		{
@@ -3477,7 +3483,17 @@
 				"foreground": "#DC96BE"
 			}
 		},
-		
+		{
+			"name": "[LaTeX] General Math",
+			"scope": 
+			[
+				"constant.other.general.math.tex",
+			],
+			"settings": 
+			{
+				"foreground": "#B4B4FF"
+			}
+		},
 
 		{
 			"name": "[Gnuplot] Class",
