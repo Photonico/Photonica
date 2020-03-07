@@ -15,3 +15,7 @@
 
 * Publish the project:
     `vsce publish` 
+
+* Colors references:  
+    `https://code.visualstudio.com/api/references/theme-color`
+    
