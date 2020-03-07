@@ -20,14 +20,14 @@
 		"selection.background":"#64A0C8", 	// 100,160,200
 
 		// Title Bar
-		"titleBar.activeBackground":"#4B4B4B",			// 075,075,075
+		"titleBar.activeBackground":"#464646",
 		"titleBar.activeForeground":"#F0F0F0",			// 240,240,240
-		"titleBar.inactiveBackground":"#4B4B4B",		// 075,075,075
+		"titleBar.inactiveBackground":"#464646",
 		"titleBar.inactiveForeground":"#B4B4B4",		// 180,180,180
 		//"titleBar.border":"#3C3C3C",					// 060,060,060
 
 		// Editor
-		"editor.background":"#232323",							// 035,035,035
+		"editor.background":"#1E1E1E",
 		"editor.foreground":"#DCDCDC",							// 220,220,220
 		//"editor.selectionForeground":"#F0F0F0",				// 240,240,240
 		"editor.selectionBackground":"#5A5A5A",					// 090,090,090
@@ -68,22 +68,22 @@
 		"walkThrough.embeddedEditorBackground": "#323232",		// 050,050,050
 
 		// Editor Widget
-		"editorWidget.background":"#282828",				// 040,040,040
-		"editorWidget.border":"#4B4B4B",					// 075,075,075
+		"editorWidget.background":"#1E1E1E",
+		"editorWidget.border":"#464646",
 		//"editorWidget.resizeBorder":"#464646",			// 070,070,070
 		//"editorSuggestWidget.background":"#464646",		// 070,070,070
 
 		//Panel colors
-		"panel.background":"#323232",					// 050,050,050
-		"panel.border": "#323232",						// 050,050,050
-		"panelTitle.activeBorder": "#323232",			// 050,050,050
+		"panel.background":"#2D2D2D",
+		"panel.border": "#2D2D2D",
+		"panelTitle.activeBorder": "#2D2D2D",
 		//"panel.dropBackground": "#2D2D2D",			// 045,045,045
 		//"panelTitle.activeBorder": "#2D2D2D",			// 045,045,045
 		"panelTitle.activeForeground": "#FAFAFA",		// 250,250,250
 		"panelTitle.inactiveForeground": "#B4B4B4",		// 180,180,180
 
 		// Terminal Colors
-		"terminal.background":"#282828",			// 040,040,040
+		"terminal.background":"#232323",
 		//"terminal.border":"#282828",				// 040,040,040
 		"terminal.foreground":"#E6E6E6",			// 230,230,230
 		"terminal.ansiBlack":"#3C3C3C",				// 060,060,060
@@ -107,13 +107,13 @@
 		"terminalCursor.foreground":"#C8C8C8",		// 200,200,200
 
 		// Status Bar
-		"statusBar.background": "#4B4B4B",				// 075,075,075
-		"statusBar.noFolderBackground": "#4B4B4B",		// 075,075,075
+		"statusBar.background": "#464646",
+		"statusBar.noFolderBackground": "#464646",
 		"statusBar.debuggingBackground": "#555555",		// 085,085,085
 		"statusBar.debuggingForeground": "#d8dee9",
 		"statusBar.noFolderForeground": "#d8dee9",
 		"statusBar.foreground": "#F0F0F0",				// 240,240,240
-		"statusBarItem.activeBackground": "#282828",	// 040,040,040
+		"statusBarItem.activeBackground": "#2D2D2D",
 		//"statusBarItem.hoverBackground": "#3264C8",	    // 050,100,200
 		"statusBarItem.hoverBackground": "#646464",		// 100,100,100
 		//"statusBarItem.prominentBackground": "#3264C8",	// 050,100,200
@@ -124,7 +124,7 @@
 
 		// Activity Bar
 		"activityBarBadge.background": "#00A0FF",		// 000,160,255
-		"activityBar.background":"#4B4B4B",				// 075,075,075
+		"activityBar.background":"#464646",
 		"activityBar.dropBackground":"#5A5A5A",			// 090,090,090
 		"activityBar.foreground":"#FFFFFF",				// 255,255,255
 		"activityBar.inactiveForeground":"#B4B4B4",		// 180,180,180
@@ -132,12 +132,12 @@
 		"activityBarBadge.foreground":"#F0F0F0",		// 240,240,240
 
 		// Side Bar
-		"sideBar.background": "#323232",				// 050,050,050
+		"sideBar.background": "#2D2D2D",
 		"sideBar.foreground": "#D2D2D2",				// 210,210,210
 		//"sideBar.border": "#282828",					// 040,040,040
 		//"sideBar.dropBackground": "#282828",			// 040,040,040
 		"sideBarTitle.foreground": "#F0F0F0",			// 240,240,240
-		"sideBarSectionHeader.background": "#4B4B4B",	// 075,075,075
+		"sideBarSectionHeader.background": "#464646",
 		"sideBarSectionHeader.foreground": "#FFFFFF",	// 255,255,255
 		//"sideBarSectionHeader.border":"#282828",		// 040,040,040
 
@@ -145,18 +145,18 @@
 		"editorGroup.border":"#505050",						// 080,080,080
 		"editorGroup.dropBackground":"#64646475",			// 100,100,100
 		//"editorGroupHeader.noTabsBackground":"#646464",	// 100,100,100
-		"editorGroupHeader.tabsBackground":"#323232",		// 050,050,050
+		"editorGroupHeader.tabsBackground":"#2D2D2D",
 		//"editorGroupHeader.tabsBorder":"#323232",			// 050,050,050
 		//"editorGroup.emptyBackground":"#3C3C3C",			// 060,060,060
 		//"editorGroup.focusedEmptyBorder":"#3C3C3C",		// 060,060,060
-		"tab.activeBackground":"#232323",					// 035,035,035
+		"tab.activeBackground":"#1E1E1E",
 		"tab.activeForeground":"#FFFFFF",					// 255,255,255
 		//"tab.activeBorder":"#3C3C3C",						// 060,060,060
 		//"tab.unfocusedActiveBorder":"#3C3C3C",			// 060,060,060
 		//"tab.activeBorderTop":"#3C3C3C",					// 060,060,060
 		//"tab.unfocusedActiveBorderTop":"#BEBEBE",			// 190,190,190
-		"tab.border":"#323232",								// 050,050,050
-		"tab.inactiveBackground":"#323232",					// 050,050,050
+		"tab.border":"#2D2D2D",
+		"tab.inactiveBackground":"#2D2D2D",
 		"tab.inactiveForeground":"#D2D2D2",					// 210,210,210
 		//"tab.unfocusedActiveForeground":"#BEBEBE",		// 190,190,190
 		//"tab.unfocusedInactiveForeground":"#BEBEBE",		// 190,190,190
@@ -196,7 +196,7 @@
 
 		// Dropdown Control
 		"dropdown.foreground":"#D2D2D2",			// 210,210,210
-		"dropdown.background":"#282828",			// 040,040,040
+		"dropdown.background":"#1E1E1E",
 		"dropdown.listBackground":"#323232",		// 050,050,050
 		"dropdown.border":"#414141",				// 065,065,065
 	
@@ -231,16 +231,16 @@
 
 		// Lists and Trees
 		"list.activeSelectionBackground": "#464646",		// 070,070,070
-		"list.activeSelectionForeground": "#F0F0F0",		// 240,240,240
+		"list.activeSelectionForeground": "#FAFAFA",
 		//"list.dropBackground": "#BEBEBE",					// 190,190,190
 		//"list.focusBackground": "#BEBEBE",				// 190,190,190
 		//"list.focusForeground": "#BEBEBE",				// 190,190,190
 		//"list.highlightForeground": "#BEBEBE",			// 190,190,190
-		"list.hoverBackground": "#2D2D2D",					// 045,045,045
-		"list.hoverForeground": "#F0F0F0",					// 240,240,240
-		"list.inactiveSelectionBackground": "#3C3C3C",		// 060,060,060
-		"list.inactiveSelectionForeground": "#F0F0F0",		// 240,240,240
-		"list.inactiveFocusBackground":"#3C3C3C",			// 060,060,060
+		"list.hoverBackground": "#323232",
+		"list.hoverForeground": "#FAFAFA",
+		"list.inactiveSelectionBackground": "#373737",
+		"list.inactiveSelectionForeground": "#FAFAFA",
+		"list.inactiveFocusBackground":"#373737",
 		"list.invalidItemForeground": "#DCDCDC",			// 220,220,220
 		"list.warningForeground": "#96B48C",				// 150,180,140
 		"list.errorForeground":"#FF5064",					// 255,080,100
