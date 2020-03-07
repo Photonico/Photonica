@@ -10,8 +10,8 @@
 * Generate a template:  
     `yo code`
 
-* Package:  
+* Package the file:  
     `vsce package`
 
-* Publish:
+* Publish the project:
     `vsce publish` 
