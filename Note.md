@@ -16,6 +16,8 @@
 * Publish the project:
     `vsce publish` 
 
+* Token:  
+    `https://dev.azure.com/{yourorganization}`
+
 * Colors references:  
     `https://code.visualstudio.com/api/references/theme-color`
-    
