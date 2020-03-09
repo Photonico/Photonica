@@ -160,7 +160,7 @@
 		"tab.inactiveForeground":"#D2D2D2",					// 210,210,210
 		//"tab.unfocusedActiveForeground":"#BEBEBE",		// 190,190,190
 		//"tab.unfocusedInactiveForeground":"#BEBEBE",		// 190,190,190
-		"tab.hoverBackground":"#505050",					// 080,080,080
+		"tab.hoverBackground":"#464646",
 		//"tab.unfocusedHoverBackground":"#505050",			// 080,080,080
 		//"tab.hoverBorder":"#505050",						// 080,080,080
 		//"tab.unfocusedHoverBorder":"#505050",				// 080,080,080
@@ -196,7 +196,7 @@
 
 		// Dropdown Control
 		"dropdown.foreground":"#D2D2D2",			// 210,210,210
-		"dropdown.background":"#1E1E1E",
+		"dropdown.background":"#232323",
 		"dropdown.listBackground":"#323232",		// 050,050,050
 		"dropdown.border":"#414141",				// 065,065,065
 	
@@ -252,7 +252,7 @@
 
 		// Git
 		"gitDecoration.modifiedResourceForeground":"#8CC8FA",		// 140,200,250
-		"gitDecoration.untrackedResourceForeground":"#8CFAC8",		// 140,250,200
+		"gitDecoration.untrackedResourceForeground":"#4BD7EB",		// 140,250,200
 		"gitDecoration.deletedResourceForeground": "#8C8C8C",		// 140,140,140
 		"gitDecoration.addedResourceForeground":"#FFDC64",			// 255,220,100
 		"gitDecoration.ignoredResourceForeground":"#8C8C8C",		// 140,140,140
