@@ -19,5 +19,8 @@
 * Token:  
     `https://dev.azure.com/{yourorganization}`
 
+* My Colors:
+    `code ~/Sync/Colors/'Colors List'`
+
 * Colors references:  
     `https://code.visualstudio.com/api/references/theme-color`
