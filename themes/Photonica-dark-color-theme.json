@@ -120,7 +120,7 @@
 		//"statusBarItem.prominentHoverBackground": "#3264C8",	// 050,100,200
 		//"statusBar.border": "#",
 		"statusBarItem.remoteForeground": "#FAFAFA",
-		"statusBarItem.remoteBackground": "#5078A0",
+		"statusBarItem.remoteBackground": "#3C91B9",
 
 		// Activity Bar
 		"activityBarBadge.background": "#00A0FF",		// 000,160,255
@@ -230,8 +230,8 @@
 		//"progressBar.background":"#505050",	// 080,080,080
 
 		// Lists and Trees
-		"list.activeSelectionBackground": "#464646",		// 070,070,070
-		"list.activeSelectionForeground": "#FAFAFA",
+		"list.activeSelectionBackground": "#3C91B9",
+		"list.activeSelectionForeground": "#1E1E1E",
 		//"list.dropBackground": "#BEBEBE",					// 190,190,190
 		//"list.focusBackground": "#BEBEBE",				// 190,190,190
 		//"list.focusForeground": "#BEBEBE",				// 190,190,190
