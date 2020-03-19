@@ -4,9 +4,13 @@ All notable changes to the "Photonica" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.4.8 @ Mar 19, 2020
+
+* Modify the zones colors of dark component.  
+
 ## 0.4.0 @ June 13, 2019
 
-* Add the support for [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
+* Add the support for [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).  
 
 ## 0.3.4 @ May 7, 2019
 
@@ -14,7 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 0.3.0 @ May 5, 2019
 
-* Merge theme [Luke Dark Theme](https://marketplace.visualstudio.com/items?itemName=ConAntares.luke-dark-theme).
+* Merge theme [Luke Dark Theme](https://marketplace.visualstudio.com/items?itemName=ConAntares.luke-dark-theme).  
 
 ## 0.0.1 @ February 17, 2019
 

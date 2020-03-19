@@ -23,4 +23,4 @@
     `code ~/Sync/Colors/'Colors List'`
 
 * Colors references:  
-    `https://code.visualstudio.com/api/references/theme-color`
+    `https://code.visualstudio.com/api/references/theme-color`  
