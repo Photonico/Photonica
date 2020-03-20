@@ -151,18 +151,18 @@
 		"sideBar.background": 				"#2D2D2D",
 		"sideBar.foreground": 				"#D2D2D2",
 		//"sideBar.border": 				"#2D2D2D",
-		"sideBar.dropBackground": 			"#64646464",
+		"sideBar.dropBackground": 			"#64646450",
 		"sideBarTitle.foreground": 			"#F0F0F0",
 		"sideBarSectionHeader.background": 	"#464646",
 		"sideBarSectionHeader.foreground": 	"#FFFFFF",
 		//"sideBarSectionHeader.border":	"#464646",
 
 		// Monimap
-		"minimap.findMatchHighlight":			"#1E4655",
+		"minimap.findMatchHighlight":			"#1EB4FF50",
 		"minimap.selectionHighlight":			"#464646",
 		"minimap.errorHighlight":				"#FF5064",
 		"minimap.warningHighlight":				"#96B987",
-		"minimap.background":					"#1E1E1E",
+		"minimap.background":					"#1E1E1Ea0",
 		"minimapSlider.background":				"#6464647d",
 		"minimapSlider.hoverBackground":		"#A0A0A07d",
 		"minimapSlider.activeBackground":		"#8282827d",
@@ -172,64 +172,75 @@
 
 		// Editor Groups & Tabs
 		"editorGroup.border":						"#505050",
-		"editorGroup.dropBackground":				"#64646464",
-
-		//"editorGroupHeader.noTabsBackground":"#646464",
-		"editorGroupHeader.tabsBackground":"#2D2D2D",
-		//"editorGroupHeader.tabsBorder":"#323232",			// 050,050,050
-		//"editorGroup.emptyBackground":"#3C3C3C",			// 060,060,060
-		//"editorGroup.focusedEmptyBorder":"#3C3C3C",		// 060,060,060
-		"tab.activeBackground":"#1E1E1E",
-		"tab.activeForeground":"#FFFFFF",					// 255,255,255
-		//"tab.activeBorder":"#3C3C3C",						// 060,060,060
-		//"tab.unfocusedActiveBorder":"#3C3C3C",			// 060,060,060
-		//"tab.activeBorderTop":"#3C3C3C",					// 060,060,060
-		//"tab.unfocusedActiveBorderTop":"#BEBEBE",			// 190,190,190
-		"tab.border":"#2D2D2D",
-		"tab.inactiveBackground":"#2D2D2D",
-		"tab.inactiveForeground":"#D2D2D2",					// 210,210,210
-		//"tab.unfocusedActiveForeground":"#BEBEBE",		// 190,190,190
-		//"tab.unfocusedInactiveForeground":"#BEBEBE",		// 190,190,190
-		"tab.hoverBackground":"#464646",
-		//"tab.unfocusedHoverBackground":"#505050",			// 080,080,080
-		//"tab.hoverBorder":"#505050",						// 080,080,080
-		//"tab.unfocusedHoverBorder":"#505050",				// 080,080,080
-		//"tab.activeModifiedBorder":"#505050",				// 080,080,080
-		//"tab.inactiveModifiedBorder":"#505050",			// 080,080,080
-		//"tab.unfocusedActiveModifiedBorder": "#505050",	// 080,080,080
-		//"tab.unfocusedInactiveModifiedBorder":"#505050",  // 080,080,080
-
-		"tab.activeBorder": "#88c0d000",
-		"tab.unfocusedActiveBorder": "#88c0d000",
-		"tab.unfocusedActiveForeground": "#d8dee999",
-		"tab.unfocusedInactiveForeground": "#d8dee966",
+		"editorGroup.dropBackground":				"#64646450",
+		//"editorGroupHeader.noTabsBackground":		"#646464",
+		"editorGroupHeader.tabsBackground":			"#2D2D2D",
+		//"editorGroupHeader.tabsBorder":			"#1E1E1E",
+		//"editorGroup.emptyBackground":			"#3C3C3C",
+		//"editorGroup.focusedEmptyBorder":			"#3C3C3C",
+		"tab.activeBackground":						"#1E1E1E",
+		"tab.activeForeground":						"#FFFFFF",
+		"tab.unfocusedActiveBackground":			"#2D2D2D",
+		"tab.border":								"#2D2D2D",
+		"tab.activeBorder":							"#1E1E1E",
+		//"tab.unfocusedActiveBorder":				"#1E1E1E",
+		//"tab.activeBorderTop":					"#2D2D2D",
+		//"tab.unfocusedActiveBorderTop":			"#2D2D2D",
+		"tab.inactiveBackground":					"#2D2D2D",
+		"tab.inactiveForeground":					"#D2D2D2",
+		"tab.unfocusedActiveForeground":			"#D2D2D2",
+		"tab.unfocusedInactiveForeground":			"#B4B4B4",
+		"tab.hoverBackground":						"#464646",
+		//"tab.unfocusedHoverBackground":			"#505050",
+		//"tab.hoverBorder":						"#464646",
+		//"tab.unfocusedHoverBorder":				"#464646",
+		//"tab.activeModifiedBorder":				"#464646",
+		//"tab.inactiveModifiedBorder":				"#464646",
+		//"tab.unfocusedActiveModifiedBorder": 		"#464646",
+		//"tab.unfocusedInactiveModifiedBorder":	"#464646",
+		//"editorPane.background":					"#2D2D2D",
 
 		// Editor
-		"editor.background":"#1E1E1E",
-		"editor.foreground":"#DCDCDC",							// 220,220,220
-		//"editor.selectionForeground":"#F0F0F0",				// 240,240,240
-		"editor.selectionBackground":"#5A5A5A",					// 090,090,090
+		"editor.background":						"#1E1E1E",
+		"editor.foreground":						"#DCDCDC",
+		"editorLineNumber.foreground":				"#8C8C8C",
+		"editorLineNumber.activeForeground":		"#F0F0F0",
+		"editorCursor.background":					"#1E1E1E",
+		"editorCursor.foreground":					"#D2D2D2",
+		//"editor.selectionForeground":				"#D2D2D2",
+		"editor.selectionBackground":				"#FFFFFF3c",
+		"editor.inactiveSelectionBackground":		"#FFFFFF2d",
+		"editor.selectionHighlightBackground":		"#FFFFFF23",
+		//"editor.selectionHighlightBorder":		"#FFFFFF00",
+		"editor.wordHighlightBackground":			"#FFFFFF3c",
+		//"editor.wordHighlightBorder":				"#FFFFFF2d",
+		//"editor.wordHighlightStrongBackground":	"#FFFFFF3c",
+		//"editor.wordHighlightStrongBorder":		"#5A5A5A",
+		"editor.findMatchBackground":				"#1EB4FF50",
+		"editor.findMatchHighlightBackground":		"#1EB4FF41",
+		"editor.findRangeHighlightBackground":		"#9B91FF41",
+		"editor.findMatchBorder":					"#FFFFFF50",
+		//"editor.findMatchHighlightBorder":		"#1EB4FF64",
+		//"editor.findRangeHighlightBorder":		"#9B91FF64",
+
 		"editor.lineHighlightBackground":"#373737a0",
 		//"editor.lineHighlightBorder":"#8C8C8C",				// 140,140,140
-		"editorCursor.foreground":"#D2D2D2",					// 210,210,210
-		//"editorCursor.background":"#3C3C3C",					// 060,060,060
+
+
 		"editorWhitespace.foreground":"#3C3C3C",				// 060,060,060
-		"editorLineNumber.foreground":"#8C8C8C",				// 140,140,140
-		"editorLineNumber.activeForeground":"#F0F0F0",			// 240,240,240
-		//"editor.inactiveSelectionBackground":"#5050507e",		// 080,080,080
-		"editor.selectionHighlightBackground":"#5A5A5A7e",		// 090,090,090
-		//"editor.selectionHighlightBorder":"#5A5A5A",			// 090,090,090
-		//"editor.wordHighlightBackground":"#5A5A5A7e",			// 090,090,090
-		//"editor.wordHighlightBorder":"#5A5A5A",				// 090,090,090
-		//"editor.wordHighlightStrongBackground":"#5A5A5A7e",	// 090,090,090
-		//"editor.wordHighlightStrongBorder":"#5A5A5A",			// 090,090,090
+
+
+
+
+		
+
 		"editor.hoverHighlightBackground":"#646464",			// 100,100,100
-		"editor.findMatchBackground":"#1E4655",					// 050,080,090
-		"editor.findMatchBorder":"#A0A0A07e",					// 160,160,160
-		"editor.findMatchHighlightBackground":"#1E4655",		// 030,070,085
-		//"editor.findRangeHighlightBackground":"#A0A0A07e",	// 160,160,160
-		//"editor.findMatchHighlightBorder":"#5A5A5A",			// 090,090,090
-		//"editor.findRangeHighlightBorder":"#A0A0A07e",		// 160,160,160
+
+
+
+
+
+
 		"editorLink.activeForeground":"#F0F0F0",				// 240,240,240
 		"editorIndentGuide.background":"#3C3C3C",				// 060,060,060
 		"editorIndentGuide.activeBackground":"#464646",			// 070,070,070
