@@ -90,13 +90,13 @@
 		//"progressBar.background":"#464646",
 
 		// Lists and Trees
-		"list.activeSelectionBackground": 		"#78E1FF78",
-		"list.activeSelectionForeground": 		"#1E1E1E",
-		"list.dropBackground": 					"#1EB4FF78",
+		"list.activeSelectionBackground": 		"#78E1FF50",
+		"list.activeSelectionForeground": 		"#F0F0F0",
+		"list.dropBackground": 					"#1EB4FF50",
 		"list.focusBackground": 		    	"#464646",
 		"list.focusForeground": 				"#F0F0F0",
 		"list.highlightForeground": 	    	"#00C8F0",
-		"list.hoverBackground": 				"#1EB4FF50",
+		"list.hoverBackground": 				"#1EB4FF3c",
 		"list.hoverForeground": 				"#FAFAFA",
 		"list.inactiveSelectionBackground": 	"#3C3C3C",
 		"list.inactiveSelectionForeground": 	"#FAFAFA",
@@ -222,19 +222,22 @@
 		"editor.findMatchBorder":					"#FFFFFF50",
 		//"editor.findMatchHighlightBorder":		"#1EB4FF64",
 		//"editor.findRangeHighlightBorder":		"#9B91FF64",
+		//"searchEditor.findMatchBackground":		"#1EB4FF41",
+		//"searchEditor.findMatchBorder":			"#FFFFFF50",
+		//"searchEditor.textInputBorder":			"#FFFFFF3c",
+		"editor.hoverHighlightBackground":			"#282828",
+		"editor.lineHighlightBackground":			"#FFFFFF1E",
+		"editorWhitespace.foreground":				"#3C3C3C",
 
-		"editor.lineHighlightBackground":"#373737a0",
-		//"editor.lineHighlightBorder":"#8C8C8C",				// 140,140,140
+		//"editor.lineHighlightBorder":"#8C8C8C",
 
-
-		"editorWhitespace.foreground":"#3C3C3C",				// 060,060,060
 
 
 
 
 		
 
-		"editor.hoverHighlightBackground":"#646464",			// 100,100,100
+
 
 
 
