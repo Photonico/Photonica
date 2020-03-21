@@ -208,13 +208,13 @@
 		"editorCursor.background":					"#1E1E1E",
 		"editorCursor.foreground":					"#D2D2D2",
 		//"editor.selectionForeground":				"#D2D2D2",
-		"editor.selectionBackground":				"#FFFFFF3c",
-		"editor.inactiveSelectionBackground":		"#FFFFFF2d",
-		"editor.selectionHighlightBackground":		"#FFFFFF23",
+		"editor.selectionBackground":				"#FFFFFF37",
+		"editor.inactiveSelectionBackground":		"#FFFFFF28",
+		"editor.selectionHighlightBackground":		"#FFFFFF1E",
 		//"editor.selectionHighlightBorder":		"#FFFFFF00",
-		"editor.wordHighlightBackground":			"#FFFFFF3c",
-		//"editor.wordHighlightBorder":				"#FFFFFF2d",
-		//"editor.wordHighlightStrongBackground":	"#FFFFFF3c",
+		"editor.wordHighlightBackground":			"#FFFFFF37",
+		//"editor.wordHighlightBorder":				"#FFFFFF28",
+		//"editor.wordHighlightStrongBackground":	"#FFFFFF37",
 		//"editor.wordHighlightStrongBorder":		"#5A5A5A",
 		"editor.findMatchBackground":				"#1EB4FF50",
 		"editor.findMatchHighlightBackground":		"#1EB4FF41",
@@ -226,36 +226,30 @@
 		//"searchEditor.findMatchBorder":			"#FFFFFF50",
 		//"searchEditor.textInputBorder":			"#FFFFFF3c",
 		"editor.hoverHighlightBackground":			"#282828",
-		"editor.lineHighlightBackground":			"#FFFFFF1E",
-		"editorWhitespace.foreground":				"#3C3C3C",
+		"editor.lineHighlightBackground":			"#FFFFFF14",
+		//"editor.lineHighlightBorder":				"#FFFFFF14",
+		"editorLink.activeForeground":				"#F0F0F0",
+		"editor.rangeHighlightBackground":			"#FFFFFF28",
+		"editor.rangeHighlightBorder":				"#FFFFFF50",
+		"editor.symbolHighlightBackground":			"#9B91FF41",
+		"editor.symbolHighlightBorder":				"#9B91FF64",
+		"editorWhitespace.foreground":				"#323232",
+		"editorIndentGuide.background":				"#3C3C3C",
+		"editorIndentGuide.activeBackground":		"#646464",
+		//"editorRuler.foreground":					"#646464",
+		"editorCodeLens.foreground":				"#D2D2D2",
+		"editorLightBulb.foreground":				"#B4B4B4",
+		"editorLightBulbAutoFix.foreground":		"#D2D2D2",
+		"editorBracketMatch.background":			"#FFFFFF50",
+		"editorBracketMatch.border":				"#FFFFFF96",
+		"editor.foldBackground":					"#B4AAFF14",
+		"editorOverviewRuler.border":					"#B4AAFF14",
 
-		//"editor.lineHighlightBorder":"#8C8C8C",
-
-
-
-
-
-		
-
-
-
-
-
-
-
-
-		"editorLink.activeForeground":"#F0F0F0",				// 240,240,240
-		"editorIndentGuide.background":"#3C3C3C",				// 060,060,060
-		"editorIndentGuide.activeBackground":"#464646",			// 070,070,070
-		//"editorRuler.foreground":"#646464",					// 100,100,100
-		"editorCodeLens.foreground":"#D2D2D2",					// 210,210,210
-		"editorBracketMatch.background":"#5A5A5A",				// 090,090,090
-		//"editorBracketMatch.border":"#8C8C8C",				// 140,140,140
 		"editorError.foreground":			"#FF5A50",
 		"editorWarning.foreground":			"#96B987",
 		"editorInfo.foreground":			"#A078C8",
 		"editorHint.foreground":			"#788CA0",
-		//"editorUnnecessaryCode.border":"#AF8CF0",				// 175,140,240	
+		//"editorUnnecessaryCode.border":"#",				// 175,140,240	
 		//"editorUnnecessaryCode.opacity":"#C88CF0",			// 200,140,240
 		"walkThrough.embeddedEditorBackground": "#323232",		// 050,050,050
 
@@ -264,9 +258,6 @@
 		"editorWidget.border":"#464646",
 		//"editorWidget.resizeBorder":"#464646",			// 070,070,070
 		//"editorSuggestWidget.background":"#464646",		// 070,070,070
-
-
-
 
 		// Terminal Colors
 		"terminal.background":"#232323",
@@ -3600,8 +3591,6 @@
 				"foreground": "#A5C396"
 			}
 		},
-
-		
 		{
 			"name": "[LaTeX] Headings",
 			"scope": 
