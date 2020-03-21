@@ -16,7 +16,7 @@ function lagrange_interpolate(X,Y,t)
         d = d + Y[i]*C[i]
     end
     return d
-end
+end 
 
 function lagrange_interpolate_plus(X,Y,t)
     idxs = eachindex(X)

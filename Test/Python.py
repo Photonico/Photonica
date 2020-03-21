@@ -473,5 +473,6 @@ plt.rcParams['text.usetex'] = True
 fig, ax = plt.subplots(1, 1)
 plt.plot(N, M, c="#00B4DC", alpha=0.9)
 plt.tick_params(direction='in')
-
 plt.show()
+
+#%%
