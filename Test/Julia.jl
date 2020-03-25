@@ -6,6 +6,7 @@ using Plots; pyplot()
 
 to = time()
 
+
 function lagrange_interpolate(X,Y,t)
     C = ones(length(X))
     d = 0.0
