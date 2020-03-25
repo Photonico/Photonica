@@ -158,7 +158,7 @@
 		//"sideBarSectionHeader.border":	"#464646",
 
 		// Monimap
-		"minimap.findMatchHighlight":			"#1EB4FF50",
+		"minimap.findMatchHighlight":			"#1EB4FF5A",
 		"minimap.selectionHighlight":			"#464646",
 		"minimap.errorHighlight":				"#FF5064",
 		"minimap.warningHighlight":				"#96B987",
@@ -238,13 +238,18 @@
 		"editorIndentGuide.activeBackground":		"#646464",
 		//"editorRuler.foreground":					"#646464",
 		"editorCodeLens.foreground":				"#D2D2D2",
-		"editorLightBulb.foreground":				"#B4B4B4",
-		"editorLightBulbAutoFix.foreground":		"#D2D2D2",
-		"editorBracketMatch.background":			"#FFFFFF50",
-		"editorBracketMatch.border":				"#FFFFFF96",
+		"editorLightBulb.foreground":				"#FFC800",
+		"editorLightBulbAutoFix.foreground":		"#FFEB00",
+		"editorBracketMatch.background":			"#FFFFFF3C",
+		"editorBracketMatch.border":				"#FFFFFF78",
 		"editor.foldBackground":					"#B4AAFF14",
-		"editorOverviewRuler.border":					"#B4AAFF14",
+		"editorOverviewRuler.border":				"#2D2D2D",
+		"editorOverviewRuler.findMatchForeground": 	"#1EB4FF5A",
+		"editorOverviewRuler.rangeHighlightForeground":"#FF0000",
 
+		
+
+		
 		"editorError.foreground":			"#FF5A50",
 		"editorWarning.foreground":			"#96B987",
 		"editorInfo.foreground":			"#A078C8",
