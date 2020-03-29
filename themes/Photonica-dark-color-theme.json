@@ -392,7 +392,7 @@
 	
 		// Git
 		"gitDecoration.modifiedResourceForeground":		"#78CDFF",
-		"gitDecoration.untrackedResourceForeground":	"#4BD7EB",
+		"gitDecoration.untrackedResourceForeground":	"#8CDC96",
 		"gitDecoration.deletedResourceForeground": 		"#8C8C8C",
 		"gitDecoration.addedResourceForeground":		"#FFDC64",
 		"gitDecoration.ignoredResourceForeground":		"#8C8C8C",
