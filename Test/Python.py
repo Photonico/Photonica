@@ -432,11 +432,9 @@ M = np.array(list(map(fib,N)))
 td = time.time() - to
 print("Fibonacci Sequence in Array: The time interval is %f s." %td)
 
-#%% Fibonacci with Iterator
-
 to = time.time()
 # upLim = 20
-class Fibs:
+class TFibs:
     def __init__(self):
         self.c = 0
         self.a = 0
@@ -453,7 +451,7 @@ class Fibs:
             raise StopIteration
         return self.a
 
-fibs = Fibs()
+fibs = TFibs()
 td = time.time() - to
 print("Fibonacci with Iterator: The time interval is %f s." %td)
 
@@ -461,8 +459,6 @@ P = np.array(list(fibs))
 T = np.arange(1, upLim+1)
 print(P)
 print(T)
-
-#%%  Plot
 
 upLim = 40
 N = np.arange(1,upLim+1,1)
@@ -474,5 +470,3 @@ fig, ax = plt.subplots(1, 1)
 plt.plot(N, M, c="#00B4DC", alpha=0.9)
 plt.tick_params(direction='in')
 plt.show()
-
-#%%
