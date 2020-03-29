@@ -4,9 +4,9 @@ All notable changes to the "Photonica" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 0.4.8 @ Mar 19, 2020
+## 0.4.8 @ Mar 30, 2020
 
-* Modify the zones colors of dark component.  
+* Improve the dark component significantly.
 
 ## 0.4.0 @ June 13, 2019
 
@@ -18,7 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 0.3.0 @ May 5, 2019
 
-* Merge theme [Luke Dark Theme](https://marketplace.visualstudio.com/items?itemName=ConAntares.luke-dark-theme).  
+* Merge the theme [Luke Dark Theme](https://marketplace.visualstudio.com/items?itemName=ConAntares.luke-dark-theme).  
 
 ## 0.0.1 @ February 17, 2019
 
