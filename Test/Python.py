@@ -421,8 +421,6 @@ tf = time.time()
 td = tf - to
 print("Fibonacci With Recursion: The time interval is %f s." %td)
 
-#%%  Fibonacci Sequence in Array
-
 to = time.time()
 
 upLim = 40
