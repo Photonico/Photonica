@@ -59,7 +59,9 @@ Light (Python):
 
 ## More information
 
-* Photonica is open source via  [GitHub Repository](https://github.com/ConAntares/Photonica/). I will feel happy if someone can develop his themes based on Photonica.
+* Photonica is open source via [GitHub Repository](https://github.com/ConAntares/Photonica/). I will feel happy if someone can develop his themes based on Photonica.
+
+* Welcome to use my monospace font [Fira Comp](https://github.com/Photonico/Fira_Comp).
 
 ## License
 
