@@ -24,7 +24,7 @@
 
 		// Contrast colors
 		//"contrastActiveBorder":	"#0064B9",
-		//"contrastBorder":			"#0064B9",  
+		//"contrastBorder":			"#0064B9", 
 
 		// Windows Border
 		//"window.activeBorder":	"#464646",
@@ -41,10 +41,10 @@
 
 		// Button 
 		"button.foreground":		"#E1E1E1",
-		"button.background": 		"#505050",
+		"button.background": 		"#5A5A5A",
 		"button.hoverBackground":	"#646464",
 		"checkbox.foreground":		"#E1E1E1",
-		"checkbox.background":		"#505050",
+		"checkbox.background":		"#5A5A5A",
 		"checkbox.border":			"#646464",
 
 		// Dropdown Control
@@ -93,7 +93,7 @@
 		"list.activeSelectionBackground": 		"#78E1FF50",
 		"list.activeSelectionForeground": 		"#F0F0F0",
 		"list.dropBackground": 					"#1EB4FF50",
-		"list.focusBackground": 		    	"#464646eb",
+		"list.focusBackground": 		    	"#464646c8",
 		"list.focusForeground": 				"#F0F0F0",
 		"list.highlightForeground": 	    	"#00C8F0",
 		"list.hoverBackground": 				"#1EB4FF1e",
