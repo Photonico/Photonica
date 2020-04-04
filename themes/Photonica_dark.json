@@ -90,9 +90,9 @@
 		//"progressBar.background":"#464646",
 
 		// Lists and Trees
-		"list.activeSelectionBackground": 		"#78E1FF50",
+		"list.activeSelectionBackground": 		"#78E1FF3C",
 		"list.activeSelectionForeground": 		"#F0F0F0",
-		"list.dropBackground": 					"#1EB4FF50",
+		"list.dropBackground": 					"#1EB4FF3C",
 		"list.focusBackground": 		    	"#464646c8",
 		"list.focusForeground": 				"#F0F0F0",
 		"list.highlightForeground": 	    	"#00C8F0",

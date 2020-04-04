@@ -18,7 +18,7 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 ## Installation
 
-1. Launch Quick Open
+1. Launch Quick Open  
 
    * Linux:    `Ctrl+P`
    * macOS:    `⌘P`
