@@ -145,7 +145,7 @@
 		"sideBarSectionHeader.foreground": 	"#FFFFFF",
 		//"sideBarSectionHeader.border":	"#464646",
 
-		// Monimap
+		// Minimap
 		"minimap.findMatchHighlight":			"#1EB4FF5A",
 		"minimap.selectionHighlight":			"#464646",
 		"minimap.errorHighlight":				"#FF5064",
@@ -2442,6 +2442,112 @@
 			}
 		},
 
+
+
+
+
+
+
+
+
+		{
+			"name": "[Python] Special Self",
+			"scope": 
+			[
+				"source.python variable.language.special.self.python"
+			],
+			"settings": 
+			{
+				"foreground": "#C896FA"
+			}
+		},
+		{
+			"name": "[Python] Decorator",
+			"scope":
+			[
+				"source.python entity.name.function.decorator",
+				"source.python meta.function.decorator support.type"
+			],
+			"settings": 
+			{
+				"foreground": "#C8646E"
+			}
+		},
+		{
+			"name": "[Python] Support Type",
+			"scope": "source.python support.type",
+			"settings": 
+			{
+				"foreground": "#C896FA"
+			}
+		},
+		{
+			"name": "[Python] Function Parameter",
+			"scope": 
+			[
+				"source.python variable.parameter.function.language"
+			],
+			"settings": 
+			{
+				"foreground": "#A0C8FF"
+			}
+		},
+		{
+			"name": "[Python] Function Parameter Special",
+			"scope": 
+			[
+				"source.python meta.function.parameters variable.parameter.function.language.special.self"
+			],
+			"settings": 
+			{
+				"foreground": "#E1A0FF"
+			}
+		},
+		{
+			"name": "[Python] Function Call Arguments",
+			"scope": 
+			[
+				"meta.function-call.arguments.python"
+			],
+			"settings": 
+			{
+				"foreground": "#AAAAFF"
+			}
+		},
+		{
+			"name": "[Python] Exception",
+			"scope": 
+			[
+				"support.type.exception.python"
+			],
+			"settings": 
+			{
+				"foreground": "#FAC864"
+			}
+		},
+		{
+			"name": "[Python] Item",
+			"scope": 
+			[
+				"meta.item-access.arguments.python"
+			],
+			"settings": 
+			{
+				"foreground": "#A0C8FF"
+			}
+		},
+		{
+			"name": "[Python] Placeholder",
+			"scope": 
+			[
+				"constant.character.format.placeholder.other.python"
+			],
+			"settings": 
+			{
+				"foreground": "#A0C8FF"
+			}
+		},
+
 // Julia
 		{
 			"name": "[Julia] Property Numbers",
@@ -3523,113 +3629,6 @@
 			"settings": 
 			{
 				"foreground": "#8CB4BE"
-			}
-		},
-
-
-
-
-
-
-
-
-
-		{
-			"name": "[Python] Special Self",
-			"scope": 
-			[
-				"source.python variable.language.special.self.python"
-			],
-			"settings": 
-			{
-				"foreground": "#C896FA"
-			}
-		},
-		{
-			"name": "[Python] Decorator",
-			"scope":
-			[
-				"source.python entity.name.function.decorator",
-				"source.python meta.function.decorator support.type"
-			],
-			"settings": 
-			{
-				"foreground": "#C8646E"
-			}
-		},
-
-		{
-			"name": "[Python] Support Type",
-			"scope": "source.python support.type",
-			"settings": 
-			{
-				"foreground": "#C896FA"
-			}
-		},
-		{
-			"name": "[Python] Function Parameter",
-			"scope": 
-			[
-				"source.python variable.parameter.function.language"
-			],
-			"settings": 
-			{
-				"foreground": "#A0C8FF"
-			}
-		},
-		{
-			"name": "[Python] Function Parameter Special",
-			"scope": 
-			[
-				"source.python meta.function.parameters variable.parameter.function.language.special.self"
-			],
-			"settings": 
-			{
-				"foreground": "#E1A0FF"
-			}
-		},
-		{
-			"name": "[Python] Function Call Arguments",
-			"scope": 
-			[
-				"meta.function-call.arguments.python"
-			],
-			"settings": 
-			{
-				"foreground": "#AAAAFF"
-			}
-		},
-		{
-			"name": "[Python] Exception",
-			"scope": 
-			[
-				"support.type.exception.python"
-			],
-			"settings": 
-			{
-				"foreground": "#FAC864"
-			}
-		},
-		{
-			"name": "[Python] Item",
-			"scope": 
-			[
-				"meta.item-access.arguments.python"
-			],
-			"settings": 
-			{
-				"foreground": "#A0C8FF"
-			}
-		},
-		{
-			"name": "[Python] Placeholder",
-			"scope": 
-			[
-				"constant.character.format.placeholder.other.python"
-			],
-			"settings": 
-			{
-				"foreground": "#A0C8FF"
 			}
 		}
 	]
