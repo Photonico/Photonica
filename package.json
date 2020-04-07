@@ -1,9 +1,9 @@
 {
     "name": "photonica",
-    "publisher": "ConAntares",
+    "publisher": "Photonico",
     "displayName": "Photonica",
     "description": "Photonica themes for VS code. Its soft colors will be helpful for you to get inspired.",
-    "repository": "https://github.com/ConAntares/Photonica",
+    "repository": "https://github.com/Photonico/Photonica",
     "version": "0.5.4",
     "icon": "icon.png",
     "categories": 
