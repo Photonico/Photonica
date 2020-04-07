@@ -4,6 +4,10 @@ All notable changes to the "Photonica" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.5.5 @ Apr 7, 2020
+
+* Fix a serious bug.
+
 ## 0.4.8 @ Mar 30, 2020
 
 * Improve the dark component significantly.

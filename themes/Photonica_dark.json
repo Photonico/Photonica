@@ -793,7 +793,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#64E1B4"	
+				"foreground": "#5AE6AA"	
 			}
 		},
 
@@ -1847,7 +1847,7 @@
 			[
 				"constant.character.escape.scss", 
 				"string.quoted.single.scss", 
-				"scss.meta.set.variable.string.quoted.single", 
+				"scss.meta.set.variable.string.quoted.single"
 			],
 			"settings": 
 			{
@@ -1880,7 +1880,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#64E1B4"	
+				"foreground": "#5AE6AA"	
 			}
 		},
 		{
@@ -1955,7 +1955,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#64E1B4"
+				"foreground": "#5AE6AA"
 			}
 		},
 		{
@@ -2441,15 +2441,6 @@
 				"foreground": "#A0C8FF"
 			}
 		},
-
-
-
-
-
-
-
-
-
 		{
 			"name": "[Python] Special Self",
 			"scope": 
@@ -2627,7 +2618,7 @@
 			{
 				"foreground": "#D2646E"
 			}
-		}
+		},
 
 // JavaScript
 		{
@@ -2764,7 +2755,7 @@
 			"scope": "variable.other.readwrite.js, variable.other.object.js",
 			"settings": 
 			{
-				"foreground": "#50C8FF"
+				"foreground": "#DCA0FF"
 			}
 		},
 		{
@@ -3077,7 +3068,7 @@
 			"scope": "variable.language.this.ts",
 			"settings": 
 			{
-				"foreground": "#50C8FF"
+				"foreground": "#DCA0FF"
 			}
 		},
 
@@ -3565,7 +3556,7 @@
 			"scope": "entity.name.type.module.elixir",
 			"settings": 
 			{
-				"foreground": "#64E1B4",
+				"foreground": "#5AE6AA",
 				"fontStyle": ""
 			}
 		},
@@ -3630,6 +3621,6 @@
 			{
 				"foreground": "#8CB4BE"
 			}
-		}
+		},
 	]
 }
