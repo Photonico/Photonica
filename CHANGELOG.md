@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 0.5.6 @ Apr 9, 2020
 
-* Rewrite the tokens list.
+* Rewrite the tokens list for the dark component.
 
 ## 0.5.5 @ Apr 7, 2020
 
