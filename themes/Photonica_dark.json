@@ -530,7 +530,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#8CC878"
+				"foreground": "#AFE1F0"
 			}
 		},
 		{
@@ -2270,9 +2270,76 @@
 		"scope": "source.go constant.other.placeholder.go",
 		"settings": 
 		{
+			"foreground": "#D28CFA"
+		}
+	},
+	{
+		"name": "[Go] Keyword Struct",
+		"scope": 
+		[
+			"keyword.struct",
+			"keyword.struct.go"
+		],
+		"settings": 
+		{
 			"foreground": "#FFC800"
 		}
 	},
+	{
+		"name": "[Go] Keyword Type",
+		"scope": 
+		[
+			"keyword.type",
+			"keyword.type.go"
+		],
+		"settings": 
+		{
+			"foreground": "#FFC800"
+		}
+	},
+	{
+		"name": "[Go] Keyword Function",
+		"scope": "keyword.function.go",
+		"settings": 
+		{
+			"foreground": "#FFC800"
+		}
+	},
+	{
+		"name": "[Go] Type String",
+		"scope": "storage.type.string",
+		"settings": 
+		{
+			"foreground": "#8CC8B4"
+		}
+	},
+	{
+		"name": "[Go] Keyword Control",
+		"scope":  
+		[
+			"keyword.control",
+			"keyword.control.go"
+		],
+		"settings": 
+		{
+			"foreground": "#CDF564"
+		}
+	},
+	{
+		"name": "[Go] Typer Error",
+		"scope":  
+		[
+			"storage.type.error",
+			"storage.type.error.go"
+		],
+		"settings": 
+		{
+			"foreground": "#D2646E"
+		}
+	},
+
+	
+	
 
 // Java
 		{
