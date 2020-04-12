@@ -550,7 +550,7 @@
 			"scope": "constant.numeric",
 			"settings": 
 			{
-				"foreground": "#AFE1F0"
+				"foreground": "#8CDCFF"
 			}
 		},
 		{
@@ -675,6 +675,38 @@
 				"settings": 
 			{
 				"foreground": "#28BEFF"
+			}
+		},
+		{
+			"name": "For",
+			"scope": "meta.for",
+			"settings": 
+			{
+				"foreground": "#E1E1E1"
+			}
+		},
+		{
+			"name": "while",
+			"scope": "meta.while",
+			"settings": 
+			{
+				"foreground": "#E1E1E1"
+			}
+		},
+		{
+			"name": "If",
+			"scope": "meta.if",
+			"settings": 
+			{
+				"foreground": "#E1E1E1"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "meta.function",
+			"settings": 
+			{
+				"foreground": "#B4DCF0"
 			}
 		},
 		{
@@ -1442,10 +1474,17 @@
 			"scope": "keyword.operator",
 			"settings": 
 			{
-				"foreground": "#B4DCF0"
+				"foreground": "#78D2FF"
 			}
 		},
-
+		{
+			"name": "Keyword Operator Symbols",
+			"scope": "keyword.operator.symbols",
+			"settings": 
+			{
+				"foreground": "#78D2FF"
+			}
+		},
 		{
 			"name": "Keyword Logical Operator",
 			"scope": 
