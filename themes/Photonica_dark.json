@@ -34,7 +34,7 @@
 		//"textBlockQuote.background":	"#FA9632",
 		//"textBlockQuote.border":		"#F0F0F0",
 		//"textCodeBlock.background":	"#F0F0F0",
-		"textLink.activeForeground":"#28BEFF",
+		"textLink.activeForeground":"#3CBEFF",
 		"textLink.foreground":		"#1EB4FF",
 		//"textPreformat.foreground":	"#F0F0F0",
 		//"textSeparator.foreground":	"#F0F0F0",
@@ -90,7 +90,7 @@
 		//"progressBar.background":"#464646",
 
 		// Lists and Trees
-		"list.activeSelectionBackground": 		"#28BEFF3C",
+		"list.activeSelectionBackground": 		"#3CBEFF3C",
 		"list.activeSelectionForeground": 		"#F0F0F0",
 		"list.dropBackground": 					"#1EB4FF3C",
 		"list.focusBackground": 		    	"#464646c8",
@@ -674,7 +674,7 @@
 			],  
 				"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -765,7 +765,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			],
 				"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -952,7 +952,7 @@
 			"scope": "markup.changed",
 			"settings": 
 			{
-				"foreground": "#3CB4FF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -1055,7 +1055,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#3CB4FF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -1410,7 +1410,7 @@
 			"scope": "keyword.other",
 			"settings": 
 			{
-				"foreground": "#28BEFF"	
+				"foreground": "#3CBEFF"	
 			}
 		},
 		{
@@ -1434,7 +1434,7 @@
 			"scope": "keyword.other.new",
 			"settings": 
 			{
-				"foreground": "#28BEFF"	
+				"foreground": "#3CBEFF"	
 			}
 		},
 		{
@@ -1973,7 +1973,7 @@
 			"scope": "entity.other.attribute-name.css", 
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 
@@ -2051,7 +2051,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -2321,7 +2321,7 @@
 		],
 		"settings": 
 		{
-			"foreground": "#28BEFF"	
+			"foreground": "#3CBEFF"	
 		}
 	},
 	
@@ -2600,7 +2600,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -2634,7 +2634,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -2750,6 +2750,18 @@
 				"foreground": "#AFE1F0"
 			}
 		},
+		{
+			"name": "[Python] Keyword Regexp",
+			"scope":
+			[
+				"keyword.control.regexp",
+				"keyword.control.anchor.regexp"
+			],
+			"settings": 
+			{
+				"foreground": "#3CBEFF"
+			}
+		},
 
 // Julia
 
@@ -2798,7 +2810,7 @@
 			"scope": "support.function.julia",
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -3069,7 +3081,7 @@
 			"scope": "storage.type.ts",
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -3338,7 +3350,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -3931,7 +3943,7 @@
 			"scope": "support.type.marker.rust",
 			"settings": 
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
@@ -3939,7 +3951,7 @@
 			"scope": "keyword.other.where.rust",
 			"settings":
 			{
-				"foreground": "#28BEFF"
+				"foreground": "#3CBEFF"
 			}
 		},
 		{
