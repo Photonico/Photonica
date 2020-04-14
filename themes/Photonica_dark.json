@@ -2752,6 +2752,19 @@
 		},
 
 // Julia
+
+		{
+			"name": "[Julia] Import and Use",
+			"scope": 
+			[
+				"keyword.control.import.julia",
+				"keyword.control.using.julia"
+			],
+			"settings": 
+			{
+				"foreground": "#FF9600"
+			}
+		},
 		{
 			"name": "[Julia] Property Numbers",
 			"scope": "constant.numeric.julia",
