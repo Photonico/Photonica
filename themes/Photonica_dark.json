@@ -2762,6 +2762,22 @@
 				"foreground": "#3CBEFF"
 			}
 		},
+		{
+			"name": "[Python] Keyword Other",
+			"scope": "keyword.other.python",
+			"settings": 
+			{
+				"foreground": "#FFC800"
+			}
+		},
+		{
+			"name": "[Python] Keyword From",
+			"scope": "keyword.control.import.from.python",
+			"settings": 
+			{
+				"foreground": "#FFC800"
+			}
+		},
 
 // Julia
 
