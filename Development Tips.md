@@ -8,11 +8,11 @@
 * Activated Photonica location
   * Linux
   * macOS
-    * Dark Red: `~/.vscode/extensions/conantares.photonica-0.6.4/themes/`
+    * Dark Red:
     * Dark Orange:
     * Dark Yellow:
     * Dark Green:
-    * Dark Blue (Dark Main):
+    * Dark Blue (Dark Main): `~/.vscode/extensions/conantares.photonica-0.6.4/themes/Photonica_dark_sky.json`
     * Dark Violet:
     * Light Red:
     * Light Orange:
