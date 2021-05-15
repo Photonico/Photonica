@@ -1,10 +1,14 @@
 # Developing Tips
 
-* Activated theme file location
+* Activated theme location
+  * Linux:
+  * macOS: `~/.vscode/extensions`
+  * Windows:
+
+* Activated Photonica location
   * Linux
   * macOS
-    * Dark Red:
-        ~/.vscode/extensions/conantares.photonica-0.6.4/themes/
+    * Dark Red: `~/.vscode/extensions/conantares.photonica-0.6.4/themes/`
     * Dark Orange:
     * Dark Yellow:
     * Dark Green:
