@@ -5,7 +5,7 @@
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file.
 and specifies the base theme of the theme.
-* `themes/Photonica-color-theme.json` - the color theme definition file.
+* `Themes/Photonica-color-theme.json` - the color theme definition file.
 
 ## Get up and running straight away
 
@@ -27,10 +27,10 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 ## Install your extension
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+* To share your extension with the world, read on `https://code.visualstudio.com/docs` about publishing an extension.
 
 ## Install VSCE
 
-```
+```zsh
 npm install -g vsce
 ```

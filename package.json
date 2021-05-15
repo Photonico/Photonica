@@ -5,7 +5,7 @@
     "description": "Photonica themes for VS code. Its soft colors will be helpful for you to get inspired.",
     "repository": "https://github.com/Photonico/Photonica",
     "version": "0.6.4",
-    "icon": "icon.png",
+    "icon": "Icon.png",
     "categories": 
     [
         "Themes"
@@ -20,14 +20,14 @@
         "themes": 
         [
             {
-                "label": "Photonica Dark",
+                "label": "Photonica Dark Sky",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Photonica_dark.json"
+                "path": "./Themes/Photonica_dark_sky.json"
             },
             {
-                "label": "Photonica Light Blue",
+                "label": "Photonica Light Sky",
                 "uiTheme": "vs",
-                "path": "./themes/Photonica_light_blue.json"
+                "path": "./Themes/Photonica_light_sky.json"
             }
         ]
     },
