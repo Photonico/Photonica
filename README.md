@@ -5,7 +5,7 @@
 [![Made for VSCode](/"Publishing badges"/LicenseMIT.svg)](https://code.visualstudio.com/)
 [![MIT License](/Publishing%20badges/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 
-![Open Source](/Publishing%20badges/LicenseMIT.svg/OpenSource.svg)
+![Open Source](/Publishing%20badges/OpenSource.svg)
 
 ## About Photonica
 
