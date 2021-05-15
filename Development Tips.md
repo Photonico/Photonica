@@ -50,6 +50,9 @@
 * Publish the project:
     `vsce publish`
 
+* VSCode theme generator
+    `npm install -g yo generator-code`
+
 * VSCode UI architecture
     `https://code.visualstudio.com/api/references/extension-guidelines`
 
