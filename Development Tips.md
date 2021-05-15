@@ -35,9 +35,6 @@
 * My Colors:
     `code ~/Sync/Colors/'Colors List'`
 
-* Publishing Token:  
-    `https://dev.azure.com/<yourorganization>`
-
 * Tools Installation:  
     `npm install -g yo generator-code vsce`
 
