@@ -1,12 +1,11 @@
 # Photonica
 
-![Photonica](logo.png)
+![Photonica](Logo.png)
 
-<!-- [![Made for VSCode](https://github.com/ConAntares/Temples/blob/master/Attachments/MadeforVSCode.svg)](https://code.visualstudio.com/)
-[![MIT License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
-[![Anti996](https://github.com/ConAntares/Temples/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
+[![Made for VSCode](/"Publishing badges"/LicenseMIT.svg)](https://code.visualstudio.com/)
+[![MIT License](/Publishing%20badges/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 
-![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg) -->
+![Open Source](/Publishing%20badges/LicenseMIT.svg/OpenSource.svg)
 
 ## About Photonica
 
@@ -39,11 +38,11 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 Dark (Python):
 
-![Dark (Python)](screenshots/Dark_Python.png)
+![Dark (Python)](Screenshots/Dark_Python.png)
 
 Light (Python):
 
-![Light (Python)](screenshots/Light_Python.png)
+![Light (Python)](Screenshots/Light_Python.png)
 
 ## Preferences shown in the screenshots
 
@@ -73,5 +72,6 @@ Light (Python):
 * GitHub: Github.com/ConAntares
 
 ------
+
 Enjoy it!  
 ✿✿ヽ(°▽°)ノ✿✿
