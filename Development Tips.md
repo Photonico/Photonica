@@ -7,6 +7,18 @@
 
 * Activated Photonica location
   * Linux
+    * Dark Red:
+    * Dark Orange:
+    * Dark Yellow:
+    * Dark Green:
+    * Dark Blue (Dark Main):
+    * Dark Violet:
+    * Light Red:
+    * Light Orange:
+    * Light Yellow:
+    * Light Green:
+    * Light Sky (Light Main):
+    * Light Violet:
   * macOS
     * Dark Red:
     * Dark Orange:
