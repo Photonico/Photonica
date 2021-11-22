@@ -1,8 +1,8 @@
 # Developing Tips
 
 * Activated theme location
-  * Linux:
-  * macOS: `~/.vscode/extensions`
+  * Linux: `~/.vscode/extensions`  
+  * macOS: `~/.vscode/extensions`  
   * Windows:
 
 * Activated Photonica location
