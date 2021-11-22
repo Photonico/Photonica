@@ -1,24 +1,36 @@
 # Developing Tips
 
 * Activated theme location
-  * Linux:
-  * macOS: `~/.vscode/extensions`
+  * Linux: `~/.vscode/extensions`  
+  * macOS: `~/.vscode/extensions`  
   * Windows:
 
 * Activated Photonica location
   * Linux
-  * macOS
     * Dark Red:
     * Dark Orange:
     * Dark Yellow:
     * Dark Green:
-    * Dark Blue (Dark Main): `~/.vscode/extensions/conantares.photonica-0.6.4/themes/Photonica_dark_sky.json`
+    * Dark Blue (Dark Main): `~/.vscode/extensions/conantares.photonica-0.6.5/themes/Photonica_dark_sky.json`  
     * Dark Violet:
     * Light Red:
     * Light Orange:
     * Light Yellow:
     * Light Green:
-    * Light Sky (Light Main):
+    * Light Sky (Light Main): `~/.vscode/extensions/conantares.photonica-0.6.5/themes/Photonica_light_sky.json`  
+    * Light Violet:
+  * macOS
+    * Dark Red:
+    * Dark Orange:
+    * Dark Yellow:
+    * Dark Green:
+    * Dark Blue (Dark Main): `~/.vscode/extensions/conantares.photonica-0.6.5/themes/Photonica_dark_sky.json`  
+    * Dark Violet:
+    * Light Red:
+    * Light Orange:
+    * Light Yellow:
+    * Light Green:
+    * Light Sky (Light Main): `~/.vscode/extensions/conantares.photonica-0.6.5/themes/Photonica_light_sky.json`  
     * Light Violet:
   * Windows
 
