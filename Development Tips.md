@@ -11,7 +11,7 @@
     * Dark Orange:
     * Dark Yellow:
     * Dark Green:
-    * Dark Blue (Dark Main):
+    * Dark Blue (Dark Main): `~/.vscode/extensions/conantares.photonica-0.6.5/themes/Photonica_dark_sky.json`
     * Dark Violet:
     * Light Red:
     * Light Orange:
