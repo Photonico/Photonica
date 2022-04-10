@@ -36,17 +36,21 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 ## Screenshot
 
-Dark (Python):
+Dark Sky (Python):
 
 ![Dark (Python)](Screenshots/Dark_Python.png)
 
-Light (Python):
+Dark Fire (Python):
+
+Light Sky (Python):
 
 ![Light (Python)](Screenshots/Light_Python.png)
 
+Light Fire (Python):
+
 ## Preferences shown in the screenshots
 
-* The font  is [Fira Mono](https://github.com/mozilla/Fira).
+* The font  is [Fira Comp](https://github.com/Photonico/Fira_Comp).
 
 * The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
