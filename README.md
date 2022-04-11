@@ -1,6 +1,6 @@
 # Photonica
 
-![Photonica](logo.png)
+![Photonica](https://raw.githubusercontent.com/Photonico/Photonica/master/logo.png)
 
 [![Made for VSCode](Publishing%20badges/MadeforVSCode.eps)](https://code.visualstudio.com/)
 [![MIT License](Publishing%20badges/LicenseMIT.eps)](https://opensource.org/licenses/mit-license.php)
