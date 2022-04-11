@@ -38,13 +38,13 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 Dark (Python):
 
-![Dark (Python)](Screenshots/Dark_Python.png)
+![Dark (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Dark_Python.png)
 
 Light Orange (Python):
 
 Light Blue (Python):
 
-![Light (Python)](Screenshots/Light_Python.png)
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Python.png)
 
 Light Violet (Python):
 
