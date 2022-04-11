@@ -7,9 +7,9 @@
 
 * Activated Photonica location in Linux / macOS
   * Dark Fire:
-  * Dark Sky: `~/.vscode/extensions/conantares.photonica-0.6.5/themes/Photonica_dark_sky.json`  
+  * Dark Sky: `~/.vscode/extensions/conantares.photonica-0.6.5/Themes/Photonica_dark_sky.json`  
   * Light Fire:
-  * Light Sky: `~/.vscode/extensions/conantares.photonica-0.6.5/themes/Photonica_light_sky.json`  
+  * Light Sky: `~/.vscode/extensions/conantares.photonica-0.6.5/Themes/Photonica_light_sky.json`  
 
 * Color Straw
   * Linux:      Color Picker
@@ -20,25 +20,25 @@
   * macOS:      ⌥ T
 
 * My Colors:
-    `code ~/Sync/Colors/'Colors List'`
+  `code ~/Sync/Colors/'Colors List'`
 
 * Tools Installation:  
-    `npm install -g yo generator-code vsce`
+  `npm install -g yo generator-code vsce`
 
 * Generate a template:  
-    `yo code`
+  `yo code`
 
 * Package the file:  
-    `vsce package`
+  `vsce package`
 
 * Publish the project:
-    `vsce publish`
+  `vsce publish`
 
 * VSCode theme generator
-    `npm install -g yo generator-code`
+  `npm install -g yo generator-code`
 
 * VSCode UI architecture
-    `https://code.visualstudio.com/api/references/extension-guidelines`
+  `https://code.visualstudio.com/api/references/extension-guidelines`
 
 * Colors references
-    `https://code.visualstudio.com/api/references/theme-color`
+  `https://code.visualstudio.com/api/references/theme-color`

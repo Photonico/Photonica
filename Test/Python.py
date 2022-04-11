@@ -1,4 +1,4 @@
-#### Lagrange Interpolation Formula
+""" Lagrange Interpolation Formula """
 
 import time
 import numpy as np
