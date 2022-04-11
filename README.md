@@ -5,7 +5,7 @@
 [![Made for VSCode](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/MadeforVSCode.svg)](https://code.visualstudio.com/)
 [![MIT License](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 
-[![Open Source](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/OpenSource.svg)]
+![Open Source](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/OpenSource.svg)
 
 ## About Photonica
 
