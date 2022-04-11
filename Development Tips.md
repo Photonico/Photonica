@@ -7,9 +7,9 @@
 
 * Activated Photonica location in Linux / macOS
   * Dark Fire:
-  * Dark Sky: `~/.vscode/extensions/conantares.photonica-0.6.5/Themes/Photonica_dark_sky.json`  
+  * Dark Sky: `~/.vscode/extensions/conantares.photonica-0.6.6/Themes/Photonica_dark_sky.json`  
   * Light Fire:
-  * Light Sky: `~/.vscode/extensions/conantares.photonica-0.6.5/Themes/Photonica_light_sky.json`  
+  * Light Sky: `~/.vscode/extensions/conantares.photonica-0.6.6/Themes/Photonica_light_sky.json`  
 
 * Color Straw
   * Linux:      Color Picker
