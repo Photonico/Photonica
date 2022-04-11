@@ -2,10 +2,10 @@
 
 ![Photonica](https://raw.githubusercontent.com/Photonico/Photonica/master/logo.png)
 
-[![Made for VSCode](Publishing%20badges/MadeforVSCode.eps)](https://code.visualstudio.com/)
-[![MIT License](Publishing%20badges/LicenseMIT.eps)](https://opensource.org/licenses/mit-license.php)
+[![Made for VSCode](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/MadeforVSCode.eps)](https://code.visualstudio.com/)
+[![MIT License](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/LicenseMIT.eps)](https://opensource.org/licenses/mit-license.php)
 
-![Open Source](Publishing%20badges/OpenSource.eps)
+![Open Source](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/OpenSource.eps)
 
 ## About Photonica
 
