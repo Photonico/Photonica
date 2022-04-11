@@ -20,7 +20,7 @@
         "themes": 
         [
             {
-                "label": "Photonica Dark Sky",
+                "label": "Photonica Dark",
                 "uiTheme": "vs-dark",
                 "path": "./Themes/Photonica_dark_sky.json"
             },

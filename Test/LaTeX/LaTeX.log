@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/TeX Live for SUSE Linux) (preloaded format=pdflatex 2022.2.24)  30 MAR 2022 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/TeX Live for SUSE Linux) (preloaded format=pdflatex 2022.2.24)  12 APR 2022 00:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -277,37 +277,22 @@ LaTeX Font Info:    Font shape `OML/lmr/m/n' in size <12> not available
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 79.
  (/usr/share/texmf/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 182.
- (/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 182.
- (/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 182.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 182.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 182.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2] (/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.aux) ) 
+] (/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.aux) ) 
 Here is how much of TeX's memory you used:
- 3935 strings out of 480031
- 55000 string characters out of 5884516
- 387950 words of memory out of 5000000
- 21203 multiletter control sequences out of 15000+600000
- 428774 words of font info for 45 fonts, out of 8000000 for 9000
+ 3902 strings out of 480031
+ 54449 string characters out of 5884516
+ 380950 words of memory out of 5000000
+ 21184 multiletter control sequences out of 15000+600000
+ 421055 words of font info for 37 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
- 83i,16n,88p,1100b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb>
-Output written on /home/lu/Repo/Photonica/Test/LaTeX/LaTeX.pdf (2 pages, 129164 bytes).
+ 83i,16n,88p,1100b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb>
+Output written on /home/lu/Repo/Photonica/Test/LaTeX/LaTeX.pdf (1 page, 100247 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

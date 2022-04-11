@@ -36,17 +36,17 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 ## Screenshot
 
-Dark Sky (Python):
+Dark (Python):
 
 ![Dark (Python)](Screenshots/Dark_Python.png)
 
-Dark Fire (Python):
+Light Orange (Python):
 
-Light Sky (Python):
+Light Blue (Python):
 
 ![Light (Python)](Screenshots/Light_Python.png)
 
-Light Fire (Python):
+Light Violet (Python):
 
 ## Preferences shown in the screenshots
 
