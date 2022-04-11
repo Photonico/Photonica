@@ -1,11 +1,11 @@
 # Photonica
 
-![Photonica](logo.png)
+![Photonica](https://raw.githubusercontent.com/Photonico/Photonica/master/logo.png)
 
-[![Made for VSCode](Publishing%20badges/MadeforVSCode.eps)](https://code.visualstudio.com/)
-[![MIT License](Publishing%20badges/LicenseMIT.eps)](https://opensource.org/licenses/mit-license.php)
+[![Made for VSCode](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/MadeforVSCode.svg)](https://code.visualstudio.com/)
+[![MIT License](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 
-![Open Source](Publishing%20badges/OpenSource.eps)
+![Open Source](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/OpenSource.svg)
 
 ## About Photonica
 
@@ -38,13 +38,13 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 Dark (Python):
 
-![Dark (Python)](Screenshots/Dark_Python.png)
+![Dark (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Dark_Python.png)
 
 Light Orange (Python):
 
 Light Blue (Python):
 
-![Light (Python)](Screenshots/Light_Python.png)
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Python.png)
 
 Light Violet (Python):
 

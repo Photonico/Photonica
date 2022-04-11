@@ -1,5 +1,5 @@
-/* 	
-	Photonica Dark
+/*
+	Photonica Dark Sky
 
  	Copyright Luke Niu
  	LukeNiu@outlook.com
@@ -13,44 +13,54 @@
 	"type": "dark",
 	"colors": 
 	{
-		// General
-		"focusBorder":			"#1496FF",
+		// General 20220412
+		"focusBorder":			"#1496FF",					// Theme Colors
 		"foreground": 			"#F0F0F0",
 		"widget.shadow": 		"#000000",
-		"selection.background":	"#1EB4FF",
+		"selection.background":	"#1EB4FF",					// Theme Colors
 		"descriptionForeground":"#F0F0F0",
+		"errorForeground":		"#FF5A5A",
 		"icon.foreground":		"#F0F0F0",
-		"errorForeground":		"#FF7878",
+		"sash.hoverBorder":		"#1496FF",					// Theme Colors
 
-		// Contrast colors
-		//"contrastActiveBorder":	"#0064B9",
-		//"contrastBorder":			"#0064B9", 
+		// Contrast colors Update: 20220412
+		//"contrastActiveBorder":	"#0064B4",
+		//"contrastBorder":			"#0064B4",
 
 		// Windows Border
 		//"window.activeBorder":	"#464646",
 		//"window.inactiveBorder":	"#2D2D2D",
 
-		// Text
+		// Text Update: 20220412
 		//"textBlockQuote.background":	"#FA9632",
 		//"textBlockQuote.border":		"#F0F0F0",
 		//"textCodeBlock.background":	"#F0F0F0",
-		"textLink.activeForeground":"#3CBEFF",
-		"textLink.foreground":		"#1EB4FF",
+		"textLink.activeForeground":	"#64D2FF",			// Theme Colors
+		"textLink.foreground":			"#1EB4FF",			// Theme Colors
 		//"textPreformat.foreground":	"#F0F0F0",
 		//"textSeparator.foreground":	"#F0F0F0",
 
-		// Button 
-		"button.foreground":		"#E1E1E1",
-		"button.background": 		"#5A5A5A",
-		"button.hoverBackground":	"#646464",
-		"checkbox.foreground":		"#E1E1E1",
-		"checkbox.background":		"#5A5A5A",
-		"checkbox.border":			"#646464",
+		// Action colors Update: 20220412
+		"toolbar.hoverBackground":		"#1496FF64",		// Theme Colors
+		//"toolbar.hoverOutline":		"#646464",
+		"toolbar.activeBackground":		"#FFFFFF50",
 
-		// Dropdown Control
+		// Button Update: 20220412
+		"button.foreground":					"#E1E1E1",
+		"button.background": 					"#5A5A5A",
+		"button.border":						"#4B4B4B",
+		"button.hoverBackground":				"#646464",
+		"button.secondaryForeground": 			"#E1E1E1",
+		"button.secondaryBackground": 			"#5A5A5A",
+		"button.secondaryHoverBackground":		"#646464",
+		"checkbox.foreground":					"#E1E1E1",
+		"checkbox.background":					"#5A5A5A",
+		"checkbox.border":						"#646464",
+
+		// Dropdown Control Update: 20220412
 		"dropdown.foreground":		"#E1E1E1",
-		"dropdown.background":		"#232323e1",
-		"dropdown.listBackground":	"#2D2D2De1",
+		"dropdown.background":		"#232323dc",
+		"dropdown.listBackground":	"#2D2D2Ddc",
 		"dropdown.border":			"#464646",
 
 		// Title Bar
@@ -60,19 +70,24 @@
 		"titleBar.inactiveForeground":	"#B4B4B4",
 		//"titleBar.border":"#3C3C3C",
 
-		// Input control 
-		"input.background": 				"#1E1E1Ee1",
+		// Input control Update: 20220412
+		"input.background": 				"#1E1E1Edc",
 		"input.border": 					"#464646",
 		"input.foreground":					"#E1E1E1",
 		"input.placeholderForeground":		"#E1E1E1",
-		"inputOption.activeBorder":			"#464646",
-		"inputValidation.errorBackground":	"#1E1E1Ee1",
+
+		"inputOption.activeBackground":		"#1EB4FF",		// Theme Colors
+		"inputOption.activeForeground":		"#1E1E1E",
+		//"inputOption.hoverBackground":	"#646464dc",
+		//"inputOption.activeBorder":		"#464646",
+
+		"inputValidation.errorBackground":	"#1E1E1Edc",
 		"inputValidation.errorForeground":	"#FF5064",
 		"inputValidation.errorBorder":		"#464646",
-		"inputValidation.infoBackground":	"#1E1E1Ee1",
+		"inputValidation.infoBackground":	"#1E1E1Edc",
 		"inputValidation.infoForeground":	"#D28CFA",
 		"inputValidation.infoBorder":		"#464646",
-		"inputValidation.warningBackground":"#1E1E1Ee1",
+		"inputValidation.warningBackground":"#1E1E1Edc",
 		"inputValidation.warningForeground":"#A0C88C",
 		"inputValidation.warningBorder":	"#464646",
 
@@ -279,32 +294,32 @@
 
 		// Editor Widget
 		"editorWidget.foreground":					"#F0F0F0",
-		"editorWidget.background":					"#1E1E1Ee1",
+		"editorWidget.background":					"#1E1E1Edc",
 		"editorWidget.border":						"#464646",
 		"editorWidget.resizeBorder":				"#464646",
 		"editorSuggestWidget.foreground":				"#E1E1E1",
-		"editorSuggestWidget.background":				"#2D2D2De1",
-		"editorSuggestWidget.border":					"#2D2D2De1",
+		"editorSuggestWidget.background":				"#2D2D2Ddc",
+		"editorSuggestWidget.border":					"#2D2D2Ddc",
 		"editorSuggestWidget.highlightForeground":		"#00C8F0",
-		"editorSuggestWidget.selectedBackground":		"#464646e1",
+		"editorSuggestWidget.selectedBackground":		"#464646dc",
 		"editorHoverWidget.foreground":					"#E1E1E1",
-		"editorHoverWidget.background":					"#2D2D2De1",
-		"editorHoverWidget.border":						"#2D2D2De1",
-		"editorHoverWidget.statusBarBackground":		"#2D2D2De1",
-		"debugExceptionWidget.background":				"#2D2D2De1",
-		"debugExceptionWidget.border":					"#2D2D2De1",
+		"editorHoverWidget.background":					"#2D2D2Ddc",
+		"editorHoverWidget.border":						"#2D2D2Ddc",
+		"editorHoverWidget.statusBarBackground":		"#2D2D2Ddc",
+		"debugExceptionWidget.background":				"#2D2D2Ddc",
+		"debugExceptionWidget.border":					"#2D2D2Ddc",
 
 		// Peek view colors
 		"peekView.border": 							"#2D2D2D",
-		"peekViewEditor.background": 				"#1E1E1Ee1",
-		"peekViewEditorGutter.background": 			"#1E1E1Ee1",
+		"peekViewEditor.background": 				"#1E1E1Edc",
+		"peekViewEditorGutter.background": 			"#1E1E1Edc",
 		"peekViewEditor.matchHighlightBackground": 	"#1EB4FF41",
 		"peekViewEditor.matchHighlightBorder": 		"#1EB4FF41",
-		"peekViewResult.background": 				"#1E1E1Ee1",
+		"peekViewResult.background": 				"#1E1E1Edc",
 		"peekViewResult.fileForeground": 			"#00C8F0",
 		"peekViewResult.lineForeground": 			"#AFAFAF",
 		"peekViewResult.matchHighlightBackground":	"#AF8CF08c",
-		"peekViewResult.selectionBackground": 		"#505050e1",
+		"peekViewResult.selectionBackground": 		"#505050dc",
 		"peekViewResult.selectionForeground": 		"#F0F0F0",
 		"peekViewTitle.background": 				"#2D2D2D",
 		"peekViewTitleDescription.foreground": 		"#AFAFAF",
@@ -316,8 +331,8 @@
 		"merge.incomingHeaderBackground": 				"#8CBEB964",
 		"merge.incomingContentBackground": 				"#8CBEB946",
 		"merge.border": 								"#1E1E1E00",
-		"merge.commonContentBackground":				"#282828e1",
-		"merge.commonHeaderBackground":					"#282828e1",
+		"merge.commonContentBackground":				"#282828dc",
+		"merge.commonHeaderBackground":					"#282828dc",
 		"editorOverviewRuler.currentContentForeground":	"#E1E1E1",
 		"editorOverviewRuler.incomingContentForeground":"#E1E1E1",
 		"editorOverviewRuler.commonContentForeground":	"#E1E1E1",
@@ -345,12 +360,12 @@
 		"menubar.selectionBackground":			"#787878",
 		//"menubar.selectionBorder":			"#787878",
 		"menu.foreground":						"#F0F0F0",
-		"menu.background":						"#282828e1",
+		"menu.background":						"#282828dc",
 		"menu.selectionForeground":				"#F0F0F0",
 		"menu.selectionBackground":				"#1EB4FF3c",
 		"menu.selectionBorder":					"#1EB4FF3c",
-		"menu.separatorBackground":				"#5A5A5Ae1",
-		"menu.border":							"#282828e1",
+		"menu.separatorBackground":				"#5A5A5Adc",
+		"menu.border":							"#282828dc",
 
 		// Notification
 		"notificationCenter.border": 			"#282828b4",
@@ -373,16 +388,16 @@
 		"extensionBadge.remoteForeground": 				"#F0F0F0",	
 
 		// Quick Picker
-		"pickerGroup.border":		"#505050e1",
+		"pickerGroup.border":		"#505050dc",
 		"pickerGroup.foreground":	"#D28CFA",
-		"quickInput.background":	"#2D2D2De1",
+		"quickInput.background":	"#2D2D2Ddc",
 		"quickInput.foreground":	"#B4B4B4",
 
 		// Debuge
-		"debugToolBar.background":							"#2D2D2De1",
+		"debugToolBar.background":							"#2D2D2Ddc",
 		//"debugToolBar.border":							"#646464c8",
-		"editor.stackFrameHighlightBackground":				"#2D2D2De1",
-		// "editor.focusedStackFrameHighlightBackground":	"#505050e1",
+		"editor.stackFrameHighlightBackground":				"#2D2D2Ddc",
+		// "editor.focusedStackFrameHighlightBackground":	"#505050dc",
 
 		//Welcome page
 		"welcomePage.background":						"#1E1E1E",
@@ -421,7 +436,7 @@
 		"breadcrumb.background": 					"#1E1E1E",
 		"breadcrumb.focusForeground": 				"#8CDCFF",
 		"breadcrumb.activeSelectionForeground": 	"#F0F0F0",
-		"breadcrumbPicker.background":  			"#232323e1",
+		"breadcrumbPicker.background":  			"#232323dc",
 
 		// Snippets
 		"editor.snippetTabstopHighlightBackground":  		"#FFFFFF28",
