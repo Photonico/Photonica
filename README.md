@@ -1,4 +1,4 @@
-# Photonica
+# Photonica d
 
 ![Photonica](https://raw.githubusercontent.com/Photonico/Photonica/master/logo.png)
 
