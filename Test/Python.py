@@ -3,6 +3,8 @@
 #%% 
 #### Lagrange Interpolation Formula 
 
+from calendar import c
+from cgi import print_arguments
 import time
 import numpy as np
 import matplotlib.pyplot as plt

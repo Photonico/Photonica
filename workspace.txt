@@ -1,0 +1,268 @@
+		"editor.background":									"#191919",
+		"editor.foreground":									"#F0F0F0",
+		"editorLineNumber.foreground":							"#8C8C8C",
+		"editorLineNumber.activeForeground":					"#F0F0F0",
+		"editorCursor.background":								"#191919",
+		"editorCursor.foreground":								"#D2D2D2",
+		//"editor.selectionForeground":							"#D2D2D2",
+		"editor.selectionBackground":							"#FFFFFF3c",
+		"editor.inactiveSelectionBackground":					"#FFFFFF28",
+		"editor.selectionHighlightBackground":					"#FFFFFF1e",
+		//"editor.selectionHighlightBorder":					"#FFFFFF00",
+		"editor.wordHighlightBackground":						"#FFFFFF37",
+		//"editor.wordHighlightBorder":							"#FFFFFF28",
+		//"editor.wordHighlightStrongBackground":				"#FFFFFF37",
+		//"editor.wordHighlightStrongBorder":					"#5A5A5A",
+		"editor.findMatchBackground":							"#1EBEFF50",
+		"editor.findMatchHighlightBackground":					"#1EBEFF41",
+		"editor.findRangeHighlightBackground":					"#9B91FF32",
+		"editor.findMatchBorder":								"#FFFFFF50",
+		//"editor.findMatchHighlightBorder":					"#1EBEFF64",
+		//"editor.findRangeHighlightBorder":					"#9B91FF64",
+		//"searchEditor.findMatchBackground":					"#1EBEFF41",
+		//"searchEditor.findMatchBorder":						"#FFFFFF50",
+		//"searchEditor.textInputBorder":						"#FFFFFF3c",
+		"editor.hoverHighlightBackground":						"#FFFFFF28",
+		"editor.lineHighlightBackground":						"#282828",
+		"editor.lineHighlightBorder":							"#323232",
+		"editorLink.activeForeground":							"#F0F0F0",
+		"editor.rangeHighlightBackground":						"#FFFFFF28",
+		"editor.rangeHighlightBorder":							"#FFFFFF50",
+		"editor.symbolHighlightBackground":						"#9B91FF41",
+		"editor.symbolHighlightBorder":							"#9B91FF64",
+		"editorWhitespace.foreground":							"#323232",
+		"editorIndentGuide.background":							"#3C3C3C",
+		"editorIndentGuide.activeBackground":					"#646464",
+		//"editorRuler.foreground":								"#646464",
+		"editorCodeLens.foreground":							"#D2D2D2",
+		"editorLightBulb.foreground":							"#FFC800",
+		"editorLightBulbAutoFix.foreground":					"#FFEB00",
+		"editorBracketMatch.background":						"#FFFFFF3C",
+		"editorBracketMatch.border":							"#FFFFFF78",
+		"editor.foldBackground":								"#B4AAFF14",
+		"editorOverviewRuler.border":							"#2D2D2D",
+		"editorOverviewRuler.findMatchForeground": 				"#1EBEFF5A",
+		"editorOverviewRuler.rangeHighlightForeground":			"#28B4B4",
+		"editorOverviewRuler.selectionHighlightForeground": 	"#D28CFA",
+		"editorOverviewRuler.wordHighlightForeground":			"#1496FF",
+		"editorOverviewRuler.wordHighlightStrongForeground":	"#1EBEFF",
+		"editorOverviewRuler.modifiedForeground":				"#008CE6",
+		"editorOverviewRuler.addedForeground":					"#8CDC96",
+		"editorOverviewRuler.deletedForeground":				"#E16464",
+		"editorOverviewRuler.warningForeground":				"#A0C88Cbe",
+		"editorOverviewRuler.infoForeground":					"#D28CFAbe",
+		"editorOverviewRuler.bracketMatchForeground":			"#64D7FFbe",
+		"editorOverviewRuler.errorForeground":					"#FF5A50be",
+
+
+    editor.background: Editor background color.
+    editor.foreground: Editor default foreground color.
+    editorLineNumber.foreground: Color of editor line numbers.
+    editorLineNumber.activeForeground: Color of the active editor line number.
+    editorCursor.background: The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.
+    editorCursor.foreground: Color of the editor cursor.
+
+Selection colors are visible when selecting one or more characters. In addition to the selection also all regions with the same content are highlighted.
+
+selection highlight
+
+    editor.selectionBackground: Color of the editor selection.
+    editor.selectionForeground: Color of the selected text for high contrast.
+    editor.inactiveSelectionBackground: Color of the selection in an inactive editor. The color must not be opaque so as not to hide underlying decorations.
+    editor.selectionHighlightBackground: Color for regions with the same content as the selection. The color must not be opaque so as not to hide underlying decorations.
+    editor.selectionHighlightBorder: Border color for regions with the same content as the selection.
+
+Word highlight colors are visible when the cursor is inside a symbol or a word. Depending on the language support available for the file type, all matching references and declarations are highlighted and read and write accesses get different colors. If document symbol language support is not available, this falls back to word highlighting.
+
+occurrences
+
+    editor.wordHighlightBackground: Background color of a symbol during read-access, for example when reading a variable. The color must not be opaque so as not to hide underlying decorations.
+    editor.wordHighlightBorder: Border color of a symbol during read-access, for example when reading a variable.
+    editor.wordHighlightStrongBackground: Background color of a symbol during write-access, for example when writing to a variable. The color must not be opaque so as not to hide underlying decorations.
+    editor.wordHighlightStrongBorder: Border color of a symbol during write-access, for example when writing to a variable.
+
+Find colors depend on the current find string in the Find/Replace dialog.
+
+Find matches
+
+    editor.findMatchBackground: Color of the current search match.
+    editor.findMatchHighlightBackground: Color of the other search matches. The color must not be opaque so as not to hide underlying decorations.
+    editor.findRangeHighlightBackground: Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque so as not to hide underlying decorations.
+    editor.findMatchBorder: Border color of the current search match.
+    editor.findMatchHighlightBorder: Border color of the other search matches.
+    editor.findRangeHighlightBorder: Border color the range limiting the search (Enable 'Find in Selection' in the find widget).
+
+Search Editor colors highlight results in a Search Editor. This can be configured separately from other find matches in order to better differentiate between different classes of match in the same editor.
+
+Search Editor Matches
+
+    searchEditor.findMatchBackground: Color of the editor's results.
+    searchEditor.findMatchBorder: Border color of the editor's results.
+    searchEditor.textInputBorder: Search editor text input box border.
+
+The hover highlight is shown behind the symbol for which a hover is shown.
+
+Hover Highlight
+
+    editor.hoverHighlightBackground: Highlight below the word for which a hover is shown. The color must not be opaque so as not to hide underlying decorations.
+
+The current line is typically shown as either background highlight or a border (not both).
+
+Line Highlight
+
+    editor.lineHighlightBackground: Background color for the highlight of line at the cursor position.
+    editor.lineHighlightBorder: Background color for the border around the line at the cursor position.
+
+The color for unicode highlights
+
+    editorUnicodeHighlight.border: Border color used to highlight unicode characters.
+
+The link color is visible when clicking on a link.
+
+Link
+
+    editorLink.activeForeground: Color of active links.
+
+The range highlight is visible when selecting a search result.
+
+Range Highlight
+
+    editor.rangeHighlightBackground: Background color of highlighted ranges, used by Quick Open, Symbol in File and Find features. The color must not be opaque so as not to hide underlying decorations.
+    editor.rangeHighlightBorder: Background color of the border around highlighted ranges.
+
+The symbol highlight is visible when navigating to a symbol via a command such as Go to Definition.
+
+    editor.symbolHighlightBackground: Background color of highlighted symbol. The color must not be opaque so as not to hide underlying decorations.
+    editor.symbolHighlightBorder: Background color of the border around highlighted symbols.
+
+To see the editor white spaces, enable Toggle Render Whitespace.
+
+    editorWhitespace.foreground: Color of whitespace characters in the editor.
+
+To see the editor indent guides, set "editor.guides.indentation": true and "editor.guides.highlightActiveIndentation": true.
+
+    editorIndentGuide.background: Color of the editor indentation guides.
+    editorIndentGuide.activeBackground: Color of the active editor indentation guide.
+
+To see the editor inline hints, set "editor.inlineSuggest.enabled": true.
+
+    editorInlayHint.background: Background color of inline hints.
+    editorInlayHint.foreground: Foreground color of inline hints.
+    editorInlayHint.typeForeground: Foreground color of inline hints for types
+    editorInlayHint.typeBackground: Background color of inline hints for types
+    editorInlayHint.parameterForeground: Foreground color of inline hints for parameters
+    editorInlayHint.parameterBackground: Background color of inline hints for parameters
+
+To see editor rulers, define their location with "editor.rulers"
+
+    editorRuler.foreground: Color of the editor rulers.
+
+    editor.linkedEditingBackground: Background color when the editor is in linked editing mode.
+
+CodeLens:
+
+CodeLens
+
+    editorCodeLens.foreground: Foreground color of an editor CodeLens.
+
+Lightbulb:
+
+    editorLightBulb.foreground: The color used for the lightbulb actions icon.
+    editorLightBulbAutoFix.foreground: The color used for the lightbulb auto fix actions icon.
+
+Bracket matches:
+
+Bracket colors
+
+    editorBracketMatch.background: Background color behind matching brackets.
+    editorBracketMatch.border: Color for matching brackets boxes.
+
+Bracket pair colorization:
+
+    editorBracketHighlight.foreground1: Foreground color of brackets (1). Requires enabling bracket pair colorization.
+    editorBracketHighlight.foreground2: Foreground color of brackets (2). Requires enabling bracket pair colorization.
+    editorBracketHighlight.foreground3: Foreground color of brackets (3). Requires enabling bracket pair colorization.
+    editorBracketHighlight.foreground4: Foreground color of brackets (4). Requires enabling bracket pair colorization.
+    editorBracketHighlight.foreground5: Foreground color of brackets (5). Requires enabling bracket pair colorization.
+    editorBracketHighlight.foreground6: Foreground color of brackets (6). Requires enabling bracket pair colorization.
+    editorBracketHighlight.unexpectedBracket.foreground: Foreground color of unexpected brackets.
+
+Bracket pair guides:
+
+    editorBracketPairGuide.activeBackground1: Background color of active bracket pair guides (1). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.activeBackground2: Background color of active bracket pair guides (2). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.activeBackground3: Background color of active bracket pair guides (3). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.activeBackground4: Background color of active bracket pair guides (4). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.activeBackground5: Background color of active bracket pair guides (5). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.activeBackground6: Background color of active bracket pair guides (6). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.background1: Background color of inactive bracket pair guides (1). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.background2: Background color of inactive bracket pair guides (2). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.background3: Background color of inactive bracket pair guides (3). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.background4: Background color of inactive bracket pair guides (4). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.background5: Background color of inactive bracket pair guides (5). Requires enabling bracket pair guides.
+
+    editorBracketPairGuide.background6: Background color of inactive bracket pair guides (6). Requires enabling bracket pair guides.
+
+Folding:
+
+    editor.foldBackground: Background color for folded ranges. The color must not be opaque so as not to hide underlying decorations.
+
+Overview ruler:
+
+This ruler is located beneath the scroll bar on the right edge of the editor and gives an overview of the decorations in the editor.
+
+    editorOverviewRuler.background: Background color of the editor overview ruler. Only used when the minimap is enabled and placed on the right side of the editor.
+    editorOverviewRuler.border: Color of the overview ruler border.
+    editorOverviewRuler.findMatchForeground: Overview ruler marker color for find matches. The color must not be opaque so as not to hide underlying decorations.
+    editorOverviewRuler.rangeHighlightForeground: Overview ruler marker color for highlighted ranges, like by the Quick Open, Symbol in File and Find features. The color must not be opaque so as not to hide underlying decorations.
+    editorOverviewRuler.selectionHighlightForeground: Overview ruler marker color for selection highlights. The color must not be opaque so as not to hide underlying decorations.
+    editorOverviewRuler.wordHighlightForeground: Overview ruler marker color for symbol highlights. The color must not be opaque so as not to hide underlying decorations.
+    editorOverviewRuler.wordHighlightStrongForeground: Overview ruler marker color for write-access symbol highlights. The color must not be opaque so as not to hide underlying decorations.
+    editorOverviewRuler.modifiedForeground: Overview ruler marker color for modified content.
+    editorOverviewRuler.addedForeground: Overview ruler marker color for added content.
+    editorOverviewRuler.deletedForeground: Overview ruler marker color for deleted content.
+    editorOverviewRuler.errorForeground: Overview ruler marker color for errors.
+    editorOverviewRuler.warningForeground: Overview ruler marker color for warnings.
+    editorOverviewRuler.infoForeground: Overview ruler marker color for infos.
+    editorOverviewRuler.bracketMatchForeground: Overview ruler marker color for matching brackets.
+
+Errors and warnings:
+
+    editorError.foreground: Foreground color of error squiggles in the editor.
+    editorError.border: Border color of error boxes in the editor.
+    editorError.background: Background color of error text in the editor. The color must not be opaque so as not to hide underlying decorations.
+    editorWarning.foreground: Foreground color of warning squiggles in the editor.
+    editorWarning.border: Border color of warning boxes in the editor.
+    editorWarning.background: Background color of warning text in the editor. The color must not be opaque so as not to hide underlying decorations.
+    editorInfo.foreground: Foreground color of info squiggles in the editor.
+    editorInfo.border: Border color of info boxes in the editor.
+    editorInfo.background: Background color of info text in the editor. The color must not be opaque so as not to hide underlying decorations.
+    editorHint.foreground: Foreground color of hints in the editor.
+    editorHint.border: Border color of hint boxes in the editor.
+    problemsErrorIcon.foreground: The color used for the problems error icon.
+    problemsWarningIcon.foreground: The color used for the problems warning icon.
+    problemsInfoIcon.foreground: The color used for the problems info icon.
+
+Unused source code:
+
+    editorUnnecessaryCode.border: Border color of unnecessary (unused) source code in the editor.
+    editorUnnecessaryCode.opacity: Opacity of unnecessary (unused) source code in the editor. For example, "#000000c0" will render the code with 75% opacity. For high contrast themes, use the "editorUnnecessaryCode.border" theme color to underline unnecessary code instead of fading it out.
+
+The gutter contains the glyph margins and the line numbers:
+
+    editorGutter.background: Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.
+    editorGutter.modifiedBackground: Editor gutter background color for lines that are modified.
+    editorGutter.addedBackground: Editor gutter background color for lines that are added.
+    editorGutter.deletedBackground: Editor gutter background color for lines that are deleted.
+    editorGutter.commentRangeForeground: Editor gutter decoration color for commenting ranges.
+    editorGutter.foldingControlForeground: Color of the folding control in the editor gutter.

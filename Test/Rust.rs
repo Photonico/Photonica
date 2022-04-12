@@ -35,3 +35,8 @@ fn fizzbuzz_to(n: u32) {
         fizzbuzz(n);
     }
 }
+
+fn main() {
+    let argument = std::env::args().skip(1);
+    let key = argument.next();
+}
