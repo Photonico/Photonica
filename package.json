@@ -22,12 +22,12 @@
             {
                 "label": "Photonica Dark",
                 "uiTheme": "vs-dark",
-                "path": "./Themes/Photonica_dark_sky.json"
+                "path": "./Themes/Photonica_dark_azure.json"
             },
             {
-                "label": "Photonica Light Sky",
+                "label": "Photonica Light Azure",
                 "uiTheme": "vs",
-                "path": "./Themes/Photonica_light_sky.json"
+                "path": "./Themes/Photonica_light_azure.json"
             }
         ]
     },
