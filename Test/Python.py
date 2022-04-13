@@ -29,6 +29,7 @@ plt.plot(x, y, "o", c="#32B432", alpha=0.9)
 plt.tick_params(direction='in')
 plt.show()
 
+#%%
 #### Shanks Transform
 
 import numpy as np
