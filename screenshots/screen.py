@@ -44,4 +44,3 @@ class MyTimer():
         self.end   = 0
 
 ## Result Example
-
