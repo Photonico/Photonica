@@ -7,9 +7,10 @@ class Main {
   // create an object of scanner
   // to take input from the user
   Scanner input = new Scanner(System.in);
+  private int[] array;
 
-  // method to perform bubble sort
   void bubbleSort(int array[]) {
+    this.array = array;
     int size = array.length;
 
     // for ascending or descending sort

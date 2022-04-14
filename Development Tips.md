@@ -1,44 +1,47 @@
 # Developing Tips
 
-* Activated theme location
+* Activated theme location  
   * Linux: `~/.vscode/extensions`  
   * macOS: `~/.vscode/extensions`  
   * Windows:
 
-* Activated Photonica location in Linux / macOS
+* Activated Photonica location in Linux / macOS  
   * Dark Fire:
-  * Dark Sky: `~/.vscode/extensions/conantares.photonica-0.6.6/Themes/Photonica_dark_sky.json`  
+  * Dark Sky: `~/.vscode/extensions/conantares.photonica-0.6.7/Themes/Photonica_dark_sky.json`  
   * Light Fire:
-  * Light Sky: `~/.vscode/extensions/conantares.photonica-0.6.6/Themes/Photonica_light_sky.json`  
+  * Light Sky: `~/.vscode/extensions/conantares.photonica-0.6.7/Themes/Photonica_light_sky.json`  
 
-* Color Straw
+* Color Straw  
   * Linux:      Color Picker
   * macOS:      Digital Color Meter
 
-* Shortcut of inspecting editor tokens and scopes
-  * Linux:      Alt T
-  * macOS:      ⌥ T
+* Shortcut of inspecting editor tokens and scopes  
+  * Linux:      Alt T  
+  * macOS:      ⌥ T  
 
-* My Colors:
+* My Colors  
   `code ~/Sync/Colors/'Colors List'`
 
-* Tools Installation:  
+* Tools Installation  
   `npm install -g yo generator-code vsce`
 
-* Generate a template:  
+* Generate a template  
   `yo code`
 
-* Package the file:  
+* Package the file  
   `vsce package`
 
-* Publish the project:
+* Publish the project  
   `vsce publish`
 
-* VSCode theme generator
+* VSCode theme generator  
   `npm install -g yo generator-code`
 
-* VSCode UI architecture
+* VSCode UI architecture  
   `https://code.visualstudio.com/api/references/extension-guidelines`
 
-* Colors references
+* VSCode components reference
+  `https://code.visualstudio.com/docs/editor/editingevolved`
+
+* Colors references  
   `https://code.visualstudio.com/api/references/theme-color`

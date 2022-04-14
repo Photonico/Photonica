@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1649686205 "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.tex" "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.pdf" "LaTeX" 1649686207
+["pdflatex"] 1649848400 "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.tex" "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.pdf" "LaTeX" 1649848502
   "/etc/texmf/web2c/texmf.cnf" 1617974667 40935 950c859ef6aa64cd9f8caa18792b2c7d ""
-  "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.aux" 1649686206 32 3985256e7290058c681f74d7a3565a19 ""
-  "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.tex" 1649686206 5402 9728de078bb02a35cb34ebc109fe1564 ""
+  "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.aux" 1649848400 32 3985256e7290058c681f74d7a3565a19 ""
+  "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.tex" 1649848502 5402 9728de078bb02a35cb34ebc109fe1564 ""
   "/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc" 1254269338 2359 de53213020575850c8f8debc35095765 ""
@@ -57,13 +57,13 @@
   "/usr/share/texmf/tex/latex/xcolor/xcolor.sty" 1463002160 55589 34128738f682d033422ca125f82e5d62 ""
   "/usr/share/texmf/tex/latex/xkeyval/xkeyval.sty" 1605910342 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1617974667 40935 950c859ef6aa64cd9f8caa18792b2c7d ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1647624216 606543 498608edaeb72b052db99bf92b1e7324 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1645696835 2544844 2a2dd120672e0c64d800d69f37da2949 ""
-  "LaTeX.aux" 1649686206 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "LaTeX.tex" 1649686206 5402 9728de078bb02a35cb34ebc109fe1564 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1649766065 606543 498608edaeb72b052db99bf92b1e7324 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1649766052 2544849 fb139521ee1eadd28e3f1581cf258487 ""
+  "LaTeX.aux" 1649848400 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "LaTeX.tex" 1649848502 5402 9728de078bb02a35cb34ebc109fe1564 ""
   (generated)
+  "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.pdf"
+  "LaTeX.pdf"
   "LaTeX.log"
   "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.log"
   "LaTeX.aux"
-  "/home/lu/Repo/Photonica/Test/LaTeX/LaTeX.pdf"
-  "LaTeX.pdf"

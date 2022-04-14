@@ -1,10 +1,8 @@
 """ Python Test """
 
 #%% 
-#### Lagrange Interpolation Formula 
+#### Lagrange Interpolation Formula
 
-from calendar import c
-from cgi import print_arguments
 import time
 import numpy as np
 import matplotlib.pyplot as plt
@@ -77,7 +75,7 @@ for i in range(0,count):
     if i > 0 and i < count - 1:
         L4[i] = (L3[i]**2-L3[i-1]*L3[i+1])/(2*L3[i]-L3[i-1]-L3[i+1])
     else:
-        L4[i] = 0     
+        L4[i] = 0
     i = i + 1
 
 plt.rcParams['font.family'] = 'CMU Serif'

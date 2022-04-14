@@ -1,12 +1,13 @@
-#### Everything starts here
-
-from ast import Num
-
+#### Everything starts here ####
 
 print("Hello, World!")
+
 print("Hello, VSCode!")
+
 print("Hello, Photonica!")
-print("Hello, Photonica!")
+
+print("Hello, Photonico!")
+
 print("A")
 print("B")
 print("C")
@@ -34,11 +35,7 @@ print("X")
 print("X")
 print("Y")
 print("Z")
+print("alphabet")
 
-for i in range(1,2):
+for i in range(1,2): 
     print(i)
-
-NUM = 1.2
-NUD = 1.1
-NUL = 1.0
-NUP = 1.4
