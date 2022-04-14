@@ -2,11 +2,6 @@
 
 ![Photonica](https://raw.githubusercontent.com/Photonico/Photonica/master/logo.png)
 
-[![Made for VSCode](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/MadeforVSCode.eps)](https://code.visualstudio.com/)
-[![MIT License](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/LicenseMIT.eps)](https://opensource.org/licenses/mit-license.php)
-
-![Open Source](https://raw.githubusercontent.com/Photonico/Photonica/master/Publishing%20badges/OpenSource.eps)
-
 ## About Photonica
 
 :rainbow: [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) is made for [VS Code](https://code.visualstudio.com/). It contains both dark theme and light theme. Its soft colors will be helpful for you to get inspired!
@@ -40,11 +35,11 @@ Dark (Python):
 
 ![Dark (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Dark_Python.png)
 
-Light Orange (Python):
-
-Light Blue (Python):
+Light Azure (Python):
 
 ![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Python.png)
+
+Light Orange (Python):
 
 Light Violet (Python):
 
