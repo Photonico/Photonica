@@ -4,11 +4,11 @@ All notable changes to the "Photonica" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 0.6.8 @ Apr 15, 2022
+## 0.6.7 @ Apr 15, 2022
 
 * Rewrite the tokens list for the dark component.
 
-## 0.6.7 @ Apr 12, 2022
+## 0.6.6 @ Apr 12, 2022
 
 * Rewrite the tokens list for the dark component, change the names of the themes.
 
