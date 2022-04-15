@@ -1,5 +1,5 @@
 /* 	
-    Photonica Light
+    Photonica Light Azure
 
     Copyright Luke Niu
     LukeNiu@outlook.com
@@ -13,17 +13,82 @@
     "type": "light",
     "colors": 
     {
-        // Total
-        "focusBorder": "#00A0F0",			// 000,160,240
-        "foreground": "#0A0A0A",			// 010,010,010
-        "widget.shadow": "#C8C8C8",			// 200,200,200
-        "selection.background":"#A0D2FF", 	// 160,210,255
+        // General (Update: 20220415)
+        "focusBorder":			    "#00A0FF",					                // Theme Colors
+		"foreground": 			    "#000000",
+		"widget.shadow": 		    "#C8C8C8",
+		//"selection.background":	"#00A0FF",				                    // Theme Colors
+		"descriptionForeground":    "#141414",
+		"errorForeground":		    "#F03C3C",
+		"icon.foreground":		    "#000000",
+		"sash.hoverBorder":		    "#00A0FF",					                // Theme Colors
 
-        // Title Bar
-        "titleBar.activeBackground":"#E1E1E1",			// 225,225,225
-        "titleBar.activeForeground":"#000000",			// 000,000,000
-        "titleBar.inactiveBackground":"#E1E1E1",		// 225,225,225
-        "titleBar.inactiveForeground":"#646464",		// 100,100,100
+        // Contrast colors (Update: 20220416)
+		// "contrastActiveBorder":	"#0064B4",
+		// "contrastBorder": 		"#0064B4",
+
+        // Windows Border (Update: 20220416)
+		//"window.activeBorder":	"#464646",
+		//"window.inactiveBorder":	"#2D2D2D",
+
+		// Text (Update: 20220416)
+		//"textBlockQuote.background":	"#FA9632",
+		//"textBlockQuote.border":		"#F0F0F0",
+		//"textCodeBlock.background":	"#F0F0F0",
+		"textLink.activeForeground":	"#008CFF",			                    // Theme Colors
+		"textLink.foreground":			"#0064C8",			                    // Theme Colors
+		//"textPreformat.foreground":	"#F0F0F0",
+		//"textSeparator.foreground":	"#F0F0F0",
+
+        // Action colors (Update: 20220416)
+		"toolbar.hoverBackground":		"#00A0FF8c",			                // Theme Colors
+		"toolbar.hoverOutline":			"#00A0FF00",		                    // Theme Colors
+		"toolbar.activeBackground": 	"#00A0FF",			                    // Theme Colors
+		"toolbar.activeForeground": 	"#F0F0F0",
+
+        // Button (Update: 20220416)
+		"button.foreground":					"#FAFAFA",
+		"button.background": 					"#0078E1",                      // Theme Colors
+		"button.border":						"#FFFFFF64",
+		"button.hoverBackground":				"#8C78FF",
+		"button.secondaryForeground": 			"#F0F0F0",
+		"button.secondaryBackground": 			"#0078E1e1",                    // Theme Colors
+		"button.secondaryHoverBackground":		"#8C78FFe1",
+		"checkbox.foreground":					"#F0F0F0",
+		"checkbox.background":					"#0078E1e1",
+		"checkbox.border":						"#FFFFFF64",
+
+        // Dropdown Control (Update: 20220416)
+		"dropdown.foreground":		"#0F0F0F",
+		"dropdown.background":		"#FFFFFFf0",
+		"dropdown.listBackground":	"#FFFFFFf0",
+		"dropdown.border":			"#D2D2D2",
+
+        // Title Bar (Update: 20220416)
+        "titleBar.activeBackground":            "#E1E1E1",
+        "titleBar.activeForeground":            "#000000",
+        "titleBar.inactiveBackground":          "#E1E1E1",
+        "titleBar.inactiveForeground":          "#646464",
+        //"titleBar.border":			        "#646464",
+
+        // Input control  (Update: 20220416)
+        "input.background":                                 "#FFFFFFf0",
+        "input.border":                                     "#D2D2D2",
+        "input.foreground":                                 "#0A0A0A",
+        "input.placeholderForeground":                      "#969696",          // Comment
+        "inputOption.activeBackground":		                "#00A0FF",		    // Theme Colors
+		"inputOption.activeForeground":		                "#FFFFFF",
+		//"inputOption.hoverBackground":	                "#FFFFFFe1",
+        //"inputOption.activeBorder":                       "#FFFFFFf0",
+        "inputValidation.errorBackground":                  "#FFFFFFf0",
+        "inputValidation.errorForeground":                  "#F03C3C",
+        "inputValidation.errorBorder":                      "#D2D2D2",
+        "inputValidation.infoBackground":                   "#FFFFFFf0",
+        "inputValidation.infoForeground":                   "#A064D2",
+        "inputValidation.infoBorder":                       "#D2D2D2",
+        "inputValidation.warningBackground":                "#FFFFFFf0",
+        "inputValidation.warningForeground":                "#3C9178",
+        "inputValidation.warningBorder":                    "#D2D2D2", 
 
         // Editor 
         "editor.background":"#FEFEFE",							// 254,254,254
@@ -60,8 +125,8 @@
         "editorBracketMatch.background":"#F5F5F5",				// 245,245,245
         //"editorBracketMatch.border":"#8C8C8C",				// 140,140,140
         "editorError.foreground":"#FF6450",						// 255,100,080
-        "editorWarning.foreground":"#3C8C78",					// 060,140,120
-        "editorInfo.foreground":"#A078C8",						// 160,120,200
+        "editorWarning.foreground":"#3C9178",					// 060,140,120
+        "editorInfo.foreground":"#A064D2",						// 160,120,200
         "editorHint.foreground":"#788CA0",						// 160,120,200
         //"editorUnnecessaryCode.border":"#AF8CF0",				// 175,140,240	
         //"editorUnnecessaryCode.opacity":"#C88CF0",			// 200,140,240
@@ -97,7 +162,7 @@
         "terminal.ansiBrightGreen": "#64B450",      // 100,180,080
         "terminal.ansiBrightYellow": "#F0AA46",     // 240,170,070
         "terminal.ansiBrightBlue": "#3CA0E6",       // 060,160,230
-        "terminal.ansiBrightMagenta": "#A078C8",    // 160,120,200
+        "terminal.ansiBrightMagenta": "#A064D2",    // 160,120,200
         "terminal.ansiBrightCyan": "#50C8A0",       // 080,200,160
         "terminal.ansiBrightWhite": "#DCDCDC",      // 220,220,220
         
@@ -179,33 +244,6 @@
         //"textLink.foreground":"#282828",					// 040,040,040
         //"textPreformat.foreground":"#282828",				// 040,040,040
         //"textSeparator.foreground":"#282828",				// 040,040,040
-
-        // Button
-        "button.foreground":"#FAFAFA",				// 250,250,250
-        "button.background": "#00A0F0",				// 000,160,240
-        "button.hoverBackground":"#A0D2FF", 		// 160,210,255
-
-        // Dropdown Control
-        "dropdown.foreground":"#0A0A0A",			// 010,010,010
-        "dropdown.background":"#FFFFFF",		    // 255,255,255
-        "dropdown.listBackground":"#FFFFFF",		// 255,255,255
-        "dropdown.border":"#C8C8C8",				// 200,200,200
-    
-        // Input control
-        "input.background": "#FFFFFF",						// 255,255,255
-        "input.border": "#C8C8C8",							// 200,200,200
-        "input.foreground":"#0A0A0A",						// 010,010,010
-        "input.placeholderForeground":"#0A0A0A",			// 010,010,010
-        //"inputOption.activeBorder":"#3C3C3C",				    // 060,060,060
-        "inputValidation.errorBackground":"#FFFFFF",		// 255,255,255
-        "inputValidation.errorForeground":"#FF5064",		// 255,080,100
-        "inputValidation.errorBorder":"#C8C8C8",			// 200,200,200
-        //"inputValidation.infoBackground":"#3C3C3C",			// 060,060,060
-        //"inputValidation.infoForeground":"#BEBEBE",			// 190,190,190
-        //"inputValidation.infoBorder":"#BEBEBE",				// 190,190,190
-        //"inputValidation.warningBackground":"#3C3C3C",		// 060,060,060
-        //"inputValidation.warningForeground":"#BEBEBE",		// 190,190,190
-        //"inputValidation.warningBorder":"#3C3C3C",			// 060,060,060
 
         // Scrollbar Control
         "scrollbar.shadow":"#B4B4B4",						// 180,180,180
@@ -922,7 +960,7 @@
               ],
               "settings": 
               {
-                "foreground": "#282828"		// 040,040,040
+                "foreground": "#282828"
               }
         },
         {
@@ -930,14 +968,14 @@
             "scope": "punctuation.terminator",	// C++每行末尾的分号
             "settings": 
             {
-                "foreground": "#0A826E" 	// 010,130,110
+                "foreground": "#0A826E"
             }
         },
         {
             "name": "Variables",
             "scope": 
             [
-                "variable", 
+                "variable"
             ],
                 "settings": 
             {
@@ -949,7 +987,7 @@
             "scope": 
             [
                 "punctuation.definition.variable.php", 
-                "variable.other.php",
+                "variable.other.php"
             ],
                 "settings": 
             {
@@ -1043,7 +1081,7 @@
               "scope": "string",
               "settings": 
               {
-                "foreground": "#3C8C78"		// 060,140,120
+                "foreground": "#3C9178"		// 060,140,120
               }
         },
         {
@@ -1147,7 +1185,7 @@
             "scope": "token.info-token",
             "settings": 
             {
-                "foreground": "#A078C8",	// 160,120,200
+                "foreground": "#A064D2",	// 160,120,200
             }
         },
         {
@@ -1155,7 +1193,7 @@
             "scope": "token.warn-token",
             "settings": 
             {
-                "foreground": "#3C8C78",	// 060,140,120
+                "foreground": "#3C9178",	// 060,140,120
               }
         },
         {
@@ -1210,7 +1248,7 @@
             ],
             "settings": 
             {
-                "foreground": "#A078C8",	// 160,120,200
+                "foreground": "#A064D2",	// 160,120,200
             }
         },
         {
@@ -1591,7 +1629,7 @@
             ],
             "settings": 
             {
-                "foreground": "#A078C8"		// 160,120,200
+                "foreground": "#A064D2"		// 160,120,200
             }
         },
         {
@@ -2059,7 +2097,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3C8C78"		// 060,140,120
+                "foreground": "#3C9178"		// 060,140,120
             }
         },
         {
@@ -2264,7 +2302,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3C8C78"		// 060,140,120
+                "foreground": "#3C9178"		// 060,140,120
             }
         },
         {
@@ -2347,7 +2385,7 @@
             "scope": "source.python support.type",
             "settings": 
             {
-                "foreground": "#A078C8",	// 160,120,200
+                "foreground": "#A064D2",	// 160,120,200
             }
         },
         {
@@ -2406,7 +2444,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3C8C78"		// 060,140,120
+                "foreground": "#3C9178"		// 060,140,120
             }
         },
         {
@@ -2647,7 +2685,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3C8C78"		// 060,140,120
+                "foreground": "#3C9178"		// 060,140,120
             }
         },
         {
@@ -2754,7 +2792,7 @@
             {
                 "foreground": "#963296"		// 150,050,150
             } 
-        },
+        }
     ]
 }
 

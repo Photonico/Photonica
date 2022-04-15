@@ -41,18 +41,18 @@
 		//"textSeparator.foreground":	"#F0F0F0",
 
 		// Action colors (Update: 20220412)
-		"toolbar.hoverBackground":		"#008CF0",			// Theme Colors
+		"toolbar.hoverBackground":		"#008CF08c",		// Theme Colors
 		"toolbar.hoverOutline":			"#008CF000",		// Theme Colors
-		"toolbar.activeBackground": 	"#9B91FF",			// Theme Colors
+		"toolbar.activeBackground": 	"#9B91FF8c",		// Theme Colors
 		"toolbar.activeForeground": 	"#191919",
 
 		// Button (Update: 20220412)
 		"button.foreground":					"#F0F0F0",
-		"button.background": 					"#008CF078",
+		"button.background": 					"#008CF07d",
 		"button.border":						"#FFFFFF3c",
 		"button.hoverBackground":				"#9B91FF78",
 		"button.secondaryForeground": 			"#F0F0F0",
-		"button.secondaryBackground": 			"#008CF078",
+		"button.secondaryBackground": 			"#008CF064",
 		"button.secondaryHoverBackground":		"#646464",
 		"checkbox.foreground":					"#F0F0F0",
 		"checkbox.background":					"#008CF078",
@@ -69,13 +69,13 @@
 		"titleBar.activeForeground":	"#F0F0F0",
 		"titleBar.inactiveBackground":	"#464646",
 		"titleBar.inactiveForeground":	"#B4B4B4",
-		//"titleBar.border":				"#46464600",
+		//"titleBar.border":			"#46464600",
 
 		// Input control (Update: 20220412)
 		"input.background": 				"#191919e1",
 		"input.border": 					"#464646",
 		"input.foreground":					"#E6E6E6",
-		"input.placeholderForeground":		"#E6E6E6",
+		"input.placeholderForeground":		"#8C8C8C",
 		"inputOption.activeBackground":		"#1EA0FF",		// Theme Colors
 		"inputOption.activeForeground":		"#191919",
 		//"inputOption.hoverBackground":	"#646464e1",
