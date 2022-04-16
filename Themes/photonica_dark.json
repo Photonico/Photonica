@@ -147,7 +147,7 @@
 		"panelSectionHeader.background":		"#1E1E1E7d",
 		"panelSectionHeader.border":			"#1E1E1E7d",
 
-		// Preview
+		// Preview  (Update: 20220415)
 		"imagePreview.border":	"#2D2D2D",
 
 		// Activity Bar (Update: 20220412)
@@ -158,7 +158,6 @@
 		"activityBar.activeBorder":			"#64D2FF",		// Theme colors
 		"activityBar.activeBackground":		"#505050",
 		"activityBar.activeFocusBorder":	"#9B91FF",		// Theme colors
-		"activityBar.dropBackground":		"#5A5A5A",
 		"activityBar.dropBorder":			"#64D2FF",		// Theme colors
 		"activityBarBadge.foreground":		"#464646",
 		"activityBarBadge.background": 		"#64D2FF",		// Theme colors
