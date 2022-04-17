@@ -112,6 +112,7 @@ count = len(X)
 
 def RE1(Y):
     R1 = np.ones(count)
+    """ doc """
     for i in range(0, count - 1):
         if i < count - 1 :
             R1[i] = ((i+1)*Y[i+1]-i*Y[i])/np.math.factorial(1)
