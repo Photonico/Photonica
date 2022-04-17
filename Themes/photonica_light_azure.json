@@ -103,7 +103,7 @@
         // Progress bar (Update: 20220417)
 		//"progressBar.background":"#F0F0F0",
 
-        // Lists and Trees (Update: 20220417)
+        // Lists and Trees: The list below "EXPLORER" (Update: 20220417)
 		"list.activeSelectionBackground": 		"#00A0FF50",                    // Theme colors
 		"list.activeSelectionForeground": 		"#141414",
 		"list.activeSelectionIconForeground": 	"#0064C8",                      // Theme colors
