@@ -187,7 +187,23 @@
 		"minimapGutter.addedBackground":		"#4EC3A0e1",
 		"minimapGutter.deletedBackground":		"#D27878e1",
 
-		// Editor Groups & Tabs (Update: 20220412)
+		// Editor: Overview ruler (Update: 20220414)
+		"editorOverviewRuler.background":						"#2D2D2D",	
+		"editorOverviewRuler.border":							"#2D2D2D",
+		"editorOverviewRuler.findMatchForeground": 				"#1EA0FF50",	
+		"editorOverviewRuler.rangeHighlightForeground":			"#28B4B450",
+		"editorOverviewRuler.selectionHighlightForeground": 	"#D28CFA50",
+		"editorOverviewRuler.wordHighlightForeground":			"#1496FF",
+		"editorOverviewRuler.wordHighlightStrongForeground":	"#1EA0FF",
+		"editorOverviewRuler.modifiedForeground":				"#008CF0e1",
+		"editorOverviewRuler.addedForeground":					"#4EC3A0e1",
+		"editorOverviewRuler.deletedForeground":				"#D27878e1",
+		"editorOverviewRuler.warningForeground":				"#96E18C",
+		"editorOverviewRuler.infoForeground":					"#D28CFA",
+		"editorOverviewRuler.bracketMatchForeground":			"#64D7FF",
+		"editorOverviewRuler.errorForeground":					"#FF283C",
+
+		// Editor: Groups & Tabs (Update: 20220412)
 		"editorGroup.border":						"#464646",
 		"editorGroup.dropBackground":				"#9B91FFa0",	// Theme colors
 		"editorGroupHeader.noTabsBackground":		"#2D2D2D",
@@ -300,22 +316,6 @@
 
 		// Editor: Folding (Update: 20220413)
 		"editor.foldBackground":								"#FFFFFF14",
-
-		// Editor: Overview ruler (Update: 20220414)
-		"editorOverviewRuler.background":						"#2D2D2D",	
-		"editorOverviewRuler.border":							"#2D2D2D",
-		"editorOverviewRuler.findMatchForeground": 				"#1EA0FF50",	
-		"editorOverviewRuler.rangeHighlightForeground":			"#28B4B4",
-		"editorOverviewRuler.selectionHighlightForeground": 	"#D28CFA",
-		"editorOverviewRuler.wordHighlightForeground":			"#1496FF",
-		"editorOverviewRuler.wordHighlightStrongForeground":	"#1EA0FF",
-		"editorOverviewRuler.modifiedForeground":				"#008CF0e1",
-		"editorOverviewRuler.addedForeground":					"#4EC3A0e1",
-		"editorOverviewRuler.deletedForeground":				"#D27878e1",
-		"editorOverviewRuler.warningForeground":				"#96E18C",
-		"editorOverviewRuler.infoForeground":					"#D28CFA",
-		"editorOverviewRuler.bracketMatchForeground":			"#64D7FF",
-		"editorOverviewRuler.errorForeground":					"#FF283C",
 
 		// Editor: Errors and warnings (Update: 20220414)
 		"editorError.foreground":								"#FF283C",

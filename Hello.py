@@ -38,5 +38,5 @@ print("Z")
 print("alphabet")
 print("boat")
 
-for i in range(1,2): 
+for i in range(1,2):
     print(i)
