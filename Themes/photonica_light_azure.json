@@ -50,10 +50,10 @@
 		"button.foreground":					"#FAFAFA",
 		"button.background": 					"#0078E1",                      // Theme Colors
 		"button.border":						"#FFFFFF64",
-		"button.hoverBackground":				"#8C78FF",
+		"button.hoverBackground":				"#8C78FF",                      // Theme Colors
 		"button.secondaryForeground": 			"#F0F0F0",
 		"button.secondaryBackground": 			"#0078E1e1",                    // Theme Colors
-		"button.secondaryHoverBackground":		"#8C78FFe1",
+		"button.secondaryHoverBackground":		"#8C78FFe1",                    // Theme Colors
 		"checkbox.foreground":					"#F0F0F0",
 		"checkbox.background":					"#0078E1e1",                    // Theme Colors
 		"checkbox.border":						"#FFFFFF64",
@@ -93,7 +93,7 @@
         // Scrollbar Control  (Update: 20220417)
         "scrollbar.shadow":                     "#B4B4B4",
         "scrollbarSlider.hoverBackground":      "#0078E17d",                    // Theme Colors
-        "scrollbarSlider.activeBackground":     "#8C78FF7d",                    // Theme Colors
+        "scrollbarSlider.activeBackground":     "#7864E17d",                    // Theme Colors
         "scrollbarSlider.background":           "#C8C8C8c8",
 
         // Badge (Update: 20220417)
@@ -107,10 +107,10 @@
 		"list.activeSelectionBackground": 		"#00A0FF50",                    // Theme colors
 		"list.activeSelectionForeground": 		"#141414",
 		"list.activeSelectionIconForeground": 	"#0064C8",                      // Theme colors
-		"list.dropBackground": 					"#8C78FF32",	                // Theme colors
+		"list.dropBackground": 					"#A091FF32",	                // Theme colors
 		"list.focusBackground": 		    	"#00A0FFcd",                    // Theme colors
 		"list.focusForeground": 				"#FAFAFA",
-		"list.focusHighlightForeground": 		"#6464DC",		                // Theme colors
+		"list.focusHighlightForeground": 		"#6464C8",		                // Theme colors
 		"list.highlightForeground": 	    	"#00A0FF",		                // Theme colors
 		"list.focusOutline": 	    			"#00A0FF",		                // Theme colors
 		"list.hoverBackground": 				"#E6E6E6",	                
@@ -123,11 +123,11 @@
 		"list.inactiveFocusOutline": 			"#00A0FF",		                // Theme colors
 		"list.errorForeground":					"#F03C3C",
 		"list.warningForeground": 				"#3CA087",
-		"listFilterWidget.background": 			"#8C78FF8c",	                // Theme colors
-		"listFilterWidget.outline": 			"#8C78FFe1",	                // Theme colors
+		"listFilterWidget.background": 			"#A091FF30",	                // Theme colors
+		"listFilterWidget.outline": 			"#A091FFe1",	                // Theme colors
 		"listFilterWidget.noMatchesOutline":	"#FF5050e1",
-		"list.filterMatchBackground":			"#8C78FF64",	                // Theme colors
-		//"list.filterMatchBorder":				"#8C78FF64",                    // Theme colors
+		"list.filterMatchBackground":			"#A091FF50",	                // Theme colors
+		//"list.filterMatchBorder":				"#A091FF50",                    // Theme colors
 		"list.deemphasizedForeground":			"#D2D2D2",
 		//"tree.indentGuidesStroke":			"#C8C8C8",
 		//"tree.tableColumnsBorder":			"#505050",
@@ -153,7 +153,7 @@
         // Activity Bar (Update: 20220417)
         "activityBar.background":           "#DCDCDC",
 		"activityBar.border":				"#DCDCDC",
-		"activityBar.foreground":           "#0078F0",                          // Theme colors
+		"activityBar.foreground":           "#0078E1",                          // Theme colors
         "activityBar.inactiveForeground":   "#787878",
 		"activityBar.activeBorder":			"#00A0FF",		                    // Theme colors
 		"activityBar.activeBackground":		"#EBEBEB7d",
@@ -162,7 +162,7 @@
 		"activityBarBadge.foreground":		"#FFFFFF",
 		"activityBarBadge.background": 		"#00A0FF",		                    // Theme colors
 
-        // Side Bar Bar (Update: 20220417)
+        // Side Bar (Update: 20220417)
         "sideBar.background":               "#EBEBEB",
         "sideBar.foreground":               "#0A0A0A",
         "sideBar.border":                   "#EBEBEB",
@@ -173,7 +173,7 @@
         "sideBarSectionHeader.border":      "#FFFFFF64",
 
 		// Minimap (Update: 20220417)
-		"minimap.findMatchHighlight":			"#FFE15078",	                // Theme colors
+		"minimap.findMatchHighlight":			"#FFE15078",
 		"minimap.selectionHighlight":			"#B9D7F578",
 		"minimap.errorHighlight":				"#F03C3C78",
 		"minimap.warningHighlight":				"#3CA08778",
@@ -204,8 +204,8 @@
 		"editorOverviewRuler.errorForeground":					"#F03C3Ce1",
 
         // Editor: Groups & Tabs (Update: 20220417)
-        "editorGroup.border":                       "#00A0FF50",
-        "editorGroup.dropBackground":               "#8C78FF50",                // Theme colors
+        "editorGroup.border":                       "#00A0FF50",                // Theme colors
+        "editorGroup.dropBackground":               "#A091FF50",                // Theme colors
 		"editorGroupHeader.noTabsBackground":		"#FAFAFA",
         "editorGroupHeader.tabsBackground":         "#EBEBEB",
 		"editorGroupHeader.tabsBorder":				"#FFFFFF00",
@@ -226,12 +226,12 @@
 		"tab.unfocusedInactiveBackground":			"#F5F5F5",
 		"tab.unfocusedActiveForeground":			"#282828",
 		"tab.unfocusedInactiveForeground":			"#787878",
-		"tab.hoverBackground":                      "#00A0FF1e",
+		"tab.hoverBackground":                      "#00A0FF1e",                // Theme colors
 		"tab.hoverForeground":						"#0A0A0A",
-		"tab.unfocusedHoverBackground":				"#8C78FF1e",
+		"tab.unfocusedHoverBackground":				"#A091FF1e",                // Theme colors
 		"tab.unfocusedHoverForeground":				"#1E1E1E",
-		"tab.hoverBorder":							"#00A0FFe1",
-		"tab.unfocusedHoverBorder":					"#8C78FFe1",
+		"tab.hoverBorder":							"#00A0FFe1",                // Theme colors
+		"tab.unfocusedHoverBorder":					"#A091FFe1",                // Theme colors
 		"tab.activeModifiedBorder":					"#FFFFFF00",
 		"tab.inactiveModifiedBorder":				"#FFFFFF00",
 		"tab.unfocusedActiveModifiedBorder": 		"#FFFFFF00",
@@ -265,15 +265,15 @@
 		//"searchEditor.findMatchBackground":					"#FFFFFF50",
 		//"searchEditor.findMatchBorder":						"#FFFFFF50",
 		//"searchEditor.textInputBorder":						"#FFFFFF3c",
-        "editor.hoverHighlightBackground":                      "#8C78FF3c",
+        "editor.hoverHighlightBackground":                      "#8C78FF3c",	
 		"editor.lineHighlightBackground":                       "#E1E1E132",	
 		"editor.lineHighlightBorder":							"#E1E1E164",
 		"editorUnicodeHighlight.border":						"#E1E1E196",
-        "editorLink.activeForeground":                          "#008CFF",
+        "editorLink.activeForeground":                          "#008CFF",	    // Theme colors
 		"editor.rangeHighlightBackground":						"#FFE1503c",
 		"editor.rangeHighlightBorder":							"#FFE15064",
-		"editor.symbolHighlightBackground":						"#FFE15064",	// Theme colors
-		"editor.symbolHighlightBorder":							"#FFE150cd",	// Theme colors
+		"editor.symbolHighlightBackground":						"#FFE15064",
+		"editor.symbolHighlightBorder":							"#FFE150cd",
         "editorWhitespace.foreground":                          "#A0A0A0",
         "editorIndentGuide.background":                         "#E1E1E1",
         "editorIndentGuide.activeBackground":                   "#A0A0A0",
@@ -285,7 +285,7 @@
 		"editorInlayHint.parameterBackground":					"#F0F0F0",
 		//"editorRuler.foreground":                             "#A0A0A0",	
 		"editor.linkedEditingBackground":						"#EBEBEB",
-        "editorCodeLens.foreground":                            "#A078E1", 
+        "editorCodeLens.foreground":                            "#A078E1",
 		"editorLightBulb.foreground":							"#FFEB00",
 		"editorLightBulbAutoFix.foreground":					"#FFC800",
 
@@ -368,7 +368,7 @@
 		"editorSuggestWidget.foreground":						"#646464",
 		"editorSuggestWidget.background":						"#FAFAFAe1",
 		"editorSuggestWidget.border":							"#C8C8C850",
-		"editorSuggestWidget.focusHighlightForeground":			"#6464DC",
+		"editorSuggestWidget.focusHighlightForeground":			"#6464C8",      // Theme colors
 		"editorSuggestWidget.highlightForeground":				"#00A0FF",		
 		"editorSuggestWidget.selectedBackground":				"#E1E1E164",
 		"editorSuggestWidget.selectedForeground":				"#646464",
@@ -383,7 +383,7 @@
 		"editorGhostText.foreground":							"#505050",
 		"editorGhostText.border":								"#FFFFFF00",
 		"debugExceptionWidget.background":						"#FAFAFAe1",
-		"debugExceptionWidget.border":							"#8C78FF",
+		"debugExceptionWidget.border":							"#AF78E1",
 		"editorMarkerNavigation.background":					"#FAFAFAe1",
 		"editorMarkerNavigationError.background":				"#F03C3C",
 		"editorMarkerNavigationWarning.background":				"#3CA087",
@@ -393,7 +393,7 @@
 		"editorMarkerNavigationInfo.headerBackground":			"#F5F5F5e1",
 
         // Peek view colors Ctrl+Shift+F10 (Update: 20220415)
-        // "peekView.border": 										"#1EA0FFdc",
+        // "peekView.border": 										"#00A0FFdc",
 		// "peekViewEditor.background": 							"#191919",
 		// "peekViewEditorGutter.background": 						"#1E1E1E",
 		// "peekViewEditor.matchHighlightBackground": 				"#9B91FF41",
