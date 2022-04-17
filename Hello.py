@@ -1,5 +1,7 @@
 #### Everything starts here ####
 
+import numpy as np
+
 print("Hello, World!")
 
 print("Hello, VSCode!")
@@ -34,9 +36,12 @@ print("W")
 print("X")
 print("X")
 print("Y")
-print("Z")
+printddd("Z")
 print("alphabet")
-print("boat")
+print("bracket")
+print("cinnamon")
 
 for i in range(1,2):
+    print(i,i)
     print(i)
+

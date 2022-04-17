@@ -6,10 +6,10 @@
   * Windows:
 
 * Activated Photonica location in Linux / macOS  
-  * Dark: `~/.vscode/extensions/conantares.photonica-0.6.7/Themes/Photonica_dark.json`  
-  * Light Azure: `~/.vscode/extensions/conantares.photonica-0.6.7/Themes/Photonica_light_azure.json`  
-  * Light Orange: `~/.vscode/extensions/conantares.photonica-0.6.7/Themes/Photonica_light_orange.json`  
-  * Light Violet: `~/.vscode/extensions/conantares.photonica-0.6.7/Themes/Photonica_light_violet.json`  
+  * Dark: `~/.vscode/extensions/conantares.photonica-0.6.8/Themes/Photonica_dark.json`  
+  * Light Azure: `~/.vscode/extensions/conantares.photonica-0.6.8/Themes/Photonica_light_azure.json`  
+  * Light Orange: `~/.vscode/extensions/conantares.photonica-0.6.8/Themes/Photonica_light_orange.json`  
+  * Light Violet: `~/.vscode/extensions/conantares.photonica-0.6.8/Themes/Photonica_light_violet.json`  
 
 * Color Straw  
   * Linux:      Color Picker
