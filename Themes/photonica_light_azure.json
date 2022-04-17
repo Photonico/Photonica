@@ -108,7 +108,7 @@
 		"list.activeSelectionForeground": 		"#141414",
 		"list.activeSelectionIconForeground": 	"#141414",
 		"list.dropBackground": 					"#8C78FF32",	                // Theme colors
-		"list.focusBackground": 		    	"#00A0FFd2",                    // Theme colors
+		"list.focusBackground": 		    	"#00A0FFc8",                    // Theme colors
 		"list.focusForeground": 				"#FAFAFA",
 		"list.focusHighlightForeground": 		"#6464DC",		                // Theme colors
 		"list.highlightForeground": 	    	"#00A0FF",		                // Theme colors
@@ -188,41 +188,59 @@
 		"minimapGutter.deletedBackground":		"#EB6464e1",
 
 		// Editor: Major (Update: 20220413)
-        "editor.background":"#FEFEFE",							// 254,254,254
-        "editor.foreground":"#0A0A0A",							// 010,010,010
-        //"editor.selectionForeground":"#F0F0F0",				// 240,240,240
-        "editor.selectionBackground":"#D2F0FF", 				// 210,240,255
-        "editor.lineHighlightBackground":"#F5F5F5",				// 245,245,245
-        //"editor.lineHighlightBorder":"#8C8C8C",				// 140,140,140
-        "editorCursor.foreground":"#0078F0", 					// 000,120,240
-        //"editorCursor.background":"#3C3C3C",					// 060,060,060
-        "editorWhitespace.foreground":"#DCDCDC",				// 220,220,220
-        "editorLineNumber.foreground":"#A0A0A0",				// 160,160,160
-        //"editorLineNumber.activeForeground":"#0078F0", 		// 000,120,240
-        "editorLineNumber.activeForeground":"#3C3C3C",			// 060,060,060
-        //"editor.inactiveSelectionBackground":"#5050507e",		// 080,080,080
-        "editor.selectionHighlightBackground":"#c8c8c860", 		// 200,200,200
-        //"editor.selectionHighlightBorder":"#5A5A5A",			// 090,090,090
-        //"editor.wordHighlightBackground":"#5A5A5A7e",			// 090,090,090
-        //"editor.wordHighlightBorder":"#5A5A5A",				// 090,090,090
-        //"editor.wordHighlightStrongBackground":"#5A5A5A7e",	// 090,090,090
-        //"editor.wordHighlightStrongBorder":"#5A5A5A",			// 090,090,090
-        "editor.hoverHighlightBackground":"#dcdcdc60",			// 220,220,220
-        "editor.findMatchBackground":"#C8B4FF7e",				// 200,180,255
-        "editor.findMatchBorder":"#C8B4FF",						// 200,180,255
-        "editor.findMatchHighlightBackground":"#C8B4FF7e",		// 2P00,180,255
-        //"editor.findRangeHighlightBackground":"#A0A0A07e",	// 160,160,160
-        //"editor.findMatchHighlightBorder":"#5A5A5A",			// 090,090,090
-        //"editor.findRangeHighlightBorder":"#A0A0A07e",		// 160,160,160
-        "editorLink.activeForeground":"#282828", 				// 040,040,040
-        "editorIndentGuide.background":"#E1E1E1",				// 225,225,225
-        "editorIndentGuide.activeBackground":"#DCDCDC",			// 220,220,220
-        //"editorRuler.foreground":"#646464",					// 100,100,100
-        "editorCodeLens.foreground":"#282828", 					// 040,040,040
+        "editor.background":                                    "#FFFFFF",
+		"editor.foreground":                                    "#0A0A0A",
+        "editorLineNumber.foreground":                          "#A0A0A0",
+		"editorLineNumber.activeForeground":					"#3C3C3C",
+        //"editorLineNumber.activeForeground":                  "#0078F0",
+        //"editorCursor.background":                            "#3C3C3C",
+        "editorCursor.foreground":                              "#0078F0", 
+		//"editor.selectionForeground":                         "#F0F0F0",
+        "editor.selectionBackground":                           "#D2F0FF",      // Theme colors
+		//"editor.inactiveSelectionBackground":                 "#5050507e",
+		"editor.selectionHighlightBackground":                  "#c8c8c860",
+		"editor.selectionHighlightBorder":                      "#5A5A5A",
+        "editor.wordHighlightBackground":                       "#5A5A5A7e",
+		"editor.wordHighlightBorder":                           "#5A5A5A",
+		"editor.wordHighlightStrongBackground":                 "#5A5A5A7e",
+		"editor.wordHighlightStrongBorder":                     "#5A5A5A",	
+        "editor.findMatchBackground":                           "#C8B4FF7e",
+		"editor.findMatchHighlightBackground":"#C8B4FF7e",
+		"editor.findRangeHighlightBackground":"#A0A0A07e",
+		"editor.findMatchBorder":                               "#C8B4FF",
+		"editor.findMatchHighlightBorder":"#5A5A5A",
+		//"editor.findRangeHighlightBorder":"#A0A0A07e",
+		//"searchEditor.findMatchBackground":					"#FFFFFF50",
+		//"searchEditor.findMatchBorder":						"#FFFFFF50",
+		//"searchEditor.textInputBorder":						"#FFFFFF3c",
+        "editor.hoverHighlightBackground":"#dcdcdc60",
+		"editor.lineHighlightBackground":"#F5F5F5",	
+		"editor.lineHighlightBorder":							"#8C8C8C",
+		"editorUnicodeHighlight.border":						"#3C3C3C",
+        "editorLink.activeForeground":"#282828",
+		"editor.rangeHighlightBackground":						"#FFFFFF28",
+		"editor.rangeHighlightBorder":							"#FFFFFF50",
+		"editor.symbolHighlightBackground":						"#9B91FF4b",	// Theme colors
+		"editor.symbolHighlightBorder":							"#9B91FFa0",	// Theme colors
+        "editorWhitespace.foreground":                          "#C8C8C8",
+        "editorIndentGuide.background":                         "#E1E1E1",
+        "editorIndentGuide.activeBackground":                   "#DCDCDC",
+		"editorInlayHint.foreground":							"#FFC800e1",
+		"editorInlayHint.background":							"#3C3C3C",
+		"editorInlayHint.typeForeground":						"#E1A0FFe1",
+		"editorInlayHint.typeBackground":						"#3C3C3C",
+		"editorInlayHint.parameterForeground":					"#8CC8B4e1",
+		"editorInlayHint.parameterBackground":					"#3C3C3C",
+		//"editorRuler.foreground":                             "#646464",	
+		"editor.linkedEditingBackground":						"#3C3C3C",
+        "editorCodeLens.foreground":                            "#282828", 
+		"editorLightBulb.foreground":							"#FFEB00",
+		"editorLightBulbAutoFix.foreground":					"#FFC800",
 
 
 
-        
+
+
         "editorBracketMatch.background":"#F5F5F5",				// 245,245,245
         //"editorBracketMatch.border":"#8C8C8C",				// 140,140,140
         "editorError.foreground":"#FF6450",						// 255,100,080
