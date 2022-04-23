@@ -510,8 +510,8 @@
 		//"debugToolBar.border":							"#6464641e",
 		"editor.stackFrameHighlightBackground":				"#2D2D2Df0",
 		//"editor.focusedStackFrameHighlightBackground":	"#505050f0",
-		"debugView.exceptionLabelForeground": 				"#F0F0F0",
-		"debugView.exceptionLabelBackground": 				"#782328",
+		"debugView.exceptionLabelForeground": 				"#FAFAFA",
+		"debugView.exceptionLabelBackground": 				"#A51919",
 
 		// Testing (Update: 20220415)
 
@@ -522,8 +522,6 @@
 		"welcomePage.tileBackground":					"#282828",
 		"welcomePage.tileHoverBackground":				"#9B91FF64",			// Theme colors
 		"welcomePage.tileShadow":						"#2D2D2D",
-		"welcomePage.buttonBackground":					"#2D2D2D",
-		"welcomePage.buttonHoverBackground":			"#505050",
 		"walkThrough.embeddedEditorBackground":			"#323232",	
 
 		// Git (Update: 20220415)
