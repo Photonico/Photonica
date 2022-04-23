@@ -486,10 +486,14 @@
 		"extensionIcon.preReleaseForeground":			"#4EC3A0",
 
 		// Quick Picker (Update: 20220415)
-		"pickerGroup.border":		"#F0F0F07d",
-		"pickerGroup.foreground":	"#D28CFA",
-		"quickInput.background":	"#282828e6",
-		"quickInput.foreground":	"#B4B4B4",
+		"pickerGroup.border":							"#F0F0F07d",
+		"pickerGroup.foreground":						"#D28CFA",
+		"quickInput.background":						"#282828e6",
+		"quickInput.foreground":						"#B4B4B4",
+		//"quickInputList.focusBackground":           	"#00A0FF50",
+        //"quickInputList.focusForeground":           	"#141414",
+        //"quickInputList.focusIconForeground":       	"#0078E1",
+        //"quickInputTitle.background":               	"#F5F5f5f0",
 
 		// Keybinding label (Update: 20220415)
 		"keybindingLabel.background":			"#232323f0",
