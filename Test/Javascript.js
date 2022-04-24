@@ -55,3 +55,5 @@ console.log(stack.size());
 
 stack.clear();
 console.log(stack.items);
+
+setAttribute("${1:attr}", "${2:value}");$0
