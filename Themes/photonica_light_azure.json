@@ -246,7 +246,7 @@
         "editorLineNumber.foreground":                          "#B4B4B4",
 		"editorLineNumber.activeForeground":					"#0064C8",      // Theme colors
         "editorCursor.background":                              "#0064C8",      // Theme colors
-        "editorCursor.foreground":                              "#0064C8",      // Theme colors
+        "editorCursor.foreground":                              "#0064C8",
 		"editor.selectionForeground":                           "#0064C8",      // Theme colors
         "editor.selectionBackground":                           "#B9D7F564",    
 		"editor.inactiveSelectionBackground":                   "#B9D7F55A",    
@@ -558,26 +558,46 @@
 		"settings.headerBorder":						"#F0F0F0",
 		"settings.sashBorder":							"#F0F0F0",
 
-        // Terminal Colors
-        "terminal.background": "#FAFAFA",			// 250,250,250
-        "terminal.foreground": "#282828",           // 040,040,040
-        "terminal.ansiBlack": "#000000",            // 000,000,000
-        "terminal.ansiRed": "#DC6464",              // 220,100,100
-        "terminal.ansiGreen": "#50A028",            // 080,160,040
-        "terminal.ansiYellow": "#F0AA3C",           // 240,170,060
-        "terminal.ansiBlue": "#3296E1",             // 050,150,225
-        "terminal.ansiMagenta": "#7864C8",          // 120,100,200
-        "terminal.ansiCyan": "#3CB48C",             // 060,180,140
-        "terminal.ansiWhite": "#C8C8C8",            // 200,200,200
-        "terminal.ansiBrightBlack": "#646464",		// 100,100,100
-        "terminal.ansiBrightRed": "#F06E6E",        // 240,110,110
-        "terminal.ansiBrightGreen": "#64B450",      // 100,180,080
-        "terminal.ansiBrightYellow": "#F0AA46",     // 240,170,070
-        "terminal.ansiBrightBlue": "#3CA0E6",       // 060,160,230
-        "terminal.ansiBrightMagenta": "#A078E1",    // 160,120,200
-        "terminal.ansiBrightCyan": "#50C8A0",       // 080,200,160
-        "terminal.ansiBrightWhite": "#DCDCDC",      // 220,220,220
+        // Breadcrumbs: The theme colors for breadcrumbs navigation (Update: 20220425)
+        "breadcrumb.foreground": 					"#141414",
+		"breadcrumb.background": 					"#FFFFFFf0",
+		"breadcrumb.focusForeground": 				"#0078E1",                  // Theme colors
+		"breadcrumb.activeSelectionForeground": 	"#8C78FF",                  // Theme colors
+		"breadcrumbPicker.background":  			"#FFFFFFf0",
+
+        // Snippets (Update: 20220425)
+		"editor.snippetTabstopHighlightBackground":  		"#64C8FF28",
+		"editor.snippetTabstopHighlightBorder":  		    "#64C8FF64",
+		"editor.snippetFinalTabstopHighlightBackground":	"#C8B9FF28",
+		"editor.snippetFinalTabstopHighlightBorder":  		"#C8B9FF64",
+
+        // Terminal Colors (Update: 20220425)
+        "terminal.background":                  "#FAFAFA",
+        "terminal.foreground":                  "#141414", 
+        "terminal.border":						"#FAFAFA",
+        "terminal.ansiBlack":                   "#141414",
+        "terminal.ansiRed":                     "#DC6464", 
+        "terminal.ansiGreen":                   "#50A028",
+        "terminal.ansiYellow":                  "#F0AA3C", 
+        "terminal.ansiBlue":                    "#3296E1",
+        "terminal.ansiMagenta":                 "#7864C8",
+        "terminal.ansiCyan":                    "#3CB48C",
+        "terminal.ansiWhite":                   "#C8C8C8",
+        "terminal.ansiBrightBlack":             "#646464",
+        "terminal.ansiBrightRed":               "#F06E6E",
+        "terminal.ansiBrightGreen":             "#64B450",
+        "terminal.ansiBrightYellow":            "#F0AA46",
+        "terminal.ansiBrightBlue":              "#3CA0E6",
+        "terminal.ansiBrightMagenta":           "#A078E1",
+        "terminal.ansiBrightCyan":              "#50C8A0",
+        "terminal.ansiBrightWhite":             "#F0F0F0",
+		"terminal.selectionBackground":			"#00A0FF50", 
+		"terminalCursor.background":			"#0064C8",
+		"terminalCursor.foreground":			"#0064C8",
+		"terminal.dropBackground": 				"#A091FF32",
+		"terminal.tab.activeBorder":			"#00A0FF"                       // Theme colors
     },
+
     "tokenColors": 
     [
         {
