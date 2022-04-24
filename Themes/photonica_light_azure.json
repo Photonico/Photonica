@@ -517,7 +517,7 @@
 
         //Welcome page (Update: 20220415)
 		"welcomePage.background":						    "#FFFFFF",
-		"welcomePage.progress.background":				    "#B4AAFF64",        // Theme colors
+		"welcomePage.progress.background":				    "#00B4FF3c",        // Theme colors
 		"welcomePage.progress.foreground":				    "#00A0FF",		    // Theme colors
 		"welcomePage.tileBackground":					    "#F5F5F5",
 		"welcomePage.tileHoverBackground":				    "#C8C8C864",
