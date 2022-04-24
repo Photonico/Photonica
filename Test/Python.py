@@ -1,6 +1,6 @@
 """ Python Test """
 
-#%% 
+#%%
 #### Lagrange Interpolation Formula
 
 import time
@@ -11,6 +11,7 @@ from scipy.interpolate import lagrange
 to = time.time()
 
 def lagrange_interpolate(x, y, t):
+    """ Lagrange interpolate """
     p = lagrange(x, y)
     return p(t)
 
