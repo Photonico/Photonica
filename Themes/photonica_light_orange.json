@@ -592,8 +592,8 @@
         "terminal.ansiBrightCyan":              "#50C8A0",
         "terminal.ansiBrightWhite":             "#F0F0F0",
 		"terminal.selectionBackground":			"#00A0FF50", 
-		"terminalCursor.background":			"#0064C8",
-		"terminalCursor.foreground":			"#0064C8",
+		"terminalCursor.background":			"#EB5014",
+		"terminalCursor.foreground":			"#EB5014",
 		"terminal.dropBackground": 				"#A091FF32",
 		"terminal.tab.activeBorder":			"#FF9100"                       // Theme colors
     },
