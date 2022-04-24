@@ -285,7 +285,7 @@
 		"editorInlayHint.parameterBackground":					"#F0F0F0",
 		//"editorRuler.foreground":                             "#A0A0A0",	
 		"editor.linkedEditingBackground":						"#EBEBEB",
-        "editorCodeLens.foreground":                            "#A078E1",
+        "editorCodeLens.foreground":                            "#82A0E1",
 		"editorLightBulb.foreground":							"#FFEB00",
 		"editorLightBulbAutoFix.foreground":					"#FFC800",
 
