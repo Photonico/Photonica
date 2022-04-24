@@ -245,7 +245,7 @@
 		"editor.foreground":                                    "#141414",
         "editorLineNumber.foreground":                          "#B4B4B4",
 		"editorLineNumber.activeForeground":					"#EB5014",      // Theme colors
-        "editorCursor.background":                              "#EB5014",      // Theme colors
+        //"editorCursor.background":                            "#EB5014",      // Theme colors
         "editorCursor.foreground":                              "#EB5014",      // Theme colors
 		"editor.selectionForeground":                           "#EB5014",      // Theme colors
         "editor.selectionBackground":                           "#B9D7F564",    
@@ -592,7 +592,7 @@
         "terminal.ansiBrightCyan":              "#50C8A0",
         "terminal.ansiBrightWhite":             "#F0F0F0",
 		"terminal.selectionBackground":			"#00A0FF50", 
-		"terminalCursor.background":			"#EB5014",
+		//"terminalCursor.background":			"#EB5014",
 		"terminalCursor.foreground":			"#EB5014",
 		"terminal.dropBackground": 				"#A091FF32",
 		"terminal.tab.activeBorder":			"#FF9100"                       // Theme colors
