@@ -96,14 +96,14 @@
         "scrollbarSlider.activeBackground":     "#7864E17d",                    // Theme Colors
         "scrollbarSlider.background":           "#C8C8C8c8",
 
-        // Badge (Update: 20220417)
+        // Badge (Update: 20220425)
         "badge.foreground": "#FFFFFF", 
-		"badge.background": "#00A0FF",
+		"badge.background": "#00A0FF",                                          // Theme Colors
 
         // Progress bar (Update: 20220417)
 		//"progressBar.background":"#F0F0F0",
 
-        // Lists and Trees: The list below "EXPLORER" (Update: 20220417)
+        // Lists and Trees: The list below "EXPLORER" (Update: 20220425)
 		"list.activeSelectionBackground": 		"#00A0FF50",                    // Theme colors
 		"list.activeSelectionForeground": 		"#141414",
 		"list.activeSelectionIconForeground": 	"#0064C8",                      // Theme colors
@@ -118,7 +118,7 @@
 		"list.inactiveSelectionBackground": 	"#00A0FF96",                    // Theme colors
 		"list.inactiveSelectionForeground": 	"#FAFAFA",
 		"list.inactiveSelectionIconForeground": "#00A0FF",                      // Theme colors
-		"list.inactiveFocusBackground":			"#0091FF78",                    // Theme colors
+		"list.inactiveFocusBackground":			"#00A0FF78",                    // Theme colors
 		"list.invalidItemForeground": 			"#323232",
 		"list.inactiveFocusOutline": 			"#00A0FF",		                // Theme colors
 		"list.errorForeground":					"#F03C3C",
@@ -136,13 +136,13 @@
         // Panel colors  (Update: 20220417)
         "panel.background":                     "#EBEBEB",
         "panel.border":                         "#F0F0F000",
-        "panel.dropBorder": 					"#00A0FF",
+        "panel.dropBorder": 					"#00A0FF",                      // Theme colors
         "panelTitle.activeBorder":              "#FFFFFF00",
-        "panelTitle.activeForeground":          "#0064C8",
+        "panelTitle.activeForeground":          "#0064C8",                      // Theme colors
         "panelTitle.inactiveForeground":        "#646464",
 		"panelInput.border":					"#D2D2D2",
 		"panelSection.border":					"#F0F0F0",
-		"panelSection.dropBackground":			"#8C78FF28",
+		"panelSection.dropBackground":			"#008CFF28",                    // Theme colors
 		"panelSectionHeader.foreground":		"#141414",
 		"panelSectionHeader.background":		"#FFFFFF64",
 		"panelSectionHeader.border":			"#D2D2D2",
@@ -360,7 +360,7 @@
 		"diffEditorOverview.insertedForeground":				"#64B48Ce1",
 		"diffEditorOverview.removedForeground":					"#E16464e1",
 
-        // Editor Widget (Update: 20220418)
+        // Editor Widget (Update: 20220425)
         "editorWidget.foreground":								"#141414",
 		"editorWidget.background":								"#FFFFFFe1",
 		"editorWidget.border":									"#C8C8C850",
@@ -369,10 +369,10 @@
 		"editorSuggestWidget.background":						"#FAFAFAe1",
 		"editorSuggestWidget.border":							"#C8C8C850",
 		"editorSuggestWidget.focusHighlightForeground":			"#6464C8",      // Theme colors
-		"editorSuggestWidget.highlightForeground":				"#00A0FF",		
+		"editorSuggestWidget.highlightForeground":				"#00A0FF",		// Theme colors
 		"editorSuggestWidget.selectedBackground":				"#E1E1E164",
 		"editorSuggestWidget.selectedForeground":				"#646464",
-		"editorSuggestWidget.selectedIconForeground":			"#0078F0",		// Theme colors
+		"editorSuggestWidget.selectedIconForeground":			"#0078E1",		// Theme colors
 		"editorSuggestWidgetStatus.foreground":					"#00A0FF",		// Theme colors
 		"editorHoverWidget.foreground":							"#646464",
 		"editorHoverWidget.background":							"#FAFAFAe1",
@@ -485,12 +485,12 @@
 		"extensionIcon.verifiedForeground":			    "#008CFF",
 		"extensionIcon.preReleaseForeground":		    "#4EC3A0",
 
-        // Quick Picker (Update: 20220424)
+        // Quick Picker (Update: 20220425)
 		"pickerGroup.border":		                "#28282864",
 		"pickerGroup.foreground":	                "#8C78FF",
 		"quickInput.background":	                "#FFFFFFf0",
 		"quickInput.foreground":	                "#505050",
-        "quickInputList.focusBackground":           "#00A0FF50",
+        "quickInputList.focusBackground":           "#00A0FF3c",
         "quickInputList.focusForeground":           "#141414",
         "quickInputList.focusIconForeground":       "#0078E1",
         "quickInputTitle.background":               "#F5F5f5f0",
