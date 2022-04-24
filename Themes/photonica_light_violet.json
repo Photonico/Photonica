@@ -595,7 +595,7 @@
 		"terminalCursor.background":			"#0064C8",
 		"terminalCursor.foreground":			"#0064C8",
 		"terminal.dropBackground": 				"#A091FF32",
-		"terminal.tab.activeBorder":			"#00A0FF"                       // Theme colors
+		"terminal.tab.activeBorder":			"#A091FF"                       // Theme colors
     },
 
     "tokenColors": 
