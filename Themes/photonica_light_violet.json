@@ -1,5 +1,5 @@
 /* 	
-    Photonica Light Azure
+    Photonica Light Violet
 
     Copyright Luke Niu
     LukeNiu@outlook.com
@@ -13,49 +13,49 @@
     "type": "light",
     "colors": 
     {
-        // General (Update: 20220415)
-        "focusBorder":			    "#00A0FF",					                // Theme Colors
+        // General (Update: 20220425)
+        "focusBorder":			    "#A091FF",					                // Theme Colors
 		"foreground": 			    "#000000",
 		"widget.shadow": 		    "#C8C8C8",
-		//"selection.background":	"#00A0FF",				                    // Theme Colors
+		//"selection.background":	"#A091FF",				                    // Theme Colors
 		"descriptionForeground":    "#141414",
 		"errorForeground":		    "#F03C3C",
-		"icon.foreground":		    "#0064C8",                                  // Theme Colors
-		"sash.hoverBorder":		    "#00A0FF",					                // Theme Colors
+		"icon.foreground":		    "#6464C8",                                  // Theme Colors
+		"sash.hoverBorder":		    "#A091FF",					                // Theme Colors
 
-        // Contrast colors (Update: 20220416)
+        // Contrast colors (Update: 20220425)
 		// "contrastActiveBorder":	"#0064B4",
 		// "contrastBorder": 		"#0064B4",
 
-        // Windows Border (Update: 20220416)
+        // Windows Border (Update: 20220425)
 		//"window.activeBorder":	"#464646",
 		//"window.inactiveBorder":	"#2D2D2D",
 
-		// Text (Update: 20220416)
+		// Text (Update: 20220425)
 		//"textBlockQuote.background":	"#FA9632",
 		//"textBlockQuote.border":		"#F0F0F0",
 		//"textCodeBlock.background":	"#F0F0F0",
-		"textLink.activeForeground":	"#008CFF",			                    // Theme Colors
-		"textLink.foreground":			"#0064C8",			                    // Theme Colors
+		"textLink.activeForeground":	"#8C78FF",			                    // Theme Colors
+		"textLink.foreground":			"#6464C8",			                    // Theme Colors
 		//"textPreformat.foreground":	"#F0F0F0",
 		//"textSeparator.foreground":	"#F0F0F0",
 
         // Action colors (Update: 20220416)
-		"toolbar.hoverBackground":		"#00A0FF8c",			                // Theme Colors
+		"toolbar.hoverBackground":		"#A091FF8c",			                // Theme Colors
 		"toolbar.hoverOutline":			"#00A0FF00",		                    // Theme Colors
-		"toolbar.activeBackground": 	"#00A0FF",			                    // Theme Colors
+		"toolbar.activeBackground": 	"#A091FF",			                    // Theme Colors
 		"toolbar.activeForeground": 	"#F0F0F0",
 
-        // Button (Update: 20220416)
+        // Button (Update: 20220425)
 		"button.foreground":					"#FAFAFA",
-		"button.background": 					"#0078E1",                      // Theme Colors
+		"button.background": 					"#7864E1",                      // Theme Colors
 		"button.border":						"#FFFFFF64",
-		"button.hoverBackground":				"#8C78FF",                      // Theme Colors
+		"button.hoverBackground":				"#0078E1",                      // Theme Colors
 		"button.secondaryForeground": 			"#F0F0F0",
-		"button.secondaryBackground": 			"#0078E1e1",                    // Theme Colors
-		"button.secondaryHoverBackground":		"#8C78FFe1",                    // Theme Colors
+		"button.secondaryBackground": 			"#8C78FFe1",                    // Theme Colors
+		"button.secondaryHoverBackground":		"#0078E1e1",                    // Theme Colors
 		"checkbox.foreground":					"#F0F0F0",
-		"checkbox.background":					"#0078E1e1",                    // Theme Colors
+		"checkbox.background":					"#8C78FFe1",                    // Theme Colors
 		"checkbox.border":						"#FFFFFF64",
 
         // Dropdown Control (Update: 20220416)
@@ -76,7 +76,7 @@
         "input.border":                                     "#D2D2D2",
         "input.foreground":                                 "#141414",
         "input.placeholderForeground":                      "#969696",          // Comment
-        "inputOption.activeBackground":		                "#00A0FF",		    // Theme Colors
+        "inputOption.activeBackground":		                "#A091FF",		    // Theme Colors
 		"inputOption.activeForeground":		                "#FFFFFF",
 		//"inputOption.hoverBackground":	                "#FFFFFFe1",
         //"inputOption.activeBorder":                       "#FFFFFFe1",
@@ -92,8 +92,8 @@
 
         // Scrollbar Control  (Update: 20220417)
         "scrollbar.shadow":                     "#B4B4B4",
-        "scrollbarSlider.hoverBackground":      "#0078E17d",                    // Theme Colors
-        "scrollbarSlider.activeBackground":     "#7864E17d",                    // Theme Colors
+        "scrollbarSlider.hoverBackground":      "#7864E17d",                    // Theme Colors
+        "scrollbarSlider.activeBackground":     "#0078E17d",                    // Theme Colors
         "scrollbarSlider.background":           "#C8C8C8c8",
 
         // Badge (Update: 20220417)
