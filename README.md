@@ -37,11 +37,15 @@ Dark (Python):
 
 Light Azure (Python):
 
-![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Python.png)
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Azure_Python.png)
 
 Light Orange (Python):
 
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Orange_Python.png)
+
 Light Violet (Python):
+
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Violet_Python.png)
 
 ## Preferences shown in the screenshots
 
