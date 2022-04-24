@@ -44,4 +44,3 @@ print("cinnamon")
 for i in range(1,2):
     print(i,i)
     print(i)
-
