@@ -1,6 +1,5 @@
 """ Python Test """
 
-#%%
 #### Lagrange Interpolation Formula
 
 import time
@@ -10,10 +9,10 @@ from scipy.interpolate import lagrange
 
 to = time.time()
 
-def lagrange_interpolate(x, y, t):
+def lagrange_interpolate(x_set, y_set, t_step):
     """ Lagrange interpolate """
-    p = lagrange(x, y)
-    return p(t)
+    p_re = lagrange(x_set, y_set)
+    return p_re(t_step)
 
 x, y = np.loadtxt('Data/dataSim.dat', unpack=True)
 t = np.linspace(1, 2, 11)
