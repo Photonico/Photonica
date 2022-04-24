@@ -4,6 +4,10 @@ All notable changes to the "Photonica" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.0.0 @ Apr 25, 2022
+
+* Publish Violet and Orange versions of light themes.
+
 ## 0.6.8 @ Apr 18, 2022
 
 * Rewrite some tokens list for the Light component.
