@@ -20,7 +20,7 @@
 		//"selection.background":	"#FF9100",				                    // Theme Colors
 		"descriptionForeground":    "#141414",
 		"errorForeground":		    "#F03C3C",
-		"icon.foreground":		    "#EB5014",                                  // Theme Colors
+		"icon.foreground":		    "#E14B28",                                  // Theme Colors
 		"sash.hoverBorder":		    "#FF9100",					                // Theme Colors
 
         // Contrast colors (Update: 20220425)
@@ -106,18 +106,18 @@
         // Lists and Trees: The list below "EXPLORER" (Update: 20220425)
 		"list.activeSelectionBackground": 		"#FF910050",                    // Theme colors
 		"list.activeSelectionForeground": 		"#141414",
-		"list.activeSelectionIconForeground": 	"#EB5014",                      // Theme colors
+		"list.activeSelectionIconForeground": 	"#E14B28",                      // Theme colors
 		"list.dropBackground": 					"#00A0FF32",	                // Theme colors
-		"list.focusBackground": 		    	"#FF9100a0",                    // Theme colors
+		"list.focusBackground": 		    	"#FF910096",                    // Theme colors
 		"list.focusForeground": 				"#FAFAFA",
 		"list.focusHighlightForeground": 		"#0064C8",		                // Theme colors
 		"list.highlightForeground": 	    	"#FF9100",		                // Theme colors
 		"list.focusOutline": 	    			"#FF9100",		                // Theme colors
 		"list.hoverBackground": 				"#E6E6E6",	                
 		"list.hoverForeground": 				"#F05F0A",                      // Theme colors
-		"list.inactiveSelectionBackground": 	"#FF910096",                    // Theme colors
+		"list.inactiveSelectionBackground": 	"#FF910087",                    // Theme colors
 		"list.inactiveSelectionForeground": 	"#FAFAFA",
-		"list.inactiveSelectionIconForeground": "#FF9100",                      // Theme colors
+		"list.inactiveSelectionIconForeground": "#E14B28e1",                      // Theme colors
 		"list.inactiveFocusBackground":			"#FF910078",                    // Theme colors
 		"list.invalidItemForeground": 			"#323232",
 		"list.inactiveFocusOutline": 			"#FF9100",		                // Theme colors
@@ -285,7 +285,7 @@
 		"editorInlayHint.parameterBackground":					"#F0F0F0",
 		//"editorRuler.foreground":                             "#A0A0A0",	
 		"editor.linkedEditingBackground":						"#EBEBEB",
-        "editorCodeLens.foreground":                            "#82A0E1",
+        "editorCodeLens.foreground":                            "#7D9BDC",
 		"editorLightBulb.foreground":							"#FFEB00",
 		"editorLightBulbAutoFix.foreground":					"#FFC800",
 
@@ -372,7 +372,7 @@
 		"editorSuggestWidget.highlightForeground":				"#00A0FF",      // Theme colors
 		"editorSuggestWidget.selectedBackground":				"#E1E1E164",
 		"editorSuggestWidget.selectedForeground":				"#646464",
-		"editorSuggestWidget.selectedIconForeground":			"#F05F0A",		// Theme colors
+		"editorSuggestWidget.selectedIconForeground":			"#E14B28",		// Theme colors
 		"editorSuggestWidgetStatus.foreground":					"#FF9100",		// Theme colors
 		"editorHoverWidget.foreground":							"#646464",
 		"editorHoverWidget.background":							"#FAFAFAe1",
@@ -446,7 +446,7 @@
 		"statusBar.focusBorder":					"#A091FF7d", 
 
         // Menu Bar (Update: 20220425)
-        "menubar.selectionForeground":			    "#6464C8",					// Theme colors
+        "menubar.selectionForeground":			    "#645AC8",					// Theme colors
 		"menubar.selectionBackground":			    "#A0A0A07d",
 		//"menubar.selectionBorder":			    "#FF9100",                  // Theme colors
 		"menu.foreground":						    "#282828",
@@ -473,7 +473,7 @@
         // Banner (Update: 20220425)
         "banner.background": 					"#E6E6E6",
 		"banner.foreground": 					"#141414",
-		"banner.iconForeground":				"#00A0FF",						// Theme colors
+		"banner.iconForeground":				"#FF9100",						// Theme colors
 
         // Extensions (Update: 20220425)
 		"extensionButton.prominentForeground":			"#FFFFFF",
@@ -492,7 +492,7 @@
 		"quickInput.foreground":	                "#505050",
         "quickInputList.focusBackground":           "#00A0FF3c",
         "quickInputList.focusForeground":           "#141414",
-        "quickInputList.focusIconForeground":       "#0078E1",
+        "quickInputList.focusIconForeground":       "#E14B28",
         "quickInputTitle.background":               "#F5F5f5f0",
 
         // Keybinding label (Update: 20220424)
