@@ -586,7 +586,7 @@
         "terminal.ansiBrightBlack":             "#646464",
         "terminal.ansiBrightRed":               "#F06E6E",
         "terminal.ansiBrightGreen":             "#64B450",
-        "terminal.ansiBrightYellow":            "#F0AA46",
+        "terminal.ansiBrightYellow":            "#FFAA46",
         "terminal.ansiBrightBlue":              "#3CA0E6",
         "terminal.ansiBrightMagenta":           "#A078E1",
         "terminal.ansiBrightCyan":              "#50C8A0",

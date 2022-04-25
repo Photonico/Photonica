@@ -575,6 +575,7 @@
         "terminal.background":                  "#FAFAFA",
         "terminal.foreground":                  "#141414", 
         "terminal.border":						"#FAFAFA",
+
         "terminal.ansiBlack":                   "#141414",
         "terminal.ansiRed":                     "#DC6464", 
         "terminal.ansiGreen":                   "#50A028",
@@ -583,14 +584,16 @@
         "terminal.ansiMagenta":                 "#7864C8",
         "terminal.ansiCyan":                    "#3CB48C",
         "terminal.ansiWhite":                   "#C8C8C8",
+
         "terminal.ansiBrightBlack":             "#646464",
         "terminal.ansiBrightRed":               "#F06E6E",
         "terminal.ansiBrightGreen":             "#64B450",
-        "terminal.ansiBrightYellow":            "#F0AA46",
+        "terminal.ansiBrightYellow":            "#FFAA46",
         "terminal.ansiBrightBlue":              "#3CA0E6",
         "terminal.ansiBrightMagenta":           "#A078E1",
         "terminal.ansiBrightCyan":              "#50C8A0",
         "terminal.ansiBrightWhite":             "#F0F0F0",
+
 		"terminal.selectionBackground":			"#00A0FF50", 
 		//"terminalCursor.background":			"#0064C8",
 		"terminalCursor.foreground":			"#0064C8",
