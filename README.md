@@ -15,7 +15,7 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 1. Launch Quick Open  
 
    * Linux:    `Ctrl` + `P`
-   * macOS:    `⌘P`
+   * macOS:    `⌘ P`
    * Windows:  `Ctrl` + `P`
 
     Paste the following command and press Enter:  
@@ -70,7 +70,7 @@ Light Violet (Python):
 ## Follow me
 
 * E-Mail: LukeNiu@outlook.com
-* GitHub: Github.com/Photonico
+* GitHub: [Github.com/Photonico](https://Github.com/Photonico)
 
 ------
 
