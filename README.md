@@ -14,9 +14,9 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 1. Launch Quick Open  
 
-   * Linux:    `Ctrl+P`
+   * Linux:    `Ctrl` + `P`
    * macOS:    `⌘P`
-   * Windows:  `Ctrl+P`
+   * Windows:  `Ctrl` + `P`
 
     Paste the following command and press Enter:  
         ```ext Photonica```
@@ -26,7 +26,7 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 2. Click Install to download and install it;
 3. Click Reload to reload your VS Code;
 4. Activate it:  
-    ```Manage → Color Theme → Photonica```
+    `Manage` → `Color Theme` → `Photonica`
 5. Enjoy it !
 
 ## Screenshot
@@ -70,7 +70,7 @@ Light Violet (Python):
 ## Follow me
 
 * E-Mail: LukeNiu@outlook.com
-* GitHub: Github.com/ConAntares
+* GitHub: Github.com/Photonico
 
 ------
 
