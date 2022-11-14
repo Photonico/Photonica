@@ -32,7 +32,7 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 ## Install VSCE
 
 ```zsh
-npm install -g vsce
+sudo npm install -g vsce
 ```
 
 * Tutorial: `https://code.visualstudio.com/api/get-started/your-first-extension`
