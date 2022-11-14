@@ -49,8 +49,6 @@ Light Violet (Python):
 
 ## Preferences shown in the screenshots
 
-* The font  is [Fira Comp](https://github.com/Photonico/Fira_Comp).
-
 * The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
 ## Acknowledgment
