@@ -1,4 +1,4 @@
-# Change Log
+# The major change log
 
 All notable changes to the "Photonica" extension will be documented in this file.
 

@@ -33,33 +33,35 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 Dark (Python):
 
-![Dark (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Dark_Python.png)
+![Dark (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/dark_1.0.4.png)
 
 Light Azure (Python):
 
-![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Azure_Python.png)
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_azure_1.0.4.png)
 
 Light Orange (Python):
 
-![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Orange_Python.png)
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_orange_1.0.4.png)
 
 Light Violet (Python):
 
-![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/Light_Violet_Python.png)
+![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_violet_1.0.4.png)
 
 ## Preferences shown in the screenshots
 
 * The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
-## Acknowledgment
-
-* The dark theme is inspired by the [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula).
+* The monospace font is [Photonico Code](https://github.com/Photonico/Photonico_Code).
 
 ## More information
 
 * Photonica is open source via [GitHub Repository](https://github.com/ConAntares/Photonica/). I will feel happy if someone can develop his themes based on Photonica.
 
-* Welcome to use my monospace font [Fira Comp](https://github.com/Photonico/Fira_Comp).
+* Welcome to use my monospace font [Photonico Code](https://github.com/Photonico/Photonico_Code).
+
+## Acknowledgment
+
+* The dark theme is inspired by the [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula).
 
 ## License
 

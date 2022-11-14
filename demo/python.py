@@ -1,4 +1,4 @@
-""" Python demo """
+""" python demo """
 
 import time
 
@@ -45,7 +45,6 @@ class MyTimer():
 
 #### Lagrange Interpolation Formula
 
-import time
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import lagrange
