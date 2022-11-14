@@ -29,7 +29,7 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
     `Manage` → `Color Theme` → `Photonica`
 5. Enjoy it !
 
-## Screenshot
+## Screenshots
 
 Dark (Python):
 
