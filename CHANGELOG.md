@@ -10,7 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 0.6.8 @ Apr 18, 2022
 
-* Rewrite some tokens list for the Light component.
+* Rewrite some tokens list for the light component.
 
 ## 0.6.7 @ Apr 15, 2022
 
