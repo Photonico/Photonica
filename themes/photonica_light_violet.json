@@ -177,7 +177,7 @@
 		"minimap.selectionHighlight":			"#B9D7F578",
 		"minimap.errorHighlight":				"#F03C3C78",
 		"minimap.warningHighlight":				"#3CA08778",
-		"minimap.background":					"#FFFFFFFF",
+		"minimap.background":					"#FFFFFFa0",
 		"minimap.selectionOccurrenceHighlight":	"#9BEBAF96",
 		"minimap.foregroundOpacity":			"#000000FF",
 		"minimapSlider.background":				"#FAFAFA1e",

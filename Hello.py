@@ -6,7 +6,7 @@ print("Hello, World!")
 
 print("Hello, VSCode!")
 
-print("Hello, Photonica!")
+print("Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! Hello, Photonica! ")
 
 print("Hello, Photonico!")
 
