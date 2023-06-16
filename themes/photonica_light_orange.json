@@ -253,7 +253,7 @@
 		"editor.selectionHighlightBackground":                  "#9BEBAF50",
 		"editor.selectionHighlightBorder":                      "#9BEBAF00",
         "editor.wordHighlightBackground":                       "#91A5B91e",
-		"editor.wordHighlightBorder":                           "#91A5B932",
+		"editor.wordHighlightBorder":                           "#F0500078",    // Theme colors	#0064D2 #F05000 #7332C8
 		"editor.wordHighlightStrongBackground":                 "#91A5B928",
 		"editor.wordHighlightStrongBorder":                     "#91A5B93c",	
         "editor.findMatchBackground":                           "#FFE150c8",
@@ -290,8 +290,8 @@
 		"editorLightBulbAutoFix.foreground":					"#FFC800",
 
 		// Editor: Bracket (Update: 20220418)
-		"editorBracketMatch.background":						"#B9D7F550",
-		"editorBracketMatch.border":							"#B9D7F5",
+		"editorBracketMatch.background":						"#B9D7F564",
+		"editorBracketMatch.border":							"#0064D264",
 		"editorBracketHighlight.foreground1":					"#2850A0",
 		"editorBracketHighlight.foreground2":					"#7332C8",
 		"editorBracketHighlight.foreground3":					"#0064D2",
