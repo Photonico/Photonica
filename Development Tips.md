@@ -19,19 +19,16 @@
   * Linux:      Alt T  
   * macOS:      ⌥ T  
 
-* My Colors  
-  `code ~/Sync/Colors/'Colors List'`
-
 * Tools Installation  
   `npm install -g yo generator-code vsce`
 
-* Generate a template  
+* Generate a template
   `yo code`
 
-* Package the file  
+* Package the file
   `vsce package`
 
-* Publish the project  
+* Publish the project
   `vsce publish`
 
 * VSCode theme generator  
