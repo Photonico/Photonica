@@ -133,7 +133,7 @@
 		//"tree.indentGuidesStroke":			"#C8C8C8",
 		//"tree.tableColumnsBorder":			"#505050",
 		//"tree.tableOddRowsBackground":		"#505050",
-        "listFilterWidget.shadow":              "#00A0FFc8",
+        "listFilterWidget.shadow":              "#00A0FFb4",
 
         // Panel colors  (Update: 20220425)
         "panel.background":                     "#EBEBEB",
