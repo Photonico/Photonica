@@ -1,1 +1,92 @@
 # workspace
+
+June 2023
+
+Official color list:
+<https://code.visualstudio.com/api/references/theme-color>
+
+Color formats
+
+Contrast colors
+
+Base colors
+
+Window border
+
+Text colors
+
+Action colors
+
+Button control
+
+Dropdown control
+
+Input control
+
+Scrollbar control
+
+Badge
+
+Progress bar
+
+Lists and trees
+
+Activity Bar
+
+Profiles
+
+Side Bar
+
+Minimap
+
+Editor Groups & Tabs
+
+Editor colors
+
+Diff editor colors
+
+Chat colors
+
+Interactive Editor colors
+
+Editor widget colors
+
+Peek view colors
+
+Merge conflicts colors
+
+Panel colors
+
+Status Bar colors
+
+Title Bar colors
+
+Menu Bar colors
+
+Command Center colors
+
+Notification colors
+
+Banner colors
+
+Extensions colors
+
+Quick picker colors
+
+Keybinding label colors
+
+Keyboard shortcut table colors
+
+Integrated Terminal colors
+
+Debug colors
+
+Testing colors
+
+Welcome page colors
+
+Source Control colors
+
+Git colors
+
+Settings Editor colors

@@ -103,22 +103,23 @@
         // Progress bar (Update: 20220417)
 		//"progressBar.background":"#F0F0F0",
 
-        // Lists and Trees: The list below "EXPLORER" (Update: 20220425)
-		"list.activeSelectionBackground": 		"#00A0FF50",                    // Theme colors
-		"list.activeSelectionForeground": 		"#141414",
+        // Lists and Trees: The list below "EXPLORER" (Update: 20230626)
+		"list.activeSelectionBackground": 		"#00A0FFbe",                    // Theme colors
+		"list.activeSelectionForeground": 		"#FFFFFF",
 		"list.activeSelectionIconForeground": 	"#0050A0",                      // Theme colors
 		"list.dropBackground": 					"#A091FF32",	                // Theme colors
-		"list.focusBackground": 		    	"#00A0FF96",                    // Theme colors
-		"list.focusForeground": 				"#FAFAFA",
+		"list.focusBackground": 		    	"#00A0FF32",                    // Theme colors
+		"list.focusForeground": 				"#141414",
 		"list.focusHighlightForeground": 		"#645AC8",		                // Theme colors
 		"list.highlightForeground": 	    	"#00A0FF",		                // Theme colors
 		"list.focusOutline": 	    			"#00A0FF",		                // Theme colors
+        "list.focusAndSelectionOutline":        "#64D2FF",                      // Theme colors
 		"list.hoverBackground": 				"#E6E6E6",	                
 		"list.hoverForeground": 				"#0078E1",                      // Theme colors
-		"list.inactiveSelectionBackground": 	"#00A0FF87",                    // Theme colors
+		"list.inactiveSelectionBackground": 	"#00A0FF73",                    // Theme colors
 		"list.inactiveSelectionForeground": 	"#FAFAFA",
-		"list.inactiveSelectionIconForeground": "#0050A0e1",                      // Theme colors
-		"list.inactiveFocusBackground":			"#00A0FF78",                    // Theme colors
+		"list.inactiveSelectionIconForeground": "#0050A0e1",                    // Theme colors
+		"list.inactiveFocusBackground":			"#A091FF4b",                    // Theme colors
 		"list.invalidItemForeground": 			"#323232",
 		"list.inactiveFocusOutline": 			"#00A0FF",		                // Theme colors
 		"list.errorForeground":					"#F03C3C",
@@ -132,6 +133,7 @@
 		//"tree.indentGuidesStroke":			"#C8C8C8",
 		//"tree.tableColumnsBorder":			"#505050",
 		//"tree.tableOddRowsBackground":		"#505050",
+        "listFilterWidget.shadow":              "#D00",
 
         // Panel colors  (Update: 20220417)
         "panel.background":                     "#EBEBEB",
@@ -524,11 +526,11 @@
 		"welcomePage.tileShadow":						    "#F0F0F0",
 		"walkThrough.embeddedEditorBackground":			    "#FAFAFA",	
 
-        // Git (Update: 20220424)
+        // Git (Update: 20230626)
 		"gitDecoration.addedResourceForeground":				"#FFC828",
-		"gitDecoration.modifiedResourceForeground":				"#3C96FF",
+		"gitDecoration.modifiedResourceForeground":				"#005FC8",
 		"gitDecoration.renamedResourceForeground": 				"#4EC8A0",
-		"gitDecoration.stageModifiedResourceForeground": 		"#3C96FF",
+		"gitDecoration.stageModifiedResourceForeground": 		"#005FC8",
 		"gitDecoration.stageDeletedResourceForeground": 		"#E16464",
 		"gitDecoration.deletedResourceForeground": 				"#E16464",
 		"gitDecoration.untrackedResourceForeground":			"#28A050",
