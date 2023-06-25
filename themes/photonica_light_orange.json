@@ -103,22 +103,23 @@
         // Progress bar (Update: 20220417)
 		//"progressBar.background":"#F0F0F0",
 
-        // Lists and Trees: The list below "EXPLORER" (Update: 20220425)
-		"list.activeSelectionBackground": 		"#FF910050",                    // Theme colors
-		"list.activeSelectionForeground": 		"#141414",
+        // Lists and Trees: The list below "EXPLORER" (Update: 20230626)
+		"list.activeSelectionBackground": 		"#FF9100be",                    // Theme colors
+		"list.activeSelectionForeground": 		"#FFFFFF",
 		"list.activeSelectionIconForeground": 	"#E14B28",                      // Theme colors
 		"list.dropBackground": 					"#00A0FF32",	                // Theme colors
-		"list.focusBackground": 		    	"#FF910096",                    // Theme colors
-		"list.focusForeground": 				"#FAFAFA",
+		"list.focusBackground": 		    	"#FF910032",                    // Theme colors
+		"list.focusForeground": 				"#141414",
 		"list.focusHighlightForeground": 		"#0064C8",		                // Theme colors
 		"list.highlightForeground": 	    	"#FF9100",		                // Theme colors
 		"list.focusOutline": 	    			"#FF9100",		                // Theme colors
+        "list.focusAndSelectionOutline":        "#FFD232",                      // Theme colors
 		"list.hoverBackground": 				"#E6E6E6",	                
 		"list.hoverForeground": 				"#F05F0A",                      // Theme colors
-		"list.inactiveSelectionBackground": 	"#FF910087",                    // Theme colors
+		"list.inactiveSelectionBackground": 	"#FF910073",                    // Theme colors
 		"list.inactiveSelectionForeground": 	"#FAFAFA",
 		"list.inactiveSelectionIconForeground": "#E14B28e1",                      // Theme colors
-		"list.inactiveFocusBackground":			"#FF910078",                    // Theme colors
+		"list.inactiveFocusBackground":			"#00A0FF4b",                    // Theme colors
 		"list.invalidItemForeground": 			"#323232",
 		"list.inactiveFocusOutline": 			"#FF9100",		                // Theme colors
 		"list.errorForeground":					"#F03C3C",
@@ -524,11 +525,11 @@
 		"welcomePage.tileShadow":						    "#F0F0F0",
 		"walkThrough.embeddedEditorBackground":			    "#FAFAFA",	
 
-        // Git (Update: 20220424)
+        // Git (Update: 20230626)
 		"gitDecoration.addedResourceForeground":				"#FFC828",
-		"gitDecoration.modifiedResourceForeground":				"#3C96FF",
+		"gitDecoration.modifiedResourceForeground":				"#005FC8",
 		"gitDecoration.renamedResourceForeground": 				"#4EC8A0",
-		"gitDecoration.stageModifiedResourceForeground": 		"#3C96FF",
+		"gitDecoration.stageModifiedResourceForeground": 		"#005FC8",
 		"gitDecoration.stageDeletedResourceForeground": 		"#E16464",
 		"gitDecoration.deletedResourceForeground": 				"#E16464",
 		"gitDecoration.untrackedResourceForeground":			"#28A050",
