@@ -2,7 +2,11 @@
 
 All notable changes to the "Photonica" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Check to [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## 1.0.10 @ June 26, 2023
+
+* Update the colors of the tree and list.
 
 ## 1.0.0 @ Apr 25, 2022
 
@@ -34,7 +38,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 0.4.0 @ June 13, 2019
 
-* Add the support for [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).  
+* Add support for [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).  
 
 ## 0.3.4 @ May 7, 2019
 

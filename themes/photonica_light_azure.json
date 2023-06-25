@@ -104,7 +104,7 @@
 		//"progressBar.background":"#F0F0F0",
 
         // Lists and Trees: The list below "EXPLORER" (Update: 20230626)
-		"list.activeSelectionBackground": 		"#00A0FFbe",                    // Theme colors
+		"list.activeSelectionBackground": 		"#00A0FFd7",                    // Theme colors
 		"list.activeSelectionForeground": 		"#FFFFFF",
 		"list.activeSelectionIconForeground": 	"#0050A0",                      // Theme colors
 		"list.dropBackground": 					"#A091FF32",	                // Theme colors
@@ -116,15 +116,15 @@
         "list.focusAndSelectionOutline":        "#64D2FF",                      // Theme colors
 		"list.hoverBackground": 				"#E6E6E6",	                
 		"list.hoverForeground": 				"#0078E1",                      // Theme colors
-		"list.inactiveSelectionBackground": 	"#00A0FF73",                    // Theme colors
-		"list.inactiveSelectionForeground": 	"#FAFAFA",
+		"list.inactiveSelectionBackground": 	"#00A0FF8c",                    // Theme colors
+		"list.inactiveSelectionForeground": 	"#FFFFFF",
 		"list.inactiveSelectionIconForeground": "#0050A0e1",                    // Theme colors
 		"list.inactiveFocusBackground":			"#A091FF4b",                    // Theme colors
 		"list.invalidItemForeground": 			"#323232",
 		"list.inactiveFocusOutline": 			"#00A0FF",		                // Theme colors
 		"list.errorForeground":					"#F03C3C",
 		"list.warningForeground": 				"#3CA087",
-		"listFilterWidget.background": 			"#A091FF30",	                // Theme colors
+		"listFilterWidget.background": 			"#A091FF28",	                // Theme colors
 		"listFilterWidget.outline": 			"#A091FFe1",	                // Theme colors
 		"listFilterWidget.noMatchesOutline":	"#FF5050e1",
 		"list.filterMatchBackground":			"#A091FF50",	                // Theme colors
@@ -133,7 +133,7 @@
 		//"tree.indentGuidesStroke":			"#C8C8C8",
 		//"tree.tableColumnsBorder":			"#505050",
 		//"tree.tableOddRowsBackground":		"#505050",
-        "listFilterWidget.shadow":              "#D00",
+        "listFilterWidget.shadow":              "#A091FFc8",
 
         // Panel colors  (Update: 20220417)
         "panel.background":                     "#EBEBEB",
