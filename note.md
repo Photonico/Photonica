@@ -46,4 +46,5 @@
 * Theme colors
   * azure:  #0064D2
   * orange: #F05000
+  * green:  #00FF00
   * violet: #7332C8
