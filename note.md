@@ -44,7 +44,9 @@
   `https://code.visualstudio.com/api/references/theme-color`
 
 * Theme colors
-  * azure:  #0064D2
-  * orange: #F05000
-  * green:  #00FF00
-  * violet: #7332C8
+
+orange: #cd6428 #e1782d #ff8c32 #ffa037 #ffb43c #ffc841 #ffdc46 #fff04b
+green:  #19642d #288237 #379b4b #46b45a #6ec878 #87dc9b #afe6b9 #c8f0c8
+cyan:   #195a5a #147d7d #0a9696 #4baaaa #5ac3c3 #82d2d2 #9be6e6 #bef0f0
+azure:  #0050a0 #0064d2 #0078e1 #008cff #05a5ff #2db9ff #73c8ff #c3ebff
+violet: #5541a0 #6955c8 #7d64e6 #9178f5 #a596ff #b9afff #cdbeff #ebdcff
