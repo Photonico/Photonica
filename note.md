@@ -45,8 +45,9 @@
 
 * Theme colors
 
-orange: #cd640a #e17814 #ff8c1e #ffa028 #ffb432 #ffc83c #ffdc46 #fff050
-green:  #19642d #288237 #379b4b #46b45a #6ec878 #87dc9b #afe6b9 #c8f0c8
-cyan:   #196464 #147878 #0a8c8c #4ba0a0 #5ab4b4 #82c8c8 #9bdcdc #bef0f0
-azure:  #0050a0 #0064d2 #0078e1 #008cff #0aa5ff #32b9ff #6ec8ff #beebff
-violet: #5541a0 #6955c8 #7d64e6 #9178f5 #a596ff #b9afff #cdbeff #ebdcff
+crimson: #a5413c #c85046 #e15f50 #f57364 #ff8c78 #ffa591 #ffbeaf #ffdcd2 #be645a #e69182
+warm:    #d76414 #eb7823 #ff8c32 #ffa041 #ffb450 #ffc85f #ffdc6e #fff07d #e18c50 #ffb46e
+green:   #19642d #288237 #379b4b #46b45a #6ec878 #87dc9b #afe6b9 #c8f0c8 #468250 #6eb478
+cyan:    #196464 #147878 #0a8c8c #4ba0a0 #5ab4b4 #82c8c8 #9bdcdc #bef0f0 #3c7d7d #6eaaaa
+azure:   #0050a0 #0064d2 #0078e1 #008cff #0aa5ff #32b9ff #6ec8ff #beebff #3c73be #5aa5e6
+violet:  #5541a0 #6955c8 #7d64e6 #9178f5 #a596ff #b9afff #cdbeff #ebdcff #6e64b4 #a091dc
