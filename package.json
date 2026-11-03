@@ -25,14 +25,40 @@
                 "path": "./themes/photonica_dark.json"
             },
             {
+                "label": "Photonica Light Wine",
+                "uiTheme": "vs",
+                "path": "./themes/photonica_light_wine.json"
+            },
+            {
+                "label": "Photonica Light Coral",
+                "uiTheme": "vs",
+                "path": "./themes/photonica_light_coral.json"
+            },
+            {
+                "label": "Photonica Light Warm",
+                "id": "Photonica Light Orange",
+                "uiTheme": "vs",
+                "path": "./themes/photonica_light_warm.json"
+            },
+            {
+                "label": "Photonica Light Green",
+                "uiTheme": "vs",
+                "path": "./themes/photonica_light_green.json"
+            },
+            {
+                "label": "Photonica Light Cyan",
+                "uiTheme": "vs",
+                "path": "./themes/photonica_light_cyan.json"
+            },
+            {
                 "label": "Photonica Light Azure",
                 "uiTheme": "vs",
                 "path": "./themes/photonica_light_azure.json"
             },
             {
-                "label": "Photonica Light Orange",
+                "label": "Photonica Light Silver",
                 "uiTheme": "vs",
-                "path": "./themes/photonica_light_orange.json"
+                "path": "./themes/photonica_light_silver.json"
             },
             {
                 "label": "Photonica Light Violet",
