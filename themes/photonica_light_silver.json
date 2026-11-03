@@ -11,20 +11,46 @@
 { 
     "name": "Photonica Light",
     "type": "light",
+    "semanticHighlighting": true,
+    "semanticTokenColors": 
+    {
+        "function:typescript":                              "#3c5078",   // function name (typescript)
+        "function.defaultLibrary:typescript":               "#3c5078",   // built-in function (typescript)
+        "method:typescript":                                "#3c5078",   // method name (typescript)
+        "method.defaultLibrary:typescript":                 "#3c5078",   // built-in method (typescript)
+        "class.defaultLibrary:typescript":                  "#3c5078",   // built-in class (typescript)
+        "property.declaration:typescript":                  "#6e64b4",   // property declaration (typescript)
+        "property.defaultLibrary:typescript":               "#147878",   // built-in property (typescript)
+        "property.defaultLibrary.readonly:typescript":      "#147878",   // built-in readonly property (typescript)
+        "function:typescriptreact":                         "#3c5078",   // function name (typescriptreact)
+        "function.defaultLibrary:typescriptreact":          "#3c5078",   // built-in function (typescriptreact)
+        "method:typescriptreact":                           "#3c5078",   // method name (typescriptreact)
+        "method.defaultLibrary:typescriptreact":            "#3c5078",   // built-in method (typescriptreact)
+        "class.defaultLibrary:typescriptreact":             "#3c5078",   // built-in class (typescriptreact)
+        "property.declaration:typescriptreact":             "#6e64b4",   // property declaration (typescriptreact)
+        "property.defaultLibrary:typescriptreact":          "#147878",   // built-in property (typescriptreact)
+        "property.defaultLibrary.readonly:typescriptreact": "#147878",   // built-in readonly property (typescriptreact)
+        "property.declaration:javascript":                  "#6e64b4",   // property declaration (javascript)
+        "property.defaultLibrary:javascript":               "#147878",   // built-in property (javascript)
+        "property.defaultLibrary.readonly:javascript":      "#147878",   // built-in readonly property (javascript)
+        "property.declaration:javascriptreact":             "#6e64b4",   // property declaration (javascriptreact)
+        "property.defaultLibrary:javascriptreact":          "#147878",   // built-in property (javascriptreact)
+        "property.defaultLibrary.readonly:javascriptreact": "#147878"    // built-in readonly property (javascriptreact)
+    },
     "colors": 
     {
         // General (Update: 20261103)
         "disabledForeground":    "#1414147d",   // disabled elements foreground
         "strongForeground":      "default",     // high-contrast elements foreground
         "widget.border":         "default",     // widget border color
-        "focusBorder":           "#82a0c8",     // focused element border
+        "focusBorder":           "#789bc3",     // focused element border
         "foreground":            "#000000",     // overall foreground
         "widget.shadow":         "#c8c8c8",     // widget shadow
         "selection.background":  "default",     // selection background
         "descriptionForeground": "#141414",     // description text
         "errorForeground":       "#f03c3c",     // error text
-        "icon.foreground":       "#3c507d",     // workbench icons
-        "sash.hoverBorder":      "#82a0c8",     // resize handle hover
+        "icon.foreground":       "#3c5078",     // workbench icons
+        "sash.hoverBorder":      "#789bc3",     // resize handle hover
 
         // Contrast colors (Update: 20261103)
         "contrastActiveBorder": "default",     // high-contrast active border
@@ -38,20 +64,20 @@
         "editor.border":                               "default",     // editor border
         "surface.background":                          "default",     // card surface background
         "surface.border":                              "default",     // card surface border
-        "surface.foreground":                          "#3c507d",     // card surface foreground
+        "surface.foreground":                          "#3c5078",     // card surface foreground
         "modernActivityBarItem.activeBackground":      "#ffffffaf",   // modern activity item active background
-        "modernActivityBarItem.activeForeground":      "#5a78aa",     // modern activity item active foreground
+        "modernActivityBarItem.activeForeground":      "#5073a5",     // modern activity item active foreground
         "modernActivityBar.background":                "#dcdcdc",     // modern activity bar background
         "modernActivityBar.border":                    "default",     // modern activity bar border
         "modernActivityBar.inactiveBackground":        "default",     // modern activity bar inactive background
-        "modernActivityBarItem.hoverBackground":       "#82a0c87d",   // modern activity item hover background
+        "modernActivityBarItem.hoverBackground":       "#789bc37d",   // modern activity item hover background
         "modernActivityBarItem.hoverForeground":       "#ebebeb",     // modern activity item hover foreground
         "modernEditorTab.activeBackground":            "#ffffff",     // modern tab active background
         "modernEditorTab.activeForeground":            "#000000",     // modern tab active foreground
         "modernEditorTab.activeHoverActionBackground": "default",     // modern tab active hover action background
-        "modernEditorTab.activeHoverBackground":       "#82a0c81e",   // modern tab active hover background
+        "modernEditorTab.activeHoverBackground":       "#789bc350",   // modern tab active hover background
         "modernEditorTab.hoverActionBackground":       "default",     // modern tab hover action background
-        "modernEditorTab.hoverBackground":             "#82a0c87d",   // modern tab hover background
+        "modernEditorTab.hoverBackground":             "#789bc37d",   // modern tab hover background
         "modernEditorTab.hoverForeground":             "#ffffff",     // modern tab hover foreground
         "modernEditorTab.inactiveBackground":          "#d7d7d7",     // modern tab inactive background
         "modernEditorTab.selectedActionBackground":    "default",     // modern tab selected action background
@@ -69,10 +95,10 @@
         "textPreformat.background":  "default",     // preformatted background
         "textPreformat.border":      "default",     // preformatted border
         "textBlockQuote.background": "default",     // block quote background
-        "textBlockQuote.border":     "#82a0c87d",   // block quote border
+        "textBlockQuote.border":     "#789bc37d",   // block quote border
         "textCodeBlock.background":  "default",     // code block background
-        "textLink.activeForeground": "#6e8cb9",     // link active foreground
-        "textLink.foreground":       "#506996",     // link foreground
+        "textLink.activeForeground": "#6487b4",     // link active foreground
+        "textLink.foreground":       "#4b6491",     // link foreground
         "textPreformat.foreground":  "#0a8c8c",     // preformatted foreground
         "textSeparator.foreground":  "default",     // text separator foreground
 
@@ -82,9 +108,9 @@
         "editorActionList.focusForeground": "default",     // action list focus foreground
         "editorActionList.foreground":      "default",     // action list foreground
         "actionBar.toggledBackground":      "default",     // action bar toggled background
-        "toolbar.hoverBackground":          "#82c8c87d",   // toolbar hover background
-        "toolbar.hoverOutline":             "#ffffff00",   // toolbar hover outline
-        "toolbar.activeBackground":         "#82a0c87d",   // toolbar active background
+        "toolbar.hoverBackground":          "#19646464",   // toolbar hover background
+        "toolbar.hoverOutline":             "#196464c8",   // toolbar hover outline
+        "toolbar.activeBackground":         "#789bc37d",   // toolbar active background
 
         // Button (Update: 20261103)
         "button.secondaryBorder":          "default",     // button secondary border
@@ -101,14 +127,14 @@
         "radio.inactiveForeground":        "default",     // radio inactive foreground
         "radio.inactiveHoverBackground":   "default",     // radio inactive hover background
         "button.foreground":               "#ffffff",     // button foreground
-        "button.background":               "#5a78aa",     // button background
+        "button.background":               "#5073a5",     // button background
         "button.border":                   "#ffffff64",   // button border
         "button.hoverBackground":          "#4ba0a0",     // button hover background
         "button.secondaryForeground":      "#ffffff",     // button secondary foreground
-        "button.secondaryBackground":      "#5a78aae1",   // button secondary background
+        "button.secondaryBackground":      "#5073a5e1",   // button secondary background
         "button.secondaryHoverBackground": "#4ba0a0e1",   // button secondary hover background
         "checkbox.foreground":             "#ffffff",     // checkbox foreground
-        "checkbox.background":             "#5a78aae1",   // checkbox background
+        "checkbox.background":             "#5073a5e1",   // checkbox background
         "checkbox.border":                 "#ffffff64",   // checkbox border
 
         // Dropdown Control (Update: 20261103)
@@ -138,10 +164,10 @@
         "input.border":                      "#d2d2d2",     // input border
         "input.foreground":                  "#141414",     // input foreground
         "input.placeholderForeground":       "#8c8c8c",     // input placeholder foreground
-        "inputOption.activeBackground":      "#82a0c8",     // input option active background
+        "inputOption.activeBackground":      "#789bc3",     // input option active background
         "inputOption.activeForeground":      "#ffffff",     // input option active foreground
         "inputOption.hoverBackground":       "default",     // input option hover background
-        "inputOption.activeBorder":          "#82a0c8",     // input option active border
+        "inputOption.activeBorder":          "#789bc3",     // input option active border
         "inputValidation.errorBackground":   "#ffffffe1",   // validation error background
         "inputValidation.errorForeground":   "#f03c3c",     // validation error foreground
         "inputValidation.errorBorder":       "#d2d2d2",     // validation error border
@@ -156,37 +182,37 @@
         "scrollbar.background":             "default",     // scrollbar background
         "scrollbar.shadow":                 "#b4b4b4",     // scrollbar shadow
         "scrollbarSlider.hoverBackground":  "#4ba0a07d",   // scrollbar slider hover background
-        "scrollbarSlider.activeBackground": "#5a78aa7d",   // scrollbar slider active background
+        "scrollbarSlider.activeBackground": "#5073a57d",   // scrollbar slider active background
         "scrollbarSlider.background":       "#c8c8c8c8",   // scrollbar slider background
 
         // Badge (Update: 20261103)
         "badge.foreground": "#ffffff",     // badge foreground
-        "badge.background": "#82a0c8",     // badge background
+        "badge.background": "#789bc3",     // badge background
 
         // Progress bar (Update: 20261103)
-        "progressBar.background": "#82a0c8",     // progress bar background
+        "progressBar.background": "#789bc3",     // progress bar background
 
         // Lists and Trees (Update: 20261103)
         "list.dropBetweenBackground":           "default",     // list drop between background
         "tree.inactiveIndentGuidesStroke":      "default",     // tree inactive indent guides stroke
-        "list.activeSelectionBackground":       "#82a0c8d7",   // list active selection background
+        "list.activeSelectionBackground":       "#789bc3d7",   // list active selection background
         "list.activeSelectionForeground":       "#ffffff",     // list active selection foreground
-        "list.activeSelectionIconForeground":   "#3c507d",     // list active selection icon foreground
+        "list.activeSelectionIconForeground":   "#3c5078",     // list active selection icon foreground
         "list.dropBackground":                  "#5ab4b432",   // list drop background
-        "list.focusBackground":                 "#82a0c832",   // list focus background
+        "list.focusBackground":                 "#789bc332",   // list focus background
         "list.focusForeground":                 "#141414",     // list focus foreground
         "list.focusHighlightForeground":        "#147878",     // list focus highlight foreground
-        "list.highlightForeground":             "#82a0c8",     // list highlight foreground
-        "list.focusOutline":                    "#82a0c8",     // list focus outline
-        "list.focusAndSelectionOutline":        "#aabedc",     // list focus and selection outline
-        "list.hoverBackground":                 "#82a0c832",   // list hover background
-        "list.hoverForeground":                 "#5a78aa",     // list hover foreground
-        "list.inactiveSelectionBackground":     "#82a0c88c",   // list inactive selection background
+        "list.highlightForeground":             "#789bc3",     // list highlight foreground
+        "list.focusOutline":                    "#789bc3",     // list focus outline
+        "list.focusAndSelectionOutline":        "#a0b9d7",     // list focus and selection outline
+        "list.hoverBackground":                 "#789bc332",   // list hover background
+        "list.hoverForeground":                 "#5073a5",     // list hover foreground
+        "list.inactiveSelectionBackground":     "#789bc38c",   // list inactive selection background
         "list.inactiveSelectionForeground":     "#ffffff",     // list inactive selection foreground
-        "list.inactiveSelectionIconForeground": "#3c507de1",   // list inactive selection icon foreground
+        "list.inactiveSelectionIconForeground": "#3c5078e1",   // list inactive selection icon foreground
         "list.inactiveFocusBackground":         "#5ab4b450",   // list inactive focus background
         "list.invalidItemForeground":           "#282828",     // list invalid item foreground
-        "list.inactiveFocusOutline":            "#82a0c8",     // list inactive focus outline
+        "list.inactiveFocusOutline":            "#789bc3",     // list inactive focus outline
         "list.errorForeground":                 "#f03c3c",     // list error foreground
         "list.warningForeground":               "#4ba0a0",     // list warning foreground
         "listFilterWidget.background":          "#5ab4b428",   // list filter background
@@ -213,7 +239,7 @@
         "panel.border":                      "#ffffff00",   // panel border
         "panel.dropBorder":                  "#4ba0a0",     // panel drop border
         "panelTitle.activeBorder":           "#ffffff00",   // panel title active border
-        "panelTitle.activeForeground":       "#506996",     // panel title active foreground
+        "panelTitle.activeForeground":       "#4b6491",     // panel title active foreground
         "panelTitle.inactiveForeground":     "#646464",     // panel title inactive foreground
         "panelInput.border":                 "#d2d2d2",     // panel input border
         "panelSection.border":               "#f0f0f0",     // panel section border
@@ -234,13 +260,13 @@
         "activityWarningBadge.background":   "#4ba0a0",     // activity warning badge background
         "activityWarningBadge.foreground":   "default",     // activity warning badge foreground
         "activityBar.inactiveForeground":    "#787878",     // activity bar inactive foreground
-        "activityBar.activeBorder":          "#82a0c8",     // activity bar active border
+        "activityBar.activeBorder":          "#789bc3",     // activity bar active border
         "activityBar.activeFocusBorder":     "#4ba0a0",     // activity bar active focus border
         "activityBar.dropBorder":            "#4ba0a0",     // activity bar drop border
         "activityBarBadge.foreground":       "#ffffff",     // activity badge foreground
-        "activityBarBadge.background":       "#82a0c8",     // activity badge background
+        "activityBarBadge.background":       "#789bc3",     // activity badge background
         "activityBar.background":            "#dcdcdc",     // activity bar background
-        "activityBar.foreground":            "#5a78aa",     // activity bar foreground
+        "activityBar.foreground":            "#5073a5",     // activity bar foreground
         "activityBar.border":                "default",     // activity bar border
         "activityBar.activeBackground":      "#ffffffaf",   // activity bar active background
 
@@ -270,7 +296,7 @@
         "minimap.chatEditHighlight":            "default",     // minimap chat edit highlight
         "minimap.infoHighlight":                "default",     // minimap info highlight
         "minimap.findMatchHighlight":           "#ffdc5a7d",   // minimap find match highlight
-        "minimap.selectionHighlight":           "#d7e6f57d",   // minimap selection highlight
+        "minimap.selectionHighlight":           "#d2e1f07d",   // minimap selection highlight
         "minimap.errorHighlight":               "#f03c3c7d",   // minimap error highlight
         "minimap.warningHighlight":             "#4ba0a07d",   // minimap warning highlight
         "minimap.background":                   "#ffffffa0",   // minimap background
@@ -278,7 +304,7 @@
         "minimap.foregroundOpacity":            "#000000",     // minimap foreground opacity
         "minimapSlider.background":             "#fafafa1e",   // minimap slider background
         "minimapSlider.hoverBackground":        "#4ba0a064",   // minimap slider hover background
-        "minimapSlider.activeBackground":       "#82a0c864",   // minimap slider active background
+        "minimapSlider.activeBackground":       "#789bc364",   // minimap slider active background
         "minimapGutter.modifiedBackground":     "#008cffe1",   // minimap gutter modified background
         "minimapGutter.addedBackground":        "#46b45ae1",   // minimap gutter added background
         "minimapGutter.deletedBackground":      "#f03c3ce1",   // minimap gutter deleted background
@@ -291,15 +317,15 @@
         "editorOverviewRuler.border":                        "#ffffff",     // overview ruler border
         "editorOverviewRuler.findMatchForeground":           "#ffdc5ac8",   // overview ruler find match foreground
         "editorOverviewRuler.rangeHighlightForeground":      "#5ab4b450",   // overview ruler range highlight foreground
-        "editorOverviewRuler.selectionHighlightForeground":  "#aabedcc8",   // overview ruler selection highlight foreground
-        "editorOverviewRuler.wordHighlightForeground":       "#82a0c8af",   // overview ruler word highlight foreground
-        "editorOverviewRuler.wordHighlightStrongForeground": "#6e8cb9e1",   // overview ruler word highlight strong foreground
+        "editorOverviewRuler.selectionHighlightForeground":  "#a0b9d7c8",   // overview ruler selection highlight foreground
+        "editorOverviewRuler.wordHighlightForeground":       "#789bc3af",   // overview ruler word highlight foreground
+        "editorOverviewRuler.wordHighlightStrongForeground": "#6487b4e1",   // overview ruler word highlight strong foreground
         "editorOverviewRuler.modifiedForeground":            "#008cffe1",   // overview ruler modified foreground
         "editorOverviewRuler.addedForeground":               "#46b45ae1",   // overview ruler added foreground
         "editorOverviewRuler.deletedForeground":             "#f03c3ce1",   // overview ruler deleted foreground
         "editorOverviewRuler.warningForeground":             "#4ba0a0e1",   // overview ruler warning foreground
         "editorOverviewRuler.infoForeground":                "#9178f5e1",   // overview ruler info foreground
-        "editorOverviewRuler.bracketMatchForeground":        "#aabedce1",   // overview ruler bracket match foreground
+        "editorOverviewRuler.bracketMatchForeground":        "#a0b9d7e1",   // overview ruler bracket match foreground
         "editorOverviewRuler.errorForeground":               "#f03c3ce1",   // overview ruler error foreground
 
         // Editor: Groups & Tabs (Update: 20261103)
@@ -312,7 +338,7 @@
         "tab.selectedBackground":                    "default",     // tab selected background
         "tab.selectedBorderTop":                     "default",     // tab selected border top
         "tab.selectedForeground":                    "default",     // tab selected foreground
-        "editorGroup.border":                        "#82a0c83c",   // editor group border
+        "editorGroup.border":                        "#789bc33c",   // editor group border
         "editorGroup.dropBackground":                "#5ab4b432",   // editor group drop background
         "editorGroupHeader.noTabsBackground":        "#fafafa",     // group header no tabs background
         "editorGroupHeader.tabsBackground":          "#ebebeb",     // group header tabs background
@@ -331,10 +357,10 @@
         "tab.unfocusedInactiveBackground":           "#f5f5f5",     // tab unfocused inactive background
         "tab.unfocusedActiveForeground":             "#282828",     // tab unfocused active foreground
         "tab.unfocusedInactiveForeground":           "#787878",     // tab unfocused inactive foreground
-        "tab.unfocusedHoverBackground":              "#82a0c83c",   // tab unfocused hover background
+        "tab.unfocusedHoverBackground":              "#789bc33c",   // tab unfocused hover background
         "tab.unfocusedHoverForeground":              "#141414",     // tab unfocused hover foreground
-        "tab.hoverBorder":                           "#82a0c8e1",   // tab hover border
-        "tab.unfocusedHoverBorder":                  "#82a0c87d",   // tab unfocused hover border
+        "tab.hoverBorder":                           "#789bc3e1",   // tab hover border
+        "tab.unfocusedHoverBorder":                  "#789bc37d",   // tab unfocused hover border
         "tab.activeModifiedBorder":                  "#ffffff00",   // tab active modified border
         "tab.inactiveModifiedBorder":                "#ffffff00",   // tab inactive modified border
         "tab.unfocusedActiveModifiedBorder":         "#ffffff00",   // tab unfocused active modified border
@@ -345,7 +371,7 @@
         "tab.activeBackground":                      "#ffffff",     // tab active background
         "tab.activeForeground":                      "#000000",     // tab active foreground
         "tab.inactiveBackground":                    "#d7d7d7",     // tab inactive background
-        "tab.hoverBackground":                       "#82a0c87d",   // tab hover background
+        "tab.hoverBackground":                       "#789bc37d",   // tab hover background
         "tab.hoverForeground":                       "#ffffff",     // tab hover foreground
 
         // Editor: Major (Update: 20261103)
@@ -368,18 +394,18 @@
         "editor.background":                      "#ffffff",     // editor background
         "editor.foreground":                      "#141414",     // editor foreground
         "editorLineNumber.foreground":            "#b4b4b4",     // line number foreground
-        "editorLineNumber.activeForeground":      "#506996",     // line number active foreground
+        "editorLineNumber.activeForeground":      "#4b6491",     // line number active foreground
         "editorCursor.background":                "default",     // cursor background
-        "editorCursor.foreground":                "#506996",     // cursor foreground
-        "editor.selectionForeground":             "#506996",     // editor selection foreground
-        "editor.selectionBackground":             "#d7e6f5a0",   // editor selection background
-        "editor.inactiveSelectionBackground":     "#d7e6f58c",   // editor inactive selection background
+        "editorCursor.foreground":                "#4b6491",     // cursor foreground
+        "editor.selectionForeground":             "#4b6491",     // editor selection foreground
+        "editor.selectionBackground":             "#d2e1f0a0",   // editor selection background
+        "editor.inactiveSelectionBackground":     "#d2e1f08c",   // editor inactive selection background
         "editor.selectionHighlightBackground":    "#87dc9b50",   // editor selection highlight background
         "editor.selectionHighlightBorder":        "#ffffff00",   // editor selection highlight border
-        "editor.wordHighlightBackground":         "#3c507d14",   // editor word highlight background
-        "editor.wordHighlightBorder":             "#50699650",   // editor word highlight border
-        "editor.wordHighlightStrongBackground":   "#3c507d1e",   // editor word highlight strong background
-        "editor.wordHighlightStrongBorder":       "#3c507d3c",   // editor word highlight strong border
+        "editor.wordHighlightBackground":         "#3c507814",   // editor word highlight background
+        "editor.wordHighlightBorder":             "#4b649150",   // editor word highlight border
+        "editor.wordHighlightStrongBackground":   "#3c50781e",   // editor word highlight strong background
+        "editor.wordHighlightStrongBorder":       "#3c50783c",   // editor word highlight strong border
         "editor.findMatchBackground":             "#ffdc5ac8",   // editor find match background
         "editor.findMatchHighlightBackground":    "#ffdc5a64",   // editor find match highlight background
         "editor.findRangeHighlightBackground":    "#d7d7d77d",   // editor find range highlight background
@@ -393,7 +419,7 @@
         "editor.lineHighlightBackground":         "#e1e1e132",   // editor line highlight background
         "editor.lineHighlightBorder":             "#e1e1e164",   // editor line highlight border
         "editorUnicodeHighlight.border":          "#e1e1e18c",   // unicode highlight border
-        "editorLink.activeForeground":            "#6e8cb9",     // link active foreground
+        "editorLink.activeForeground":            "#6487b4",     // link active foreground
         "editor.rangeHighlightBackground":        "#ffdc5a3c",   // editor range highlight background
         "editor.rangeHighlightBorder":            "#ffdc5a64",   // editor range highlight border
         "editor.symbolHighlightBackground":       "#ffdc5a64",   // editor symbol highlight background
@@ -407,7 +433,7 @@
         "editorInlayHint.parameterBackground":    "#f0f0f0",     // inlay hint parameter background
         "editorRuler.foreground":                 "default",     // ruler foreground
         "editor.linkedEditingBackground":         "#ebebeb",     // editor linked editing background
-        "editorCodeLens.foreground":              "#3c507d8c",   // CodeLens foreground
+        "editorCodeLens.foreground":              "#3c50788c",   // CodeLens foreground
         "editorLightBulb.foreground":             "#ffdc5a",     // lightbulb foreground
         "editorLightBulbAutoFix.foreground":      "#ffb432",     // lightbulb autofix foreground
 
@@ -427,8 +453,8 @@
 
         // Editor: Bracket (Update: 20261103)
         "editorBracketMatch.foreground":                       "default",     // bracket match foreground
-        "editorBracketMatch.background":                       "#d7e6f5a0",   // bracket match background
-        "editorBracketMatch.border":                           "#50699650",   // bracket match border
+        "editorBracketMatch.background":                       "#d2e1f0a0",   // bracket match background
+        "editorBracketMatch.border":                           "#4b649150",   // bracket match border
         "editorBracketHighlight.foreground1":                  "#0050a0",     // bracket foreground 1
         "editorBracketHighlight.foreground2":                  "#6955c8",     // bracket foreground 2
         "editorBracketHighlight.foreground3":                  "#0064d2",     // bracket foreground 3
@@ -453,7 +479,7 @@
 
         // Editor: Folding (Update: 20261103)
         "editor.foldPlaceholderForeground": "default",     // editor fold placeholder foreground
-        "editor.foldBackground":            "#aabedc28",   // editor fold background
+        "editor.foldBackground":            "#a0b9d728",   // editor fold background
 
         // Editor: Errors and warnings (Update: 20261103)
         "editorError.foreground":         "#f03c3c",     // error foreground
@@ -545,20 +571,20 @@
         "editorWidget.foreground":                        "#141414",     // editor widget foreground
         "editorWidget.background":                        "#ffffffe1",   // editor widget background
         "editorWidget.border":                            "#c8c8c850",   // editor widget border
-        "editorWidget.resizeBorder":                      "#82a0c8",     // editor widget resize border
+        "editorWidget.resizeBorder":                      "#789bc3",     // editor widget resize border
         "editorSuggestWidget.foreground":                 "#646464",     // suggest foreground
         "editorSuggestWidget.background":                 "#fafafae1",   // suggest background
         "editorSuggestWidget.border":                     "#c8c8c850",   // suggest border
         "editorSuggestWidget.focusHighlightForeground":   "#147878",     // suggest focus highlight foreground
-        "editorSuggestWidget.highlightForeground":        "#82a0c8",     // suggest highlight foreground
+        "editorSuggestWidget.highlightForeground":        "#789bc3",     // suggest highlight foreground
         "editorSuggestWidget.selectedBackground":         "#e1e1e164",   // suggest selected background
         "editorSuggestWidget.selectedForeground":         "#646464",     // suggest selected foreground
-        "editorSuggestWidget.selectedIconForeground":     "#3c507d",     // suggest selected icon foreground
-        "editorSuggestWidgetStatus.foreground":           "#82a0c8",     // suggest status foreground
+        "editorSuggestWidget.selectedIconForeground":     "#3c5078",     // suggest selected icon foreground
+        "editorSuggestWidgetStatus.foreground":           "#789bc3",     // suggest status foreground
         "editorHoverWidget.foreground":                   "#646464",     // hover widget foreground
         "editorHoverWidget.background":                   "#fafafae1",   // hover widget background
         "editorHoverWidget.border":                       "#c8c8c850",   // hover widget border
-        "editorHoverWidget.highlightForeground":          "#82a0c8",     // hover widget highlight foreground
+        "editorHoverWidget.highlightForeground":          "#789bc3",     // hover widget highlight foreground
         "editorHoverWidget.statusBarBackground":          "#f0f0f0e1",   // hover widget status bar background
         "editorGhostText.background":                     "#ffffffe1",   // ghost text background
         "editorGhostText.foreground":                     "#505050",     // ghost text foreground
@@ -576,20 +602,20 @@
         // Peek view colors (Update: 20261103)
         "peekViewEditorStickyScroll.background":       "default",     // peek sticky scroll background
         "peekViewEditorStickyScrollGutter.background": "default",     // peek sticky scroll gutter background
-        "peekView.border":                             "#82a0c8",     // peek view border
+        "peekView.border":                             "#789bc3",     // peek view border
         "peekViewEditor.background":                   "#ffffffe1",   // peek editor background
         "peekViewEditorGutter.background":             "#ffffffe1",   // peek editor gutter background
         "peekViewEditor.matchHighlightBackground":     "#5ab4b43c",   // peek editor match highlight background
         "peekViewEditor.matchHighlightBorder":         "#5ab4b450",   // peek editor match highlight border
         "peekViewResult.background":                   "#fafafae1",   // peek result background
-        "peekViewResult.fileForeground":               "#82a0c8",     // peek result file foreground
+        "peekViewResult.fileForeground":               "#789bc3",     // peek result file foreground
         "peekViewResult.lineForeground":               "#646464",     // peek result line foreground
-        "peekViewResult.matchHighlightBackground":     "#82a0c850",   // peek result match highlight background
-        "peekViewResult.selectionBackground":          "#82a0c814",   // peek result selection background
-        "peekViewResult.selectionForeground":          "#506996",     // peek result selection foreground
+        "peekViewResult.matchHighlightBackground":     "#789bc350",   // peek result match highlight background
+        "peekViewResult.selectionBackground":          "#789bc314",   // peek result selection background
+        "peekViewResult.selectionForeground":          "#4b6491",     // peek result selection foreground
         "peekViewTitle.background":                    "#fafafae1",   // peek title background
         "peekViewTitleDescription.foreground":         "#646464",     // peek title description foreground
-        "peekViewTitleLabel.foreground":               "#6e8cb9",     // peek title label foreground
+        "peekViewTitleLabel.foreground":               "#6487b4",     // peek title label foreground
 
         // Merge conflicts (Update: 20261103)
         "mergeEditor.change.background":                       "#46b45a28",   // merge editor change background
@@ -597,12 +623,12 @@
         "mergeEditor.changeBase.background":                   "#f03c3c28",   // merge editor change base background
         "mergeEditor.changeBase.word.background":              "#f03c3c14",   // merge editor change base word background
         "mergeEditor.conflict.handled.minimapOverViewRuler":   "#46b45a",     // merge conflict handled minimap over view ruler
-        "mergeEditor.conflict.handledFocused.border":          "#82a0c8",     // merge conflict handled focused border
+        "mergeEditor.conflict.handledFocused.border":          "#789bc3",     // merge conflict handled focused border
         "mergeEditor.conflict.handledUnfocused.border":        "default",     // merge conflict handled unfocused border
         "mergeEditor.conflict.input1.background":              "default",     // merge conflict input 1 background
         "mergeEditor.conflict.input2.background":              "default",     // merge conflict input 2 background
         "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#f03c3c",     // merge conflict unhandled minimap over view ruler
-        "mergeEditor.conflict.unhandledFocused.border":        "#82a0c8",     // merge conflict unhandled focused border
+        "mergeEditor.conflict.unhandledFocused.border":        "#789bc3",     // merge conflict unhandled focused border
         "mergeEditor.conflict.unhandledUnfocused.border":      "#f03c3c",     // merge conflict unhandled unfocused border
         "mergeEditor.conflictingLines.background":             "#f03c3c14",   // merge editor conflicting lines background
         "merge.currentHeaderBackground":                       "#008cff50",   // merge current header background
@@ -656,11 +682,11 @@
         "statusBar.noFolderBackground":           "#dcdcdc",     // status bar no folder background
         "statusBar.noFolderBorder":               "#dcdcdc",     // status bar no folder border
         "statusBarItem.remoteForeground":         "#ffffff",     // status item remote foreground
-        "statusBarItem.remoteBackground":         "#82a0c8",     // status item remote background
+        "statusBarItem.remoteBackground":         "#789bc3",     // status item remote background
         "statusBarItem.hoverBackground":          "#82c8c87d",   // status item hover background
         "statusBarItem.activeBackground":         "#ffffff64",   // status item active background
         "statusBarItem.prominentForeground":      "#ffffff",     // status item prominent foreground
-        "statusBarItem.prominentBackground":      "#82a0c87d",   // status item prominent background
+        "statusBarItem.prominentBackground":      "#789bc37d",   // status item prominent background
         "statusBarItem.prominentHoverBackground": "#5ab4b47d",   // status item prominent hover background
         "statusBarItem.errorBackground":          "#dcdcdc",     // status item error background
         "statusBarItem.errorForeground":          "#f03c3c",     // status item error foreground
@@ -671,13 +697,13 @@
         "statusBar.focusBorder":                  "#5ab4b47d",   // status bar focus border
 
         // Menu Bar (Update: 20261103)
-        "menubar.selectionForeground": "#506996",     // menu bar selection foreground
+        "menubar.selectionForeground": "#4b6491",     // menu bar selection foreground
         "menubar.selectionBackground": "#82c8c87d",   // menu bar selection background
         "menubar.selectionBorder":     "default",     // menu bar selection border
         "menu.foreground":             "#282828",     // menu foreground
         "menu.background":             "#fafafae1",   // menu background
         "menu.selectionForeground":    "#ffffff",     // menu selection foreground
-        "menu.selectionBackground":    "#82a0c8e1",   // menu selection background
+        "menu.selectionBackground":    "#789bc3e1",   // menu selection background
         "menu.selectionBorder":        "default",     // menu selection border
         "menu.separatorBackground":    "#28282864",   // menu separator background
         "menu.border":                 "#fafafa64",   // menu border
@@ -686,11 +712,11 @@
         "notificationCenter.border":           "default",     // notification center border
         "notificationCenterHeader.foreground": "#141414",     // notification center header foreground
         "notificationCenterHeader.background": "#f5f5f5e1",   // notification center header background
-        "notificationToast.border":            "#82a0c8",     // notification toast border
+        "notificationToast.border":            "#789bc3",     // notification toast border
         "notifications.border":                "#28282864",   // notification border
         "notifications.foreground":            "#141414",     // notification foreground
         "notifications.background":            "#ffffffe1",   // notification background
-        "notificationLink.foreground":         "#6e8cb9",     // notification link foreground
+        "notificationLink.foreground":         "#6487b4",     // notification link foreground
         "notificationsErrorIcon.foreground":   "#f03c3c",     // notification error icon foreground
         "notificationsWarningIcon.foreground": "#4ba0a0",     // notification warning icon foreground
         "notificationsInfoIcon.foreground":    "#9178f5",     // notification info icon foreground
@@ -698,7 +724,7 @@
         // Banner (Update: 20261103)
         "banner.background":     "#ebebeb",     // banner background
         "banner.foreground":     "#141414",     // banner foreground
-        "banner.iconForeground": "#82a0c8",     // banner icon foreground
+        "banner.iconForeground": "#789bc3",     // banner icon foreground
 
         // Extensions (Update: 20261103)
         "extensionButton.background":               "default",     // extension button background
@@ -710,7 +736,7 @@
         "extensionIcon.sponsorForeground":          "#6955c8",     // extension sponsor foreground
         "mcpIcon.starForeground":                   "#ff8c28",     // MCP star foreground
         "extensionButton.prominentForeground":      "#ffffff",     // extension button prominent foreground
-        "extensionButton.prominentBackground":      "#82a0c8",     // extension button prominent background
+        "extensionButton.prominentBackground":      "#789bc3",     // extension button prominent background
         "extensionButton.prominentHoverBackground": "#4ba0a0",     // extension button prominent hover background
         "extensionBadge.remoteBackground":          "#5ab4b4",     // extension badge remote background
         "extensionBadge.remoteForeground":          "#ffffff",     // extension badge remote foreground
@@ -724,9 +750,9 @@
         "pickerGroup.foreground":                  "#4ba0a0",     // picker group foreground
         "quickInput.background":                   "#fffffff0",   // quick input background
         "quickInput.foreground":                   "#505050",     // quick input foreground
-        "quickInputList.focusBackground":          "#82a0c83c",   // quick pick row focus background
+        "quickInputList.focusBackground":          "#789bc33c",   // quick pick row focus background
         "quickInputList.focusForeground":          "#141414",     // quick pick row focus foreground
-        "quickInputList.focusIconForeground":      "#3c507d",     // quick pick row focus icon foreground
+        "quickInputList.focusIconForeground":      "#3c5078",     // quick pick row focus icon foreground
         "quickInputTitle.background":              "#f5f5f5f0",   // quick input title background
 
         // Keybinding label (Update: 20261103)
@@ -823,10 +849,10 @@
         "walkthrough.stepTitle.foreground":     "default",     // walkthrough step title foreground
         "welcomePage.tileBorder":               "default",     // welcome tile border
         "welcomePage.background":               "#ffffff",     // welcome background
-        "welcomePage.progress.background":      "#82a0c83c",   // welcome progress background
-        "welcomePage.progress.foreground":      "#82a0c8",     // welcome progress foreground
+        "welcomePage.progress.background":      "#789bc33c",   // welcome progress background
+        "welcomePage.progress.foreground":      "#789bc3",     // welcome progress foreground
         "welcomePage.tileBackground":           "#f5f5f5",     // welcome tile background
-        "welcomePage.tileHoverBackground":      "#82a0c81e",   // welcome tile hover background
+        "welcomePage.tileHoverBackground":      "#789bc31e",   // welcome tile hover background
         "walkThrough.embeddedEditorBackground": "#fafafa",     // walkthrough embedded editor background
 
         // Git (Update: 20261103)
@@ -860,20 +886,20 @@
         // Settings editor (Update: 20261103)
         "settings.settingsHeaderHoverForeground": "default",     // settings header hover foreground
         "settings.headerForeground":              "#282828",     // settings header foreground
-        "settings.modifiedItemIndicator":         "#82a0c8",     // settings modified item indicator
+        "settings.modifiedItemIndicator":         "#789bc3",     // settings modified item indicator
         "settings.dropdownBackground":            "#fffffff0",   // settings dropdown background
         "settings.dropdownForeground":            "#141414",     // settings dropdown foreground
         "settings.dropdownBorder":                "#c8c8c8",     // settings dropdown border
         "settings.dropdownListBorder":            "#d2d2d2",     // settings dropdown list border
         "settings.checkboxBackground":            "#fafafa",     // settings checkbox background
-        "settings.checkboxForeground":            "#5a78aa",     // settings checkbox foreground
+        "settings.checkboxForeground":            "#5073a5",     // settings checkbox foreground
         "settings.checkboxBorder":                "#c8c8c8",     // settings checkbox border
-        "settings.rowHoverBackground":            "#82a0c81e",   // settings row hover background
+        "settings.rowHoverBackground":            "#789bc31e",   // settings row hover background
         "settings.textInputBackground":           "#fffffff0",   // settings text input background
         "settings.textInputForeground":           "#141414",     // settings text input foreground
         "settings.textInputBorder":               "#c8c8c8",     // settings text input border
         "settings.numberInputBackground":         "#ffffff",     // settings number input background
-        "settings.numberInputForeground":         "#5a78aa",     // settings number input foreground
+        "settings.numberInputForeground":         "#5073a5",     // settings number input foreground
         "settings.numberInputBorder":             "#c8c8c8",     // settings number input border
         "settings.focusedRowBackground":          "#82c8c81e",   // settings focused row background
         "settings.focusedRowBorder":              "#82c8c83c",   // settings focused row border
@@ -883,13 +909,13 @@
         // Breadcrumbs (Update: 20261103)
         "breadcrumb.foreground":                "#141414",     // breadcrumb foreground
         "breadcrumb.background":                "#fffffff0",   // breadcrumb background
-        "breadcrumb.focusForeground":           "#5a78aa",     // breadcrumb focus foreground
+        "breadcrumb.focusForeground":           "#5073a5",     // breadcrumb focus foreground
         "breadcrumb.activeSelectionForeground": "#4ba0a0",     // breadcrumb active selection foreground
         "breadcrumbPicker.background":          "#fffffff0",   // breadcrumb picker background
 
         // Snippets (Update: 20261103)
-        "editor.snippetTabstopHighlightBackground":      "#aabedc28",   // editor snippet tabstop highlight background
-        "editor.snippetTabstopHighlightBorder":          "#aabedc64",   // editor snippet tabstop highlight border
+        "editor.snippetTabstopHighlightBackground":      "#a0b9d728",   // editor snippet tabstop highlight background
+        "editor.snippetTabstopHighlightBorder":          "#a0b9d764",   // editor snippet tabstop highlight border
         "editor.snippetFinalTabstopHighlightBackground": "#9bdcdc28",   // editor snippet final tabstop highlight bg
         "editor.snippetFinalTabstopHighlightBorder":     "#9bdcdc64",   // editor snippet final tabstop highlight border
 
@@ -964,7 +990,7 @@
         "chat.avatarForeground":                       "default",     // chat avatar foreground
         "chat.checkpointSeparator":                    "default",     // chat checkpoint separator
         "chat.dictationActiveMicGlow":                 "default",     // chat dictation active mic glow
-        "chat.editedFileForeground":                   "#506996",     // chat edited file foreground
+        "chat.editedFileForeground":                   "#4b6491",     // chat edited file foreground
         "chat.findMatchBackground":                    "default",     // chat find match background
         "chat.findMatchHighlightBackground":           "default",     // chat find match highlight background
         "chat.inputWorkingBorderColor1":               "default",     // chat input working border color 1
@@ -975,18 +1001,18 @@
         "chat.requestBorder":                          "default",     // chat request border
         "chat.requestBubbleBackground":                "default",     // chat request bubble background
         "chat.requestBubbleHoverBackground":           "default",     // chat request bubble hover background
-        "chat.requestCodeBorder":                      "#82a0c850",   // chat request code border
+        "chat.requestCodeBorder":                      "#789bc350",   // chat request code border
         "chat.sessionStateIndicator.inProgressBorder": "default",     // chat session in progress border
         "chat.sessionStateIndicator.needsInputBorder": "default",     // chat session needs input border
         "chat.sessionStateIndicator.unvisitedBorder":  "default",     // chat session unvisited border
-        "chat.slashCommandBackground":                 "#82a0c81e",   // chat slash command background
-        "chat.slashCommandForeground":                 "#506996",     // chat slash command foreground
+        "chat.slashCommandBackground":                 "#789bc31e",   // chat slash command background
+        "chat.slashCommandForeground":                 "#4b6491",     // chat slash command foreground
         "chat.statusBackground":                       "default",     // chat status background
         "chat.thinkingShimmer":                        "default",     // chat thinking shimmer
         "chat.voiceGlowBaseColor":                     "default",     // chat voice glow base color
         "chat.voiceListeningGlow":                     "default",     // chat voice listening glow
         "chat.workingProgressInsidersIconForeground":  "#5ab4b4",     // chat working progress insiders icon foreground
-        "chat.workingProgressStableIconForeground":    "#5a78aa",     // chat working progress stable icon foreground
+        "chat.workingProgressStableIconForeground":    "#5073a5",     // chat working progress stable icon foreground
 
         // Inline Chat (Update: 20261103)
         "inlineChat.background":                 "default",     // inline chat background
@@ -1077,11 +1103,11 @@
         "terminal.ansiBrightMagenta":                  "#9178f5",     // ANSI bright magenta
         "terminal.ansiBrightCyan":                     "#82c8c8",     // ANSI bright cyan
         "terminal.ansiBrightWhite":                    "#f0f0f0",     // ANSI bright white
-        "terminal.selectionBackground":                "#82a0c850",   // terminal selection background
+        "terminal.selectionBackground":                "#789bc350",   // terminal selection background
         "terminalCursor.background":                   "default",     // terminal cursor background
-        "terminalCursor.foreground":                   "#506996",     // terminal cursor foreground
+        "terminalCursor.foreground":                   "#4b6491",     // terminal cursor foreground
         "terminal.dropBackground":                     "#5ab4b432",   // terminal drop background
-        "terminal.tab.activeBorder":                   "#82a0c8",     // terminal tab active border
+        "terminal.tab.activeBorder":                   "#789bc3",     // terminal tab active border
 
         // Terminal: Symbol icons (Update: 20261103)
         "terminalSymbolIcon.aliasForeground":              "default",     // terminal suggest alias foreground
@@ -1107,7 +1133,7 @@
         // Charts (Update: 20261103)
         "chart.axis":        "default",     // chart axis
         "chart.guide":       "default",     // chart guide
-        "chart.line":        "#82a0c8",     // chart line
+        "chart.line":        "#789bc3",     // chart line
         "charts.blue":       "#008cff",     // chart blue
         "charts.foreground": "default",     // chart foreground
         "charts.green":      "#379b4b",     // chart green
@@ -1561,7 +1587,7 @@
               "scope": "punctuation",	// punctuation
               "settings": 
               {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
               }
         },
         {
@@ -1572,7 +1598,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         }, 
         {
@@ -1583,7 +1609,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         }, 
         {
@@ -1639,7 +1665,7 @@
             ],
             "settings": 
             {
-              "foreground": "#3c507d" 	// 060,080,125
+              "foreground": "#3c5078" 	// 060,080,120
             }
           },
         {
@@ -2063,7 +2089,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2256,7 +2282,7 @@
             "scope": "source.css punctuation.definition.keyword",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2433,7 +2459,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2469,7 +2495,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2522,7 +2548,7 @@
             "scope": "source.diff punctuation.definition.separator",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
     
@@ -2531,7 +2557,7 @@
             "scope": "source.go constant.other.placeholder.go",
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2539,7 +2565,7 @@
             "scope": "source.java comment.block.documentation.javadoc punctuation.definition.entity.html",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2596,7 +2622,7 @@
             "scope": "source.java meta.method-call meta.method",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2748,7 +2774,7 @@
             "scope": "source.js string.template punctuation.definition.template-expression",
             "settings": 
             {
-                "foreground": "#6e8cb9"    // 110,140,185
+                "foreground": "#6487b4"    // 100,135,180
             }
         },
         {
@@ -2768,7 +2794,7 @@
             "scope": "source.js support.type.primitive",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2894,7 +2920,7 @@
             "scope": "text.html.basic meta.tag.sgml.doctype",
             "settings": 
             {
-                "foreground": "#6e8cb9"    // 110,140,185
+                "foreground": "#6487b4"    // 100,135,180
             }
         },
         {
@@ -2902,7 +2928,7 @@
             "scope": "text.html.basic punctuation.definition.entity",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2941,7 +2967,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"		// 130,160,200
+                "foreground": "#789bc3"		// 120,155,195
             }
         },
         {
@@ -2981,7 +3007,7 @@
             "scope": "source.properties punctuation.separator.key-value.ini",
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3053,7 +3079,7 @@
             "scope": "text.html.markdown punctuation.definition.heading",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -3065,7 +3091,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -3093,7 +3119,7 @@
               ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
 
               }
         },
@@ -3206,7 +3232,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3288,7 +3314,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"		// 130,160,200
+                "foreground": "#789bc3"		// 120,155,195
             }
         },
         {
@@ -3301,7 +3327,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
 
             }
         },
@@ -3315,7 +3341,7 @@
             
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3348,7 +3374,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3356,7 +3382,7 @@
             "scope": "entity.name.type.ts",
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3435,7 +3461,7 @@
             
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3448,7 +3474,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3536,7 +3562,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3548,7 +3574,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"		// 130,160,200
+                "foreground": "#789bc3"		// 120,155,195
             }
         },
         {
@@ -3565,7 +3591,7 @@
             ],
             "settings": 
             {
-                 "foreground": "#82a0c8"		// 130,160,200
+                 "foreground": "#789bc3"		// 120,155,195
             }
         },
         {

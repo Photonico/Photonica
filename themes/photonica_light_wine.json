@@ -11,6 +11,32 @@
 { 
     "name": "Photonica Light",
     "type": "light",
+    "semanticHighlighting": true,
+    "semanticTokenColors": 
+    {
+        "function:typescript":                              "#3c5078",   // function name (typescript)
+        "function.defaultLibrary:typescript":               "#3c5078",   // built-in function (typescript)
+        "method:typescript":                                "#3c5078",   // method name (typescript)
+        "method.defaultLibrary:typescript":                 "#3c5078",   // built-in method (typescript)
+        "class.defaultLibrary:typescript":                  "#3c5078",   // built-in class (typescript)
+        "property.declaration:typescript":                  "#6e64b4",   // property declaration (typescript)
+        "property.defaultLibrary:typescript":               "#147878",   // built-in property (typescript)
+        "property.defaultLibrary.readonly:typescript":      "#147878",   // built-in readonly property (typescript)
+        "function:typescriptreact":                         "#3c5078",   // function name (typescriptreact)
+        "function.defaultLibrary:typescriptreact":          "#3c5078",   // built-in function (typescriptreact)
+        "method:typescriptreact":                           "#3c5078",   // method name (typescriptreact)
+        "method.defaultLibrary:typescriptreact":            "#3c5078",   // built-in method (typescriptreact)
+        "class.defaultLibrary:typescriptreact":             "#3c5078",   // built-in class (typescriptreact)
+        "property.declaration:typescriptreact":             "#6e64b4",   // property declaration (typescriptreact)
+        "property.defaultLibrary:typescriptreact":          "#147878",   // built-in property (typescriptreact)
+        "property.defaultLibrary.readonly:typescriptreact": "#147878",   // built-in readonly property (typescriptreact)
+        "property.declaration:javascript":                  "#6e64b4",   // property declaration (javascript)
+        "property.defaultLibrary:javascript":               "#147878",   // built-in property (javascript)
+        "property.defaultLibrary.readonly:javascript":      "#147878",   // built-in readonly property (javascript)
+        "property.declaration:javascriptreact":             "#6e64b4",   // property declaration (javascriptreact)
+        "property.defaultLibrary:javascriptreact":          "#147878",   // built-in property (javascriptreact)
+        "property.defaultLibrary.readonly:javascriptreact": "#147878"    // built-in readonly property (javascriptreact)
+    },
     "colors": 
     {
         // General (Update: 20261103)
@@ -49,7 +75,7 @@
         "modernEditorTab.activeBackground":            "#ffffff",     // modern tab active background
         "modernEditorTab.activeForeground":            "#000000",     // modern tab active foreground
         "modernEditorTab.activeHoverActionBackground": "default",     // modern tab active hover action background
-        "modernEditorTab.activeHoverBackground":       "#eb919b1e",   // modern tab active hover background
+        "modernEditorTab.activeHoverBackground":       "#eb919b50",   // modern tab active hover background
         "modernEditorTab.hoverActionBackground":       "default",     // modern tab hover action background
         "modernEditorTab.hoverBackground":             "#eb919b7d",   // modern tab hover background
         "modernEditorTab.hoverForeground":             "#ffffff",     // modern tab hover foreground
@@ -82,8 +108,8 @@
         "editorActionList.focusForeground": "default",     // action list focus foreground
         "editorActionList.foreground":      "default",     // action list foreground
         "actionBar.toggledBackground":      "default",     // action bar toggled background
-        "toolbar.hoverBackground":          "#ffc83c7d",   // toolbar hover background
-        "toolbar.hoverOutline":             "#ffffff00",   // toolbar hover outline
+        "toolbar.hoverBackground":          "#eb782364",   // toolbar hover background
+        "toolbar.hoverOutline":             "#eb7823c8",   // toolbar hover outline
         "toolbar.activeBackground":         "#eb919b7d",   // toolbar active background
 
         // Button (Update: 20261103)
@@ -1561,7 +1587,7 @@
               "scope": "punctuation",	// punctuation
               "settings": 
               {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
               }
         },
         {
@@ -1572,7 +1598,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         }, 
         {
@@ -1583,7 +1609,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         }, 
         {
@@ -1639,7 +1665,7 @@
             ],
             "settings": 
             {
-              "foreground": "#3c507d" 	// 060,080,125
+              "foreground": "#3c5078" 	// 060,080,120
             }
           },
         {
@@ -2063,7 +2089,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2256,7 +2282,7 @@
             "scope": "source.css punctuation.definition.keyword",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2433,7 +2459,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2469,7 +2495,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2522,7 +2548,7 @@
             "scope": "source.diff punctuation.definition.separator",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
     
@@ -2531,7 +2557,7 @@
             "scope": "source.go constant.other.placeholder.go",
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -2539,7 +2565,7 @@
             "scope": "source.java comment.block.documentation.javadoc punctuation.definition.entity.html",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2596,7 +2622,7 @@
             "scope": "source.java meta.method-call meta.method",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2748,7 +2774,7 @@
             "scope": "source.js string.template punctuation.definition.template-expression",
             "settings": 
             {
-                "foreground": "#6e8cb9"    // 110,140,185
+                "foreground": "#6487b4"    // 100,135,180
             }
         },
         {
@@ -2768,7 +2794,7 @@
             "scope": "source.js support.type.primitive",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2894,7 +2920,7 @@
             "scope": "text.html.basic meta.tag.sgml.doctype",
             "settings": 
             {
-                "foreground": "#6e8cb9"    // 110,140,185
+                "foreground": "#6487b4"    // 100,135,180
             }
         },
         {
@@ -2902,7 +2928,7 @@
             "scope": "text.html.basic punctuation.definition.entity",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -2941,7 +2967,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"		// 130,160,200
+                "foreground": "#789bc3"		// 120,155,195
             }
         },
         {
@@ -2981,7 +3007,7 @@
             "scope": "source.properties punctuation.separator.key-value.ini",
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3053,7 +3079,7 @@
             "scope": "text.html.markdown punctuation.definition.heading",
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -3065,7 +3091,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"    // 130,160,200
+                "foreground": "#789bc3"    // 120,155,195
             }
         },
         {
@@ -3093,7 +3119,7 @@
               ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
 
               }
         },
@@ -3206,7 +3232,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3288,7 +3314,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"		// 130,160,200
+                "foreground": "#789bc3"		// 120,155,195
             }
         },
         {
@@ -3301,7 +3327,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
 
             }
         },
@@ -3315,7 +3341,7 @@
             
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3348,7 +3374,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3356,7 +3382,7 @@
             "scope": "entity.name.type.ts",
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3435,7 +3461,7 @@
             
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3448,7 +3474,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3536,7 +3562,7 @@
             ],
             "settings": 
             {
-                "foreground": "#3c507d" 	// 060,080,125
+                "foreground": "#3c5078" 	// 060,080,120
             }
         },
         {
@@ -3548,7 +3574,7 @@
             ],
             "settings": 
             {
-                "foreground": "#82a0c8"		// 130,160,200
+                "foreground": "#789bc3"		// 120,155,195
             }
         },
         {
@@ -3565,7 +3591,7 @@
             ],
             "settings": 
             {
-                 "foreground": "#82a0c8"		// 130,160,200
+                 "foreground": "#789bc3"		// 120,155,195
             }
         },
         {
