@@ -4,7 +4,9 @@ All notable changes to the "Photonica" extension will be documented in this file
 
 Check to [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 1.0.11
+## 1.0.11 @ Nov 4, 2026
+
+* Adapt to the latest VS Code 1.144.0.
 
 ## 1.0.10 @ June 26, 2023
 

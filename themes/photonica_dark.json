@@ -52,7 +52,7 @@
 		"sash.hoverBorder":      "#1ea0ff",     // resize handle hover
 
 		// Contrast colors (Update: 20261104)
-		"contrastActiveBorder": "default",     // high-contrast active border
+		"contrastActiveBorder": "#1ea0ff",     // high-contrast active border
 		"contrastBorder":       "default",     // high-contrast border
 
 		// Window Border (Update: 20261104)
@@ -64,7 +64,7 @@
 		"surface.background":                          "default",     // card surface background
 		"surface.border":                              "default",     // card surface border
 		"surface.foreground":                          "#f0f0f0",     // card surface foreground
-		"modernActivityBarItem.activeBackground":      "#505050",     // modern activity item active background
+		"modernActivityBarItem.activeBackground":      "#787878",     // modern activity item active background
 		"modernActivityBarItem.activeForeground":      "#ffffff",     // modern activity item active foreground
 		"modernActivityBar.background":                "#464646",     // modern activity bar background
 		"modernActivityBar.border":                    "default",     // modern activity bar border
@@ -108,7 +108,7 @@
 		"editorActionList.foreground":      "default",     // action list foreground
 		"actionBar.toggledBackground":      "default",     // action bar toggled background
 		"toolbar.hoverBackground":          "#008cf08c",   // toolbar hover background
-		"toolbar.hoverOutline":             "#008cf000",   // toolbar hover outline
+		"toolbar.hoverOutline":             "#008cf0",   // toolbar hover outline
 		"toolbar.activeBackground":         "#9b91ff8c",   // toolbar active background
 
 		// Button (Update: 20261104)
@@ -258,7 +258,7 @@
 		"activityErrorBadge.foreground":     "default",     // activity error badge foreground
 		"activityWarningBadge.background":   "#96e18c",     // activity warning badge background
 		"activityWarningBadge.foreground":   "default",     // activity warning badge foreground
-		"activityBar.inactiveForeground":    "#b4b4b4",     // activity bar inactive foreground
+		"activityBar.inactiveForeground":    "#a0a0a0",     // activity bar inactive foreground
 		"activityBar.activeBorder":          "#64d2ff",     // activity bar active border
 		"activityBar.activeFocusBorder":     "#9b91ff",     // activity bar active focus border
 		"activityBar.dropBorder":            "#64d2ff",     // activity bar drop border
@@ -267,7 +267,7 @@
 		"activityBar.background":            "#464646",     // activity bar background
 		"activityBar.foreground":            "#ffffff",     // activity bar foreground
 		"activityBar.border":                "#464646",     // activity bar border
-		"activityBar.activeBackground":      "#505050",     // activity bar active background
+		"activityBar.activeBackground":      "#2d2d2d",     // activity bar active background
 
 		// Profiles (Update: 20261104)
 		"profileBadge.background": "default",     // profile badge background
@@ -655,7 +655,7 @@
 		"editorOverviewRuler.commentUnresolvedForeground": "default",     // overview ruler comment unresolved foreground
 		"commentsView.resolvedIcon":                       "default",     // comments view resolved icon
 		"commentsView.unresolvedIcon":                     "default",     // comments view unresolved icon
-		"editorGutter.commentRangeForeground":             "#8c8c8c",     // gutter comment range foreground
+		"editorGutter.commentRangeForeground":             "#646464",     // gutter comment range foreground
 
 		// Status Bar (Update: 20261104)
 		"statusBar.inactiveBackground":           "default",     // status bar inactive background

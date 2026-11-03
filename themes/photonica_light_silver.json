@@ -53,7 +53,7 @@
         "sash.hoverBorder":      "#789bc3",     // resize handle hover
 
         // Contrast colors (Update: 20261103)
-        "contrastActiveBorder": "default",     // high-contrast active border
+        "contrastActiveBorder": "#789bc3",     // high-contrast active border
         "contrastBorder":       "default",     // high-contrast border
 
         // Window Border (Update: 20261103)
@@ -649,14 +649,14 @@
         "editorCommentsWidget.resolvedBorder":             "default",     // comments widget resolved border
         "editorCommentsWidget.unresolvedBorder":           "default",     // comments widget unresolved border
         "editorGutter.commentDraftGlyphForeground":        "default",     // gutter comment draft glyph foreground
-        "editorGutter.commentGlyphForeground":             "default",     // gutter comment glyph foreground
+        "editorGutter.commentGlyphForeground":             "#ffffff",     // gutter comment glyph foreground
         "editorGutter.commentUnresolvedGlyphForeground":   "default",     // gutter comment unresolved glyph foreground
         "editorOverviewRuler.commentDraftForeground":      "default",     // overview ruler comment draft foreground
         "editorOverviewRuler.commentForeground":           "default",     // overview ruler comment foreground
         "editorOverviewRuler.commentUnresolvedForeground": "default",     // overview ruler comment unresolved foreground
         "commentsView.resolvedIcon":                       "default",     // comments view resolved icon
         "commentsView.unresolvedIcon":                     "default",     // comments view unresolved icon
-        "editorGutter.commentRangeForeground":             "#8c8c8c",     // gutter comment range foreground
+        "editorGutter.commentRangeForeground":             "#b4b4b4",     // gutter comment range foreground
 
         // Status Bar (Update: 20261103)
         "statusBar.inactiveBackground":           "default",     // status bar inactive background

@@ -6,10 +6,15 @@
   * Windows:
 
 * Activated Photonica location in Linux / macOS  
-  * Dark: `~/.vscode/extensions/conantares.photonica-1.0.10/themes/photonica_dark.json`  
-  * Light Azure: `~/.vscode/extensions/conantares.photonica-1.0.10/themes/photonica_light_azure.json`  
-  * Light Orange: `~/.vscode/extensions/conantares.photonica-1.0.10/themes/photonica_light_orange.json`  
-  * Light Violet: `~/.vscode/extensions/conantares.photonica-1.0.10/themes/photonica_light_violet.json`  
+  * Dark: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_dark.json`  
+  * Light Wine: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_wine.json`  
+  * Light Coral: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_coral.json`  
+  * Light Warm: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_warm.json` (id "Photonica Light Orange", renamed from Orange)  
+  * Light Green: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_green.json`  
+  * Light Cyan: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_cyan.json`  
+  * Light Azure: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_azure.json`  
+  * Light Silver: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_silver.json`  
+  * Light Violet: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_violet.json`  
 
 * Color Straw  
   * Linux:      Color Picker
@@ -20,7 +25,7 @@
   * macOS:      ⌥ T  
 
 * Tools Installation  
-  `npm install -g yo generator-code vsce`
+  `npm install -g yo generator-code @vscode/vsce`
 
 * Generate a template
   `yo code`
