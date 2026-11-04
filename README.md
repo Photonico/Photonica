@@ -1,5 +1,12 @@
 # Photonica
 
+[![Version](https://vsmarketplacebadges.dev/version-short/ConAntares.photonica.svg)](https://marketplace.visualstudio.com/items?itemName=ConAntares.photonica)
+[![Installs](https://vsmarketplacebadges.dev/installs-short/ConAntares.photonica.svg)](https://marketplace.visualstudio.com/items?itemName=ConAntares.photonica)
+[![Rating](https://vsmarketplacebadges.dev/rating-short/ConAntares.photonica.svg)](https://marketplace.visualstudio.com/items?itemName=ConAntares.photonica&ssr=false#review-details)
+[![License](https://img.shields.io/github/license/Photonico/Photonica)](https://github.com/ConAntares/Photonica/blob/master/LICENSE)
+[![Made for VS Code](https://img.shields.io/badge/Made%20for-VS%20Code-0078d7?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%93-46b45a?logo=github&logoColor=white)](https://github.com/Photonico/Photonica)
+
 ![Photonica](https://raw.githubusercontent.com/Photonico/Photonica/master/logo.png)
 
 ## About Photonica
