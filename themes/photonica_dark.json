@@ -568,7 +568,7 @@
 		"editorSuggestWidget.focusOutline":               "default",     // suggest focus outline
 		"simpleFindWidget.sashBorder":                    "default",     // find widget sash border
 		"editorWidget.foreground":                        "#f0f0f0",     // editor widget foreground
-		"editorWidget.background":                        "#191919e1",   // editor widget background
+		"editorWidget.background":                        "#2d2d2de1",   // editor widget background
 		"editorWidget.border":                            "#464646",     // editor widget border
 		"editorWidget.resizeBorder":                      "#1ea0ff",     // editor widget resize border
 		"editorSuggestWidget.foreground":                 "#c8c8c8",     // suggest foreground
