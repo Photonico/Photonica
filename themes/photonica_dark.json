@@ -41,7 +41,7 @@
 		// General (Update: 20261104)
 		"disabledForeground":    "#f0f0f07d",   // disabled elements foreground
 		"strongForeground":      "default",     // high-contrast elements foreground
-		"widget.border":         "default",     // widget border color
+		"widget.border":         "#464646",     // widget border color
 		"focusBorder":           "#1ea0ff",     // focused element border
 		"foreground":            "#f0f0f0",     // overall foreground
 		"widget.shadow":         "#000000",     // widget shadow
@@ -568,12 +568,12 @@
 		"editorSuggestWidget.focusOutline":               "default",     // suggest focus outline
 		"simpleFindWidget.sashBorder":                    "default",     // find widget sash border
 		"editorWidget.foreground":                        "#f0f0f0",     // editor widget foreground
-		"editorWidget.background":                        "#2d2d2de1",   // editor widget background
+		"editorWidget.background":                        "#2d2d2dc8",   // editor widget background
 		"editorWidget.border":                            "#464646",     // editor widget border
 		"editorWidget.resizeBorder":                      "#1ea0ff",     // editor widget resize border
 		"editorSuggestWidget.foreground":                 "#c8c8c8",     // suggest foreground
-		"editorSuggestWidget.background":                 "#2d2d2de1",   // suggest background
-		"editorSuggestWidget.border":                     "#2d2d2d64",   // suggest border
+		"editorSuggestWidget.background":                 "#2d2d2dc8",   // suggest background
+		"editorSuggestWidget.border":                     "#464646",     // suggest border
 		"editorSuggestWidget.focusHighlightForeground":   "#64d2ff",     // suggest focus highlight foreground
 		"editorSuggestWidget.highlightForeground":        "#008cf0",     // suggest highlight foreground
 		"editorSuggestWidget.selectedBackground":         "#464646e1",   // suggest selected background
@@ -581,16 +581,16 @@
 		"editorSuggestWidget.selectedIconForeground":     "#64d2ff",     // suggest selected icon foreground
 		"editorSuggestWidgetStatus.foreground":           "#1ea0ff",     // suggest status foreground
 		"editorHoverWidget.foreground":                   "#e6e6e6",     // hover widget foreground
-		"editorHoverWidget.background":                   "#2d2d2de1",   // hover widget background
-		"editorHoverWidget.border":                       "#28282864",   // hover widget border
+		"editorHoverWidget.background":                   "#2d2d2dc8",   // hover widget background
+		"editorHoverWidget.border":                       "#464646",     // hover widget border
 		"editorHoverWidget.highlightForeground":          "#fafafa",     // hover widget highlight foreground
 		"editorHoverWidget.statusBarBackground":          "#6464641e",   // hover widget status bar background
 		"editorGhostText.background":                     "#191919e1",   // ghost text background
 		"editorGhostText.foreground":                     "#e6e6e6",     // ghost text foreground
 		"editorGhostText.border":                         "#ffffff00",   // ghost text border
-		"debugExceptionWidget.background":                "#2d2d2de1",   // exception widget background
+		"debugExceptionWidget.background":                "#2d2d2dc8",   // exception widget background
 		"debugExceptionWidget.border":                    "#9b91ff",     // exception widget border
-		"editorMarkerNavigation.background":              "#2d2d2de1",   // marker nav background
+		"editorMarkerNavigation.background":              "#2d2d2dc8",   // marker nav background
 		"editorMarkerNavigationError.background":         "#ff5050",     // marker nav error background
 		"editorMarkerNavigationWarning.background":       "#96e18c",     // marker nav warning background
 		"editorMarkerNavigationInfo.background":          "#9b91ff",     // marker nav info background
