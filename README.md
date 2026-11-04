@@ -4,7 +4,7 @@
 
 ## About Photonica
 
-:rainbow: [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) is made for [VS Code](https://code.visualstudio.com/). It contains both dark theme and light theme. Its soft colors will be helpful for you to get inspired!
+:rainbow: [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) is made for [VS Code](https://code.visualstudio.com/). It contains one dark theme and eight light themes. Its soft colors will be helpful for you to get inspired!
 
 ## Getting started
 
@@ -31,21 +31,41 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 ## Screenshots
 
-Dark (Python):
+Photonica Dark:
 
-![Dark (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/dark_1.0.4.png)
+![Photonica Dark](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/dark_1.0.11.png)
 
-Light Azure (Python):
+Photonica Light Azure:
 
-![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_azure_1.0.4.png)
+![Photonica Light Azure](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_azure_1.0.11.png)
 
-Light Orange (Python):
+Photonica Light Wine:
 
-![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_orange_1.0.4.png)
+![Photonica Light Wine](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_wine_1.0.11.png)
 
-Light Violet (Python):
+Photonica Light Coral:
 
-![Light (Python)](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_violet_1.0.4.png)
+![Photonica Light Coral](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_coral_1.0.11.png)
+
+Photonica Light Warm (formerly Light Orange; existing settings switch to it automatically):
+
+![Photonica Light Warm](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_warm_1.0.11.png)
+
+Photonica Light Green:
+
+![Photonica Light Green](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_green_1.0.11.png)
+
+Photonica Light Cyan:
+
+![Photonica Light Cyan](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_cyan_1.0.11.png)
+
+Photonica Light Silver:
+
+![Photonica Light Silver](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_silver_1.0.11.png)
+
+Photonica Light Violet:
+
+![Photonica Light Violet](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_violet_1.0.11.png)
 
 ## Preferences shown in the screenshots
 
