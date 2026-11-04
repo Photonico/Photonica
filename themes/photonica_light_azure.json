@@ -573,7 +573,7 @@
         "editorWidget.border":                            "#c8c8c850",   // editor widget border
         "editorWidget.resizeBorder":                      "#0aa5ff",     // editor widget resize border
         "editorSuggestWidget.foreground":                 "#646464",     // suggest foreground
-        "editorSuggestWidget.background":                 "#fafafae1",   // suggest background
+        "editorSuggestWidget.background":                 "#ebebebe1",   // suggest background
         "editorSuggestWidget.border":                     "#c8c8c850",   // suggest border
         "editorSuggestWidget.focusHighlightForeground":   "#6955c8",     // suggest focus highlight foreground
         "editorSuggestWidget.highlightForeground":        "#0aa5ff",     // suggest highlight foreground
@@ -582,16 +582,16 @@
         "editorSuggestWidget.selectedIconForeground":     "#0050a0",     // suggest selected icon foreground
         "editorSuggestWidgetStatus.foreground":           "#0aa5ff",     // suggest status foreground
         "editorHoverWidget.foreground":                   "#646464",     // hover widget foreground
-        "editorHoverWidget.background":                   "#fafafae1",   // hover widget background
+        "editorHoverWidget.background":                   "#ebebebe1",   // hover widget background
         "editorHoverWidget.border":                       "#c8c8c850",   // hover widget border
         "editorHoverWidget.highlightForeground":          "#0aa5ff",     // hover widget highlight foreground
         "editorHoverWidget.statusBarBackground":          "#f0f0f0e1",   // hover widget status bar background
         "editorGhostText.background":                     "#ffffffe1",   // ghost text background
         "editorGhostText.foreground":                     "#505050",     // ghost text foreground
         "editorGhostText.border":                         "#ffffff00",   // ghost text border
-        "debugExceptionWidget.background":                "#fafafae1",   // exception widget background
+        "debugExceptionWidget.background":                "#ebebebe1",   // exception widget background
         "debugExceptionWidget.border":                    "#9178f5",     // exception widget border
-        "editorMarkerNavigation.background":              "#fafafae1",   // marker nav background
+        "editorMarkerNavigation.background":              "#ebebebe1",   // marker nav background
         "editorMarkerNavigationError.background":         "#f03c3c",     // marker nav error background
         "editorMarkerNavigationWarning.background":       "#4ba0a0",     // marker nav warning background
         "editorMarkerNavigationInfo.background":          "#9178f5",     // marker nav info background
@@ -613,7 +613,7 @@
         "peekViewResult.matchHighlightBackground":     "#0aa5ff50",   // peek result match highlight background
         "peekViewResult.selectionBackground":          "#0aa5ff14",   // peek result selection background
         "peekViewResult.selectionForeground":          "#0064d2",     // peek result selection foreground
-        "peekViewTitle.background":                    "#fafafae1",   // peek title background
+        "peekViewTitle.background":                    "#ebebebe1",   // peek title background
         "peekViewTitleDescription.foreground":         "#646464",     // peek title description foreground
         "peekViewTitleLabel.foreground":               "#008cff",     // peek title label foreground
 

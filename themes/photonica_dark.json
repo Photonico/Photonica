@@ -572,7 +572,7 @@
 		"editorWidget.border":                            "#464646",     // editor widget border
 		"editorWidget.resizeBorder":                      "#1ea0ff",     // editor widget resize border
 		"editorSuggestWidget.foreground":                 "#c8c8c8",     // suggest foreground
-		"editorSuggestWidget.background":                 "#282828e1",   // suggest background
+		"editorSuggestWidget.background":                 "#2d2d2de1",   // suggest background
 		"editorSuggestWidget.border":                     "#2d2d2d64",   // suggest border
 		"editorSuggestWidget.focusHighlightForeground":   "#64d2ff",     // suggest focus highlight foreground
 		"editorSuggestWidget.highlightForeground":        "#008cf0",     // suggest highlight foreground
@@ -581,16 +581,16 @@
 		"editorSuggestWidget.selectedIconForeground":     "#64d2ff",     // suggest selected icon foreground
 		"editorSuggestWidgetStatus.foreground":           "#1ea0ff",     // suggest status foreground
 		"editorHoverWidget.foreground":                   "#e6e6e6",     // hover widget foreground
-		"editorHoverWidget.background":                   "#282828e1",   // hover widget background
+		"editorHoverWidget.background":                   "#2d2d2de1",   // hover widget background
 		"editorHoverWidget.border":                       "#28282864",   // hover widget border
 		"editorHoverWidget.highlightForeground":          "#fafafa",     // hover widget highlight foreground
 		"editorHoverWidget.statusBarBackground":          "#6464641e",   // hover widget status bar background
 		"editorGhostText.background":                     "#191919e1",   // ghost text background
 		"editorGhostText.foreground":                     "#e6e6e6",     // ghost text foreground
 		"editorGhostText.border":                         "#ffffff00",   // ghost text border
-		"debugExceptionWidget.background":                "#282828e1",   // exception widget background
+		"debugExceptionWidget.background":                "#2d2d2de1",   // exception widget background
 		"debugExceptionWidget.border":                    "#9b91ff",     // exception widget border
-		"editorMarkerNavigation.background":              "#282828e1",   // marker nav background
+		"editorMarkerNavigation.background":              "#2d2d2de1",   // marker nav background
 		"editorMarkerNavigationError.background":         "#ff5050",     // marker nav error background
 		"editorMarkerNavigationWarning.background":       "#96e18c",     // marker nav warning background
 		"editorMarkerNavigationInfo.background":          "#9b91ff",     // marker nav info background
