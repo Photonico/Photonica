@@ -42,7 +42,7 @@
         // General (Update: 20261103)
         "disabledForeground":    "#1414147d",   // disabled elements foreground
         "strongForeground":      "default",     // high-contrast elements foreground
-        "widget.border":         "#d2d2d2",     // widget border color
+        "widget.border":         "#d2d2d2c8",   // widget border color
         "focusBorder":           "#789bc3",     // focused element border
         "foreground":            "#000000",     // overall foreground
         "widget.shadow":         "#c8c8c8",     // widget shadow
@@ -574,7 +574,7 @@
         "editorWidget.resizeBorder":                      "#789bc3",     // editor widget resize border
         "editorSuggestWidget.foreground":                 "#646464",     // suggest foreground
         "editorSuggestWidget.background":                 "#fafafac8",   // suggest background
-        "editorSuggestWidget.border":                     "#d2d2d2",     // suggest border
+        "editorSuggestWidget.border":                     "#d2d2d2c8",   // suggest border
         "editorSuggestWidget.focusHighlightForeground":   "#147878",     // suggest focus highlight foreground
         "editorSuggestWidget.highlightForeground":        "#789bc3",     // suggest highlight foreground
         "editorSuggestWidget.selectedBackground":         "#e1e1e164",   // suggest selected background
@@ -583,7 +583,7 @@
         "editorSuggestWidgetStatus.foreground":           "#789bc3",     // suggest status foreground
         "editorHoverWidget.foreground":                   "#646464",     // hover widget foreground
         "editorHoverWidget.background":                   "#fafafac8",   // hover widget background
-        "editorHoverWidget.border":                       "#d2d2d2",     // hover widget border
+        "editorHoverWidget.border":                       "#d2d2d2c8",   // hover widget border
         "editorHoverWidget.highlightForeground":          "#789bc3",     // hover widget highlight foreground
         "editorHoverWidget.statusBarBackground":          "#f0f0f0e1",   // hover widget status bar background
         "editorGhostText.background":                     "#ffffffe1",   // ghost text background

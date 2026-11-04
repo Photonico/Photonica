@@ -41,7 +41,7 @@
 		// General (Update: 20261104)
 		"disabledForeground":    "#f0f0f07d",   // disabled elements foreground
 		"strongForeground":      "default",     // high-contrast elements foreground
-		"widget.border":         "#464646",     // widget border color
+		"widget.border":         "#464646c8",   // widget border color
 		"focusBorder":           "#1ea0ff",     // focused element border
 		"foreground":            "#f0f0f0",     // overall foreground
 		"widget.shadow":         "#000000",     // widget shadow
@@ -573,7 +573,7 @@
 		"editorWidget.resizeBorder":                      "#1ea0ff",     // editor widget resize border
 		"editorSuggestWidget.foreground":                 "#c8c8c8",     // suggest foreground
 		"editorSuggestWidget.background":                 "#2d2d2dc8",   // suggest background
-		"editorSuggestWidget.border":                     "#464646",     // suggest border
+		"editorSuggestWidget.border":                     "#464646c8",   // suggest border
 		"editorSuggestWidget.focusHighlightForeground":   "#64d2ff",     // suggest focus highlight foreground
 		"editorSuggestWidget.highlightForeground":        "#008cf0",     // suggest highlight foreground
 		"editorSuggestWidget.selectedBackground":         "#464646e1",   // suggest selected background
@@ -582,7 +582,7 @@
 		"editorSuggestWidgetStatus.foreground":           "#1ea0ff",     // suggest status foreground
 		"editorHoverWidget.foreground":                   "#e6e6e6",     // hover widget foreground
 		"editorHoverWidget.background":                   "#2d2d2dc8",   // hover widget background
-		"editorHoverWidget.border":                       "#464646",     // hover widget border
+		"editorHoverWidget.border":                       "#464646c8",   // hover widget border
 		"editorHoverWidget.highlightForeground":          "#fafafa",     // hover widget highlight foreground
 		"editorHoverWidget.statusBarBackground":          "#6464641e",   // hover widget status bar background
 		"editorGhostText.background":                     "#191919e1",   // ghost text background
