@@ -53,7 +53,7 @@
         "sash.hoverBorder":      "#ff8c78",     // resize handle hover
 
         // Contrast colors (Update: 20261103)
-        "contrastActiveBorder": "#ff8c78",     // high-contrast active border
+        "contrastActiveBorder": "default",     // high-contrast active border
         "contrastBorder":       "default",     // high-contrast border
 
         // Window Border (Update: 20261103)
@@ -212,7 +212,7 @@
         "list.inactiveSelectionIconForeground": "#a5413ce1",   // list inactive selection icon foreground
         "list.inactiveFocusBackground":         "#ffb43250",   // list inactive focus background
         "list.invalidItemForeground":           "#282828",     // list invalid item foreground
-        "list.inactiveFocusOutline":            "#ff8c78",     // list inactive focus outline
+        "list.inactiveFocusOutline":            "#f57364",     // list inactive focus outline
         "list.errorForeground":                 "#f03c3c",     // list error foreground
         "list.warningForeground":               "#4ba0a0",     // list warning foreground
         "listFilterWidget.background":          "#ffb43228",   // list filter background

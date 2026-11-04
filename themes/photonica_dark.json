@@ -52,7 +52,7 @@
 		"sash.hoverBorder":      "#1ea0ff",     // resize handle hover
 
 		// Contrast colors (Update: 20261104)
-		"contrastActiveBorder": "#1ea0ff",     // high-contrast active border
+		"contrastActiveBorder": "default",     // high-contrast active border
 		"contrastBorder":       "default",     // high-contrast border
 
 		// Window Border (Update: 20261104)
