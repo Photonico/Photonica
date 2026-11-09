@@ -71,4 +71,4 @@ azure:    #008cf0 #788ca0 #6496c8 #1ea0ff #64a0dc #82a0c8 #3cbeff #8cb4ff #87c8e
 violet:   #9b91ff #af8cf0 #b49bff
 magenta:  #a078c8 #d28cfa #dc96be #dcaad2 #e1a0ff #d2b4ff #f0dcff
 
-test~area
+this is a test area

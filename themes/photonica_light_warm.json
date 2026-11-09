@@ -552,10 +552,10 @@
         "multiDiffEditor.background":              "default",     // multi diff background
         "multiDiffEditor.border":                  "default",     // multi diff border
         "multiDiffEditor.headerBackground":        "default",     // multi diff header background
-        "diffEditor.insertedTextBackground":       "#46b45a46",   // diff inserted text background
-        "diffEditor.insertedTextBorder":           "#46b45a14",   // diff inserted text border
-        "diffEditor.removedTextBackground":        "#f03c3c46",   // diff removed text background
-        "diffEditor.removedTextBorder":            "#f03c3c14",   // diff removed text border
+        "diffEditor.insertedTextBackground":       "#46b45a41",   // diff inserted text background
+        "diffEditor.insertedTextBorder":           "#46b45a1e",   // diff inserted text border
+        "diffEditor.removedTextBackground":        "#f03c3c41",   // diff removed text background
+        "diffEditor.removedTextBorder":            "#f03c3c1e",   // diff removed text border
         "diffEditor.border":                       "default",     // diff border
         "diffEditor.diagonalFill":                 "default",     // diff diagonal fill
         "diffEditor.insertedLineBackground":       "#46b45a14",   // diff inserted line background
