@@ -7,7 +7,7 @@ Check to [Keep a Changelog](http://keepachangelog.com/) for recommendations on h
 ## 1.0.12
 
 * Make the find widget and other editor widgets stand out from the editor.
-* Make changed characters in light diff views easier to spot.
+* Make changed characters in diff views easier to spot.
 * Show live badges in the README.
 
 ## 1.0.11 @ Nov 4, 2026

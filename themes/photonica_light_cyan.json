@@ -553,15 +553,15 @@
         "multiDiffEditor.border":                  "default",     // multi diff border
         "multiDiffEditor.headerBackground":        "default",     // multi diff header background
         "diffEditor.insertedTextBackground":       "#46b45a41",   // diff inserted text background
-        "diffEditor.insertedTextBorder":           "#46b45a1e",   // diff inserted text border
+        "diffEditor.insertedTextBorder":           "#46b45a28",   // diff inserted text border
         "diffEditor.removedTextBackground":        "#f03c3c41",   // diff removed text background
-        "diffEditor.removedTextBorder":            "#f03c3c1e",   // diff removed text border
+        "diffEditor.removedTextBorder":            "#f03c3c28",   // diff removed text border
         "diffEditor.border":                       "default",     // diff border
         "diffEditor.diagonalFill":                 "default",     // diff diagonal fill
-        "diffEditor.insertedLineBackground":       "#46b45a14",   // diff inserted line background
-        "diffEditor.removedLineBackground":        "#f03c3c14",   // diff removed line background
-        "diffEditorGutter.insertedLineBackground": "#46b45a14",   // diff gutter inserted line background
-        "diffEditorGutter.removedLineBackground":  "#f03c3c14",   // diff gutter removed line background
+        "diffEditor.insertedLineBackground":       "#46b45a1e",   // diff inserted line background
+        "diffEditor.removedLineBackground":        "#f03c3c1e",   // diff removed line background
+        "diffEditorGutter.insertedLineBackground": "#46b45a1e",   // diff gutter inserted line background
+        "diffEditorGutter.removedLineBackground":  "#f03c3c1e",   // diff gutter removed line background
         "diffEditorOverview.insertedForeground":   "#46b45ae1",   // diff overview inserted foreground
         "diffEditorOverview.removedForeground":    "#f03c3ce1",   // diff overview removed foreground
 

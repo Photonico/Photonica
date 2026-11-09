@@ -551,16 +551,16 @@
 		"multiDiffEditor.background":              "default",     // multi diff background
 		"multiDiffEditor.border":                  "default",     // multi diff border
 		"multiDiffEditor.headerBackground":        "default",     // multi diff header background
-		"diffEditor.insertedTextBackground":       "#50c3a014",   // diff inserted text background
-		"diffEditor.insertedTextBorder":           "default",     // diff inserted text border
-		"diffEditor.removedTextBackground":        "#c8646414",   // diff removed text background
-		"diffEditor.removedTextBorder":            "default",     // diff removed text border
+		"diffEditor.insertedTextBackground":       "#50c3a032",   // diff inserted text background
+		"diffEditor.insertedTextBorder":           "#50c3a028",   // diff inserted text border
+		"diffEditor.removedTextBackground":        "#c8646432",   // diff removed text background
+		"diffEditor.removedTextBorder":            "#c8646428",   // diff removed text border
 		"diffEditor.border":                       "default",     // diff border
 		"diffEditor.diagonalFill":                 "default",     // diff diagonal fill
-		"diffEditor.insertedLineBackground":       "#50c3a028",   // diff inserted line background
-		"diffEditor.removedLineBackground":        "#c8646428",   // diff removed line background
-		"diffEditorGutter.insertedLineBackground": "#50c3a014",   // diff gutter inserted line background
-		"diffEditorGutter.removedLineBackground":  "#c8646414",   // diff gutter removed line background
+		"diffEditor.insertedLineBackground":       "#50c3a01e",   // diff inserted line background
+		"diffEditor.removedLineBackground":        "#c864641e",   // diff removed line background
+		"diffEditorGutter.insertedLineBackground": "#50c3a01e",   // diff gutter inserted line background
+		"diffEditorGutter.removedLineBackground":  "#c864641e",   // diff gutter removed line background
 		"diffEditorOverview.insertedForeground":   "#50c3a0e1",   // diff overview inserted foreground
 		"diffEditorOverview.removedForeground":    "#c86464e1",   // diff overview removed foreground
 
