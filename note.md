@@ -70,3 +70,5 @@ cyan:     #28b4b4 #50c3a0 #8cb4be #96bebe #8cc8b4 #64dcdc #8ce1e1 #78ebd7 #c8faf
 azure:    #008cf0 #788ca0 #6496c8 #1ea0ff #64a0dc #82a0c8 #3cbeff #8cb4ff #87c8e1 #64d2ff #a0c8ff #8cdcff #c8d7dc #b4dcf0 #c8ebff
 violet:   #9b91ff #af8cf0 #b49bff
 magenta:  #a078c8 #d28cfa #dc96be #dcaad2 #e1a0ff #d2b4ff #f0dcff
+
+test area
