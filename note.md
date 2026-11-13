@@ -9,12 +9,17 @@
   * Dark: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_dark.json`  
   * Light Wine: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_wine.json`  
   * Light Coral: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_coral.json`  
-  * Light Warm: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_warm.json` (id "Photonica Light Orange", renamed from Orange)  
+  * Light Crimson: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_crimson.json`  
+  * Light Orange: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_orange.json` (was Light Warm in 1.0.11, same settings id)  
+  * Light Yellow: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_yellow.json`  
+  * Light Lime: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_lime.json`  
   * Light Green: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_green.json`  
   * Light Cyan: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_cyan.json`  
   * Light Azure: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_azure.json`  
-  * Light Silver: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_silver.json`  
   * Light Violet: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_violet.json`  
+  * Light Purple: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_purple.json`  
+  * Light Silver: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_silver.json`  
+  * Light Titanium: `~/.vscode/extensions/conantares.photonica-1.0.11/themes/photonica_light_titanium.json`  
 
 * Color Straw  
   * Linux:      Color Picker
@@ -75,3 +80,19 @@ cyan:     #28b4b4 #50c3a0 #8cb4be #96bebe #8cc8b4 #64dcdc #8ce1e1 #78ebd7 #c8faf
 azure:    #0a78E1 #008cf0 #788ca0 #6496c8 #1ea0ff #64a0dc #82a0c8 #3cbeff #8cb4ff #87c8e1 #64d2ff #a0c8ff #8cdcff #c8d7dc #b4dcf0 #c8ebff  
 violet:   #8C64f0 #9b91ff #af8cf0 #b49bff  
 magenta:  #D25ADC #a078c8 #d28cfa #dc96be #dcaad2 #e1a0ff #d2b4ff #f0dcff  
+
+* secondary colors
+
+wine:     purple  
+coral:    orange  
+crimson:  orange  
+orange:   lime  
+yellow:   lime  
+lime:     yellow  
+green:    azure  
+cyan:     azure  
+azure:    violet  
+violet:   azure  
+purple:   coral  
+silver:   cyan  
+titanium: violet  

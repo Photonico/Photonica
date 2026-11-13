@@ -9,6 +9,7 @@ Check to [Keep a Changelog](http://keepachangelog.com/) for recommendations on h
 * Make the find widget and other editor widgets stand out from the editor.
 * Make changed characters in diff views easier to spot.
 * Refine the light palette: split warm into orange and yellow, add crimson, lime, titanium and purple, and retune the rest so wine, coral and crimson are easy to tell apart.
+* Add five light themes: Crimson, Yellow, Lime, Purple and Titanium. Light Warm is Light Orange again, and settings that use it keep working.
 * Show live badges in the README.
 
 ## 1.0.11 @ Nov 4, 2026

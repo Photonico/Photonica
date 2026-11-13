@@ -20,22 +20,22 @@
         "method.defaultLibrary:typescript":                 "#3c5078",   // built-in method (typescript)
         "class.defaultLibrary:typescript":                  "#3c5078",   // built-in class (typescript)
         "property.declaration:typescript":                  "#6e69b9",   // property declaration (typescript)
-        "property.defaultLibrary:typescript":               "#147878",   // built-in property (typescript)
-        "property.defaultLibrary.readonly:typescript":      "#147878",   // built-in readonly property (typescript)
+        "property.defaultLibrary:typescript":               "#1e7d7d",   // built-in property (typescript)
+        "property.defaultLibrary.readonly:typescript":      "#1e7d7d",   // built-in readonly property (typescript)
         "function:typescriptreact":                         "#3c5078",   // function name (typescriptreact)
         "function.defaultLibrary:typescriptreact":          "#3c5078",   // built-in function (typescriptreact)
         "method:typescriptreact":                           "#3c5078",   // method name (typescriptreact)
         "method.defaultLibrary:typescriptreact":            "#3c5078",   // built-in method (typescriptreact)
         "class.defaultLibrary:typescriptreact":             "#3c5078",   // built-in class (typescriptreact)
         "property.declaration:typescriptreact":             "#6e69b9",   // property declaration (typescriptreact)
-        "property.defaultLibrary:typescriptreact":          "#147878",   // built-in property (typescriptreact)
-        "property.defaultLibrary.readonly:typescriptreact": "#147878",   // built-in readonly property (typescriptreact)
+        "property.defaultLibrary:typescriptreact":          "#1e7d7d",   // built-in property (typescriptreact)
+        "property.defaultLibrary.readonly:typescriptreact": "#1e7d7d",   // built-in readonly property (typescriptreact)
         "property.declaration:javascript":                  "#6e69b9",   // property declaration (javascript)
-        "property.defaultLibrary:javascript":               "#147878",   // built-in property (javascript)
-        "property.defaultLibrary.readonly:javascript":      "#147878",   // built-in readonly property (javascript)
+        "property.defaultLibrary:javascript":               "#1e7d7d",   // built-in property (javascript)
+        "property.defaultLibrary.readonly:javascript":      "#1e7d7d",   // built-in readonly property (javascript)
         "property.declaration:javascriptreact":             "#6e69b9",   // property declaration (javascriptreact)
-        "property.defaultLibrary:javascriptreact":          "#147878",   // built-in property (javascriptreact)
-        "property.defaultLibrary.readonly:javascriptreact": "#147878"    // built-in readonly property (javascriptreact)
+        "property.defaultLibrary:javascriptreact":          "#1e7d7d",   // built-in property (javascriptreact)
+        "property.defaultLibrary.readonly:javascriptreact": "#1e7d7d"    // built-in readonly property (javascriptreact)
     },
     "colors": 
     {
@@ -99,7 +99,7 @@
         "textCodeBlock.background":  "default",     // code block background
         "textLink.activeForeground": "#0f8cf0",     // link active foreground
         "textLink.foreground":       "#0064d2",     // link foreground
-        "textPreformat.foreground":  "#0a8c8c",     // preformatted foreground
+        "textPreformat.foreground":  "#1e9696",     // preformatted foreground
         "textSeparator.foreground":  "default",     // text separator foreground
 
         // Action colors (Update: 20261103)
@@ -316,7 +316,7 @@
         "editorOverviewRuler.background":                    "#ffffff",     // overview ruler background
         "editorOverviewRuler.border":                        "#ffffff",     // overview ruler border
         "editorOverviewRuler.findMatchForeground":           "#ffe15fc8",   // overview ruler find match foreground
-        "editorOverviewRuler.rangeHighlightForeground":      "#46b4b450",   // overview ruler range highlight foreground
+        "editorOverviewRuler.rangeHighlightForeground":      "#32afaf50",   // overview ruler range highlight foreground
         "editorOverviewRuler.selectionHighlightForeground":  "#6ec8ffc8",   // overview ruler selection highlight foreground
         "editorOverviewRuler.wordHighlightForeground":       "#14a0ffaf",   // overview ruler word highlight foreground
         "editorOverviewRuler.wordHighlightStrongForeground": "#0f8cf0e1",   // overview ruler word highlight strong foreground
@@ -633,8 +633,8 @@
         "mergeEditor.conflictingLines.background":             "#f03c3c14",   // merge editor conflicting lines background
         "merge.currentHeaderBackground":                       "#0f8cf050",   // merge current header background
         "merge.currentContentBackground":                      "#0f8cf01e",   // merge current content background
-        "merge.incomingHeaderBackground":                      "#46b4b450",   // merge incoming header background
-        "merge.incomingContentBackground":                     "#46b4b41e",   // merge incoming content background
+        "merge.incomingHeaderBackground":                      "#32afaf50",   // merge incoming header background
+        "merge.incomingContentBackground":                     "#32afaf1e",   // merge incoming content background
         "merge.border":                                        "#fa8c14",     // merge border
         "merge.commonContentBackground":                       "#fafafae1",   // merge common content background
         "merge.commonHeaderBackground":                        "#fafafae1",   // merge common header background
@@ -742,7 +742,7 @@
         "extensionBadge.remoteForeground":          "#ffffff",     // extension badge remote foreground
         "extensionIcon.starForeground":             "#fa8c14",     // extension star foreground
         "extensionIcon.verifiedForeground":         "#0f8cf0",     // extension verified foreground
-        "extensionIcon.preReleaseForeground":       "#46b4b4",     // extension pre release foreground
+        "extensionIcon.preReleaseForeground":       "#32afaf",     // extension pre release foreground
 
         // Quick Picker (Update: 20261103)
         "quickInputList.focusHighlightForeground": "default",     // quick pick row focus highlight foreground
@@ -768,7 +768,7 @@
         // Debug (Update: 20261103)
         "debugTokenExpression.boolean":                "#645ac8",     // debug value boolean
         "debugTokenExpression.error":                  "#f03c3c",     // debug value error
-        "debugTokenExpression.name":                   "#0a8c8c",     // debug value name
+        "debugTokenExpression.name":                   "#1e9696",     // debug value name
         "debugTokenExpression.number":                 "#1e8232",     // debug value number
         "debugTokenExpression.string":                 "#28a0a0",     // debug value string
         "debugTokenExpression.type":                   "#554ba0",     // debug value type
@@ -859,7 +859,7 @@
         "git.blame.editorDecorationForeground":          "default",     // git blame editor decoration foreground
         "gitDecoration.addedResourceForeground":         "#fac81e",     // git added resource foreground
         "gitDecoration.modifiedResourceForeground":      "#0064d2",     // git modified resource foreground
-        "gitDecoration.renamedResourceForeground":       "#46b4b4",     // git renamed resource foreground
+        "gitDecoration.renamedResourceForeground":       "#32afaf",     // git renamed resource foreground
         "gitDecoration.stageModifiedResourceForeground": "#0064d2",     // git stage modified resource foreground
         "gitDecoration.stageDeletedResourceForeground":  "#f03c3c",     // git stage deleted resource foreground
         "gitDecoration.deletedResourceForeground":       "#f03c3c",     // git deleted resource foreground
@@ -927,9 +927,9 @@
         "symbolIcon.constantForeground":         "default",     // symbol constant foreground
         "symbolIcon.constructorForeground":      "#1478e1",     // symbol constructor foreground
         "symbolIcon.enumeratorForeground":       "#554ba0",     // symbol enumerator foreground
-        "symbolIcon.enumeratorMemberForeground": "#147878",     // symbol enumerator member foreground
+        "symbolIcon.enumeratorMemberForeground": "#1e7d7d",     // symbol enumerator member foreground
         "symbolIcon.eventForeground":            "#c35564",     // symbol event foreground
-        "symbolIcon.fieldForeground":            "#0a8c8c",     // symbol field foreground
+        "symbolIcon.fieldForeground":            "#1e9696",     // symbol field foreground
         "symbolIcon.fileForeground":             "default",     // symbol file foreground
         "symbolIcon.folderForeground":           "default",     // symbol folder foreground
         "symbolIcon.functionForeground":         "#1478e1",     // symbol function foreground
@@ -952,7 +952,7 @@
         "symbolIcon.textForeground":             "default",     // symbol text foreground
         "symbolIcon.typeParameterForeground":    "default",     // symbol type parameter foreground
         "symbolIcon.unitForeground":             "default",     // symbol unit foreground
-        "symbolIcon.variableForeground":         "#0a8c8c",     // symbol variable foreground
+        "symbolIcon.variableForeground":         "#1e9696",     // symbol variable foreground
 
         // Notebook (Update: 20261103)
         "interactive.activeCodeBorder":                      "default",     // interactive active code border
@@ -1011,7 +1011,7 @@
         "chat.thinkingShimmer":                        "default",     // chat thinking shimmer
         "chat.voiceGlowBaseColor":                     "default",     // chat voice glow base color
         "chat.voiceListeningGlow":                     "default",     // chat voice listening glow
-        "chat.workingProgressInsidersIconForeground":  "#46b4b4",     // chat working progress insiders icon foreground
+        "chat.workingProgressInsidersIconForeground":  "#32afaf",     // chat working progress insiders icon foreground
         "chat.workingProgressStableIconForeground":    "#1478e1",     // chat working progress stable icon foreground
 
         // Inline Chat (Update: 20261103)
@@ -1093,7 +1093,7 @@
         "terminal.ansiYellow":                         "#f0be1e",     // ANSI yellow
         "terminal.ansiBlue":                           "#0f8cf0",     // ANSI blue
         "terminal.ansiMagenta":                        "#645ac8",     // ANSI magenta
-        "terminal.ansiCyan":                           "#46b4b4",     // ANSI cyan
+        "terminal.ansiCyan":                           "#32afaf",     // ANSI cyan
         "terminal.ansiWhite":                          "#c8c8c8",     // ANSI white
         "terminal.ansiBrightBlack":                    "#646464",     // ANSI bright black
         "terminal.ansiBrightRed":                      "#f03c3c",     // ANSI bright red
@@ -1101,7 +1101,7 @@
         "terminal.ansiBrightYellow":                   "#fac81e",     // ANSI bright yellow
         "terminal.ansiBrightBlue":                     "#14a0ff",     // ANSI bright blue
         "terminal.ansiBrightMagenta":                  "#a078ff",     // ANSI bright magenta
-        "terminal.ansiBrightCyan":                     "#64c8c8",     // ANSI bright cyan
+        "terminal.ansiBrightCyan":                     "#3cc8c8",     // ANSI bright cyan
         "terminal.ansiBrightWhite":                    "#f0f0f0",     // ANSI bright white
         "terminal.selectionBackground":                "#14a0ff50",   // terminal selection background
         "terminalCursor.background":                   "default",     // terminal cursor background
@@ -1261,7 +1261,7 @@
             "scope": "constant.character.escape", // \t, \n escapes
             "settings": 
             {
-                "foreground": "#3c7d7d"		// 060,125,125
+                "foreground": "#468282"		// 070,130,130
             }
         },
         {
@@ -1273,7 +1273,7 @@
             ],
               "settings": 
               {
-                "foreground": "#3c7d7d"		// 060,125,125
+                "foreground": "#468282"		// 070,130,130
               }
         },
         {
@@ -1296,7 +1296,7 @@
             ],  
             "settings": 
             {
-                "foreground": "#3c7d7d" 	// 060,125,125
+                "foreground": "#468282" 	// 070,130,130
             }
         },
         {
@@ -1823,7 +1823,7 @@
             "scope": "punctuation.terminator",	// C++ line-end semicolon
             "settings": 
             {
-                "foreground": "#147878"
+                "foreground": "#1e7d7d"
             }
         },
         {
@@ -1846,7 +1846,7 @@
             ],
                 "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -1866,7 +1866,7 @@
             "scope": "variable.other",
             "settings": 
             {
-              "foreground": "#147878"		// 020,120,120
+              "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1874,7 +1874,7 @@
             "scope": "variable.other.property, variable.other.object.property",
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1890,7 +1890,7 @@
             "scope": "variable.parameter",
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1902,7 +1902,7 @@
             ],
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1910,7 +1910,7 @@
             "scope": "punctuation.definition.variable",
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -2434,7 +2434,7 @@
             "scope": "scss.meta.at-rule.import.string.quoted.single",
             "settings": 
             {
-                "foreground": "#3c7d7d"		// 060,125,125
+                "foreground": "#468282"		// 070,130,130
             }
         },
 //
@@ -2515,7 +2515,7 @@
             "scope": "source.diff meta.diff.range.context",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
                 
             }
         },
@@ -2524,7 +2524,7 @@
             "scope": "source.diff meta.diff.header.from-file",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2532,7 +2532,7 @@
             "scope": "source.diff punctuation.definition.from-file",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2540,7 +2540,7 @@
             "scope": "source.diff punctuation.definition.range",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2670,7 +2670,7 @@
             "scope": "source.java storage.modifier.import",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "scope": "source.java storage.modifier.package",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2686,7 +2686,7 @@
             "scope": "source.java storage.type",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2802,7 +2802,7 @@
             "scope": "source.js meta.var.expr variable.other.object",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2810,7 +2810,7 @@
             "scope": "source.js variable.other.readwrite.alias",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2903,7 +2903,7 @@
             "settings": 
             {
                 //"foreground": "#dc96c8"		// 220,150,200
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -3169,7 +3169,7 @@
             ],
                 "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -3185,7 +3185,7 @@
             "scope": "punctuation.terminator.expression.php",
             "settings": 
             {
-                "foreground": "#147878" 	// 020,120,120
+                "foreground": "#1e7d7d" 	// 030,125,125
             }
         },
         {
@@ -3391,7 +3391,7 @@
             "settings": 
             {
                 //"foreground": "#c8646e" 	// 200,100,110
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {

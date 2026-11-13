@@ -20,22 +20,22 @@
         "method.defaultLibrary:typescript":                 "#3c5078",   // built-in method (typescript)
         "class.defaultLibrary:typescript":                  "#3c5078",   // built-in class (typescript)
         "property.declaration:typescript":                  "#6e69b9",   // property declaration (typescript)
-        "property.defaultLibrary:typescript":               "#147878",   // built-in property (typescript)
-        "property.defaultLibrary.readonly:typescript":      "#147878",   // built-in readonly property (typescript)
+        "property.defaultLibrary:typescript":               "#1e7d7d",   // built-in property (typescript)
+        "property.defaultLibrary.readonly:typescript":      "#1e7d7d",   // built-in readonly property (typescript)
         "function:typescriptreact":                         "#3c5078",   // function name (typescriptreact)
         "function.defaultLibrary:typescriptreact":          "#3c5078",   // built-in function (typescriptreact)
         "method:typescriptreact":                           "#3c5078",   // method name (typescriptreact)
         "method.defaultLibrary:typescriptreact":            "#3c5078",   // built-in method (typescriptreact)
         "class.defaultLibrary:typescriptreact":             "#3c5078",   // built-in class (typescriptreact)
         "property.declaration:typescriptreact":             "#6e69b9",   // property declaration (typescriptreact)
-        "property.defaultLibrary:typescriptreact":          "#147878",   // built-in property (typescriptreact)
-        "property.defaultLibrary.readonly:typescriptreact": "#147878",   // built-in readonly property (typescriptreact)
+        "property.defaultLibrary:typescriptreact":          "#1e7d7d",   // built-in property (typescriptreact)
+        "property.defaultLibrary.readonly:typescriptreact": "#1e7d7d",   // built-in readonly property (typescriptreact)
         "property.declaration:javascript":                  "#6e69b9",   // property declaration (javascript)
-        "property.defaultLibrary:javascript":               "#147878",   // built-in property (javascript)
-        "property.defaultLibrary.readonly:javascript":      "#147878",   // built-in readonly property (javascript)
+        "property.defaultLibrary:javascript":               "#1e7d7d",   // built-in property (javascript)
+        "property.defaultLibrary.readonly:javascript":      "#1e7d7d",   // built-in readonly property (javascript)
         "property.declaration:javascriptreact":             "#6e69b9",   // property declaration (javascriptreact)
-        "property.defaultLibrary:javascriptreact":          "#147878",   // built-in property (javascriptreact)
-        "property.defaultLibrary.readonly:javascriptreact": "#147878"    // built-in readonly property (javascriptreact)
+        "property.defaultLibrary:javascriptreact":          "#1e7d7d",   // built-in property (javascriptreact)
+        "property.defaultLibrary.readonly:javascriptreact": "#1e7d7d"    // built-in readonly property (javascriptreact)
     },
     "colors": 
     {
@@ -99,7 +99,7 @@
         "textCodeBlock.background":  "default",     // code block background
         "textLink.activeForeground": "#f05a6e",     // link active foreground
         "textLink.foreground":       "#cd3c50",     // link foreground
-        "textPreformat.foreground":  "#0a8c8c",     // preformatted foreground
+        "textPreformat.foreground":  "#1e9696",     // preformatted foreground
         "textSeparator.foreground":  "default",     // text separator foreground
 
         // Action colors (Update: 20261103)
@@ -108,8 +108,8 @@
         "editorActionList.focusForeground": "default",     // action list focus foreground
         "editorActionList.foreground":      "default",     // action list foreground
         "actionBar.toggledBackground":      "default",     // action bar toggled background
-        "toolbar.hoverBackground":          "#eb731e64",   // toolbar hover background
-        "toolbar.hoverOutline":             "#eb731ec8",   // toolbar hover outline
+        "toolbar.hoverBackground":          "#e1b40064",   // toolbar hover background
+        "toolbar.hoverOutline":             "#e1b400c8",   // toolbar hover outline
         "toolbar.activeBackground":         "#f582917d",   // toolbar active background
 
         // Button (Update: 20261103)
@@ -129,10 +129,10 @@
         "button.foreground":               "#ffffff",     // button foreground
         "button.background":               "#dc465f",     // button background
         "button.border":                   "#ffffff64",   // button border
-        "button.hoverBackground":          "#faa03c",     // button hover background
+        "button.hoverBackground":          "#d29b14",     // button hover background
         "button.secondaryForeground":      "#ffffff",     // button secondary foreground
         "button.secondaryBackground":      "#dc465fe1",   // button secondary background
-        "button.secondaryHoverBackground": "#faa03ce1",   // button secondary hover background
+        "button.secondaryHoverBackground": "#d29b14e1",   // button secondary hover background
         "checkbox.foreground":             "#ffffff",     // checkbox foreground
         "checkbox.background":             "#dc465fe1",   // checkbox background
         "checkbox.border":                 "#ffffff64",   // checkbox border
@@ -181,7 +181,7 @@
         // Scrollbar Control (Update: 20261103)
         "scrollbar.background":             "default",     // scrollbar background
         "scrollbar.shadow":                 "#b4b4b4",     // scrollbar shadow
-        "scrollbarSlider.hoverBackground":  "#faa03c7d",   // scrollbar slider hover background
+        "scrollbarSlider.hoverBackground":  "#fac81e7d",   // scrollbar slider hover background
         "scrollbarSlider.activeBackground": "#dc465f7d",   // scrollbar slider active background
         "scrollbarSlider.background":       "#c8c8c8c8",   // scrollbar slider background
 
@@ -198,10 +198,10 @@
         "list.activeSelectionBackground":       "#f58291d7",   // list active selection background
         "list.activeSelectionForeground":       "#ffffff",     // list active selection foreground
         "list.activeSelectionIconForeground":   "#b42846",     // list active selection icon foreground
-        "list.dropBackground":                  "#ffb46432",   // list drop background
+        "list.dropBackground":                  "#ffd21e32",   // list drop background
         "list.focusBackground":                 "#f5829132",   // list focus background
         "list.focusForeground":                 "#141414",     // list focus foreground
-        "list.focusHighlightForeground":        "#eb731e",     // list focus highlight foreground
+        "list.focusHighlightForeground":        "#d29b14",     // list focus highlight foreground
         "list.highlightForeground":             "#f58291",     // list highlight foreground
         "list.focusOutline":                    "#f58291",     // list focus outline
         "list.focusAndSelectionOutline":        "#ffb4be",     // list focus and selection outline
@@ -210,21 +210,21 @@
         "list.inactiveSelectionBackground":     "#f582918c",   // list inactive selection background
         "list.inactiveSelectionForeground":     "#ffffff",     // list inactive selection foreground
         "list.inactiveSelectionIconForeground": "#b42846e1",   // list inactive selection icon foreground
-        "list.inactiveFocusBackground":         "#ffb46450",   // list inactive focus background
+        "list.inactiveFocusBackground":         "#ffd21e50",   // list inactive focus background
         "list.invalidItemForeground":           "#282828",     // list invalid item foreground
         "list.inactiveFocusOutline":            "#f05a6e",     // list inactive focus outline
         "list.errorForeground":                 "#f03c3c",     // list error foreground
         "list.warningForeground":               "#28a0a0",     // list warning foreground
-        "listFilterWidget.background":          "#ffb46428",   // list filter background
-        "listFilterWidget.outline":             "#ffb464e1",   // list filter outline
+        "listFilterWidget.background":          "#ffd21e28",   // list filter background
+        "listFilterWidget.outline":             "#ffd21ee1",   // list filter outline
         "listFilterWidget.noMatchesOutline":    "#f03c3ce1",   // list filter no matches outline
-        "list.filterMatchBackground":           "#ffb46450",   // list filter match background
+        "list.filterMatchBackground":           "#ffd21e50",   // list filter match background
         "list.filterMatchBorder":               "default",     // list filter match border
         "list.deemphasizedForeground":          "#a0a0a0",     // list deemphasized foreground
         "tree.indentGuidesStroke":              "default",     // tree indent guides stroke
         "tree.tableColumnsBorder":              "default",     // tree table columns border
         "tree.tableOddRowsBackground":          "default",     // tree table odd rows background
-        "listFilterWidget.shadow":              "#ffb464c8",   // list filter shadow
+        "listFilterWidget.shadow":              "#ffd21ec8",   // list filter shadow
 
         // Panel colors (Update: 20261103)
         "outputView.background":             "default",     // output view background
@@ -237,13 +237,13 @@
         "panelTitleBadge.foreground":        "default",     // panel badge foreground
         "panel.background":                  "#ebebeb",     // panel background
         "panel.border":                      "#ffffff00",   // panel border
-        "panel.dropBorder":                  "#faa03c",     // panel drop border
+        "panel.dropBorder":                  "#fac81e",     // panel drop border
         "panelTitle.activeBorder":           "#ffffff00",   // panel title active border
         "panelTitle.activeForeground":       "#cd3c50",     // panel title active foreground
         "panelTitle.inactiveForeground":     "#646464",     // panel title inactive foreground
         "panelInput.border":                 "#d2d2d2",     // panel input border
         "panelSection.border":               "#f0f0f0",     // panel section border
-        "panelSection.dropBackground":       "#ffb46432",   // panel section drop background
+        "panelSection.dropBackground":       "#ffd21e32",   // panel section drop background
         "panelSectionHeader.foreground":     "#141414",     // panel section header foreground
         "panelSectionHeader.background":     "#ffffff64",   // panel section header background
         "panelSectionHeader.border":         "#d2d2d2",     // panel section header border
@@ -261,8 +261,8 @@
         "activityWarningBadge.foreground":   "default",     // activity warning badge foreground
         "activityBar.inactiveForeground":    "#787878",     // activity bar inactive foreground
         "activityBar.activeBorder":          "#f58291",     // activity bar active border
-        "activityBar.activeFocusBorder":     "#faa03c",     // activity bar active focus border
-        "activityBar.dropBorder":            "#faa03c",     // activity bar drop border
+        "activityBar.activeFocusBorder":     "#fac81e",     // activity bar active focus border
+        "activityBar.dropBorder":            "#fac81e",     // activity bar drop border
         "activityBarBadge.foreground":       "#ffffff",     // activity badge foreground
         "activityBarBadge.background":       "#f58291",     // activity badge background
         "activityBar.background":            "#dcdcdc",     // activity bar background
@@ -285,7 +285,7 @@
         "sideBar.background":              "#ebebeb",     // side bar background
         "sideBar.foreground":              "#141414",     // side bar foreground
         "sideBar.border":                  "#ebebeb",     // side bar border
-        "sideBar.dropBackground":          "#ffb46432",   // side bar drop background
+        "sideBar.dropBackground":          "#ffd21e32",   // side bar drop background
         "sideBarTitle.foreground":         "#000000",     // side bar title foreground
         "sideBarSectionHeader.background": "#dcdcdc",     // side bar section header background
         "sideBarSectionHeader.foreground": "#141414",     // side bar section header foreground
@@ -303,7 +303,7 @@
         "minimap.selectionOccurrenceHighlight": "#87dc8c8c",   // minimap selection occurrence highlight
         "minimap.foregroundOpacity":            "#000000",     // minimap foreground opacity
         "minimapSlider.background":             "#fafafa1e",   // minimap slider background
-        "minimapSlider.hoverBackground":        "#faa03c64",   // minimap slider hover background
+        "minimapSlider.hoverBackground":        "#fac81e64",   // minimap slider hover background
         "minimapSlider.activeBackground":       "#f5829164",   // minimap slider active background
         "minimapGutter.modifiedBackground":     "#0f8cf0e1",   // minimap gutter modified background
         "minimapGutter.addedBackground":        "#41b450e1",   // minimap gutter added background
@@ -316,7 +316,7 @@
         "editorOverviewRuler.background":                    "#ffffff",     // overview ruler background
         "editorOverviewRuler.border":                        "#ffffff",     // overview ruler border
         "editorOverviewRuler.findMatchForeground":           "#ffe15fc8",   // overview ruler find match foreground
-        "editorOverviewRuler.rangeHighlightForeground":      "#46b4b450",   // overview ruler range highlight foreground
+        "editorOverviewRuler.rangeHighlightForeground":      "#32afaf50",   // overview ruler range highlight foreground
         "editorOverviewRuler.selectionHighlightForeground":  "#ffb4bec8",   // overview ruler selection highlight foreground
         "editorOverviewRuler.wordHighlightForeground":       "#f58291af",   // overview ruler word highlight foreground
         "editorOverviewRuler.wordHighlightStrongForeground": "#f05a6ee1",   // overview ruler word highlight strong foreground
@@ -339,7 +339,7 @@
         "tab.selectedBorderTop":                     "default",     // tab selected border top
         "tab.selectedForeground":                    "default",     // tab selected foreground
         "editorGroup.border":                        "#f582913c",   // editor group border
-        "editorGroup.dropBackground":                "#ffb46432",   // editor group drop background
+        "editorGroup.dropBackground":                "#ffd21e32",   // editor group drop background
         "editorGroupHeader.noTabsBackground":        "#fafafa",     // group header no tabs background
         "editorGroupHeader.tabsBackground":          "#ebebeb",     // group header tabs background
         "editorGroupHeader.tabsBorder":              "#ffffff00",   // group header tabs border
@@ -415,7 +415,7 @@
         "searchEditor.findMatchBackground":       "default",     // search editor find match background
         "searchEditor.findMatchBorder":           "default",     // search editor find match border
         "searchEditor.textInputBorder":           "default",     // search editor text input border
-        "editor.hoverHighlightBackground":        "#faa03c3c",   // editor hover highlight background
+        "editor.hoverHighlightBackground":        "#fac81e3c",   // editor hover highlight background
         "editor.lineHighlightBackground":         "#e1e1e132",   // editor line highlight background
         "editor.lineHighlightBorder":             "#e1e1e164",   // editor line highlight border
         "editorUnicodeHighlight.border":          "#e1e1e18c",   // unicode highlight border
@@ -511,7 +511,7 @@
         "editorGutter.modifiedBackground":          "#0f8cf0",     // gutter modified background
         "editorGutter.addedBackground":             "#41b450",     // gutter added background
         "editorGutter.deletedBackground":           "#f03c3c",     // gutter deleted background
-        "editorGutter.foldingControlForeground":    "#eb731e",     // gutter folding control foreground
+        "editorGutter.foldingControlForeground":    "#d29b14",     // gutter folding control foreground
 
         // Editor: Inline edits (Update: 20261103)
         "inlineEdit.gutterIndicator.background":           "default",     // inline edit indicator background
@@ -575,7 +575,7 @@
         "editorSuggestWidget.foreground":                 "#646464",     // suggest foreground
         "editorSuggestWidget.background":                 "#fafafac8",   // suggest background
         "editorSuggestWidget.border":                     "#d2d2d2c8",   // suggest border
-        "editorSuggestWidget.focusHighlightForeground":   "#eb731e",     // suggest focus highlight foreground
+        "editorSuggestWidget.focusHighlightForeground":   "#d29b14",     // suggest focus highlight foreground
         "editorSuggestWidget.highlightForeground":        "#f58291",     // suggest highlight foreground
         "editorSuggestWidget.selectedBackground":         "#e1e1e164",   // suggest selected background
         "editorSuggestWidget.selectedForeground":         "#646464",     // suggest selected foreground
@@ -590,7 +590,7 @@
         "editorGhostText.foreground":                     "#505050",     // ghost text foreground
         "editorGhostText.border":                         "#ffffff00",   // ghost text border
         "debugExceptionWidget.background":                "#fafafac8",   // exception widget background
-        "debugExceptionWidget.border":                    "#faa03c",     // exception widget border
+        "debugExceptionWidget.border":                    "#fac81e",     // exception widget border
         "editorMarkerNavigation.background":              "#fafafac8",   // marker nav background
         "editorMarkerNavigationError.background":         "#f03c3c",     // marker nav error background
         "editorMarkerNavigationWarning.background":       "#28a0a0",     // marker nav warning background
@@ -605,8 +605,8 @@
         "peekView.border":                             "#f58291",     // peek view border
         "peekViewEditor.background":                   "#ffffffe1",   // peek editor background
         "peekViewEditorGutter.background":             "#ffffffe1",   // peek editor gutter background
-        "peekViewEditor.matchHighlightBackground":     "#ffb4643c",   // peek editor match highlight background
-        "peekViewEditor.matchHighlightBorder":         "#ffb46450",   // peek editor match highlight border
+        "peekViewEditor.matchHighlightBackground":     "#ffd21e3c",   // peek editor match highlight background
+        "peekViewEditor.matchHighlightBorder":         "#ffd21e50",   // peek editor match highlight border
         "peekViewResult.background":                   "#fafafae1",   // peek result background
         "peekViewResult.fileForeground":               "#f58291",     // peek result file foreground
         "peekViewResult.lineForeground":               "#646464",     // peek result line foreground
@@ -633,8 +633,8 @@
         "mergeEditor.conflictingLines.background":             "#f03c3c14",   // merge editor conflicting lines background
         "merge.currentHeaderBackground":                       "#0f8cf050",   // merge current header background
         "merge.currentContentBackground":                      "#0f8cf01e",   // merge current content background
-        "merge.incomingHeaderBackground":                      "#46b4b450",   // merge incoming header background
-        "merge.incomingContentBackground":                     "#46b4b41e",   // merge incoming content background
+        "merge.incomingHeaderBackground":                      "#32afaf50",   // merge incoming header background
+        "merge.incomingContentBackground":                     "#32afaf1e",   // merge incoming content background
         "merge.border":                                        "#fa8c14",     // merge border
         "merge.commonContentBackground":                       "#fafafae1",   // merge common content background
         "merge.commonHeaderBackground":                        "#fafafae1",   // merge common header background
@@ -676,29 +676,29 @@
         "statusBar.background":                   "#dcdcdc",     // status bar background
         "statusBar.border":                       "#dcdcdc",     // status bar border
         "statusBar.debuggingForeground":          "#ffffff",     // status bar debugging foreground
-        "statusBar.debuggingBackground":          "#faa03ce1",   // status bar debugging background
-        "statusBar.debuggingBorder":              "#faa03ce1",   // status bar debugging border
+        "statusBar.debuggingBackground":          "#d29b14e1",   // status bar debugging background
+        "statusBar.debuggingBorder":              "#d29b14e1",   // status bar debugging border
         "statusBar.noFolderForeground":           "#646464",     // status bar no folder foreground
         "statusBar.noFolderBackground":           "#dcdcdc",     // status bar no folder background
         "statusBar.noFolderBorder":               "#dcdcdc",     // status bar no folder border
         "statusBarItem.remoteForeground":         "#ffffff",     // status item remote foreground
         "statusBarItem.remoteBackground":         "#f58291",     // status item remote background
-        "statusBarItem.hoverBackground":          "#ffc3827d",   // status item hover background
+        "statusBarItem.hoverBackground":          "#ffe15f7d",   // status item hover background
         "statusBarItem.activeBackground":         "#ffffff64",   // status item active background
         "statusBarItem.prominentForeground":      "#ffffff",     // status item prominent foreground
         "statusBarItem.prominentBackground":      "#f582917d",   // status item prominent background
-        "statusBarItem.prominentHoverBackground": "#ffb4647d",   // status item prominent hover background
+        "statusBarItem.prominentHoverBackground": "#d29b147d",   // status item prominent hover background
         "statusBarItem.errorBackground":          "#dcdcdc",     // status item error background
         "statusBarItem.errorForeground":          "#f03c3c",     // status item error foreground
         "statusBarItem.warningBackground":        "#dcdcdc",     // status item warning background
         "statusBarItem.warningForeground":        "#28a0a0",     // status item warning foreground
-        "statusBarItem.compactHoverBackground":   "#ffc3827d",   // status item compact hover background
-        "statusBarItem.focusBorder":              "#ffb4647d",   // status item focus border
-        "statusBar.focusBorder":                  "#ffb4647d",   // status bar focus border
+        "statusBarItem.compactHoverBackground":   "#ffe15f7d",   // status item compact hover background
+        "statusBarItem.focusBorder":              "#ffd21e7d",   // status item focus border
+        "statusBar.focusBorder":                  "#ffd21e7d",   // status bar focus border
 
         // Menu Bar (Update: 20261103)
         "menubar.selectionForeground": "#cd3c50",     // menu bar selection foreground
-        "menubar.selectionBackground": "#ffc3827d",   // menu bar selection background
+        "menubar.selectionBackground": "#ffe15f7d",   // menu bar selection background
         "menubar.selectionBorder":     "default",     // menu bar selection border
         "menu.foreground":             "#282828",     // menu foreground
         "menu.background":             "#fafafae1",   // menu background
@@ -737,17 +737,17 @@
         "mcpIcon.starForeground":                   "#fa8c14",     // MCP star foreground
         "extensionButton.prominentForeground":      "#ffffff",     // extension button prominent foreground
         "extensionButton.prominentBackground":      "#f58291",     // extension button prominent background
-        "extensionButton.prominentHoverBackground": "#faa03c",     // extension button prominent hover background
-        "extensionBadge.remoteBackground":          "#ffb464",     // extension badge remote background
+        "extensionButton.prominentHoverBackground": "#d29b14",     // extension button prominent hover background
+        "extensionBadge.remoteBackground":          "#d29b14",     // extension badge remote background
         "extensionBadge.remoteForeground":          "#ffffff",     // extension badge remote foreground
         "extensionIcon.starForeground":             "#fa8c14",     // extension star foreground
         "extensionIcon.verifiedForeground":         "#0f8cf0",     // extension verified foreground
-        "extensionIcon.preReleaseForeground":       "#46b4b4",     // extension pre release foreground
+        "extensionIcon.preReleaseForeground":       "#32afaf",     // extension pre release foreground
 
         // Quick Picker (Update: 20261103)
         "quickInputList.focusHighlightForeground": "default",     // quick pick row focus highlight foreground
         "pickerGroup.border":                      "#28282864",   // picker group border
-        "pickerGroup.foreground":                  "#eb731e",     // picker group foreground
+        "pickerGroup.foreground":                  "#d29b14",     // picker group foreground
         "quickInput.background":                   "#fffffff0",   // quick input background
         "quickInput.foreground":                   "#505050",     // quick input foreground
         "quickInputList.focusBackground":          "#f582913c",   // quick pick row focus background
@@ -768,20 +768,20 @@
         // Debug (Update: 20261103)
         "debugTokenExpression.boolean":                "#645ac8",     // debug value boolean
         "debugTokenExpression.error":                  "#f03c3c",     // debug value error
-        "debugTokenExpression.name":                   "#0a8c8c",     // debug value name
+        "debugTokenExpression.name":                   "#1e9696",     // debug value name
         "debugTokenExpression.number":                 "#1e8232",     // debug value number
         "debugTokenExpression.string":                 "#28a0a0",     // debug value string
         "debugTokenExpression.type":                   "#554ba0",     // debug value type
         "debugTokenExpression.value":                  "default",     // debug value
         "debugView.stateLabelBackground":              "default",     // debug view state label background
         "debugView.stateLabelForeground":              "default",     // debug view state label foreground
-        "debugView.valueChangedHighlight":             "#faa03c",     // debug view value changed highlight
-        "editor.inlineValuesBackground":               "#ffc3821e",   // editor inline values background
+        "debugView.valueChangedHighlight":             "#fac81e",     // debug view value changed highlight
+        "editor.inlineValuesBackground":               "#ffe15f1e",   // editor inline values background
         "editor.inlineValuesForeground":               "default",     // editor inline values foreground
         "debugToolBar.background":                     "#f5f5f5f0",   // debug toolbar background
         "debugToolBar.border":                         "default",     // debug toolbar border
-        "editor.stackFrameHighlightBackground":        "#ffc38232",   // editor stack frame highlight background
-        "editor.focusedStackFrameHighlightBackground": "#ffc3821e",   // editor focused stack frame highlight background
+        "editor.stackFrameHighlightBackground":        "#ffe15f32",   // editor stack frame highlight background
+        "editor.focusedStackFrameHighlightBackground": "#ffe15f1e",   // editor focused stack frame highlight background
         "debugView.exceptionLabelForeground":          "#ffffff",     // debug view exception label foreground
         "debugView.exceptionLabelBackground":          "#f03c3c",     // debug view exception label background
 
@@ -859,7 +859,7 @@
         "git.blame.editorDecorationForeground":          "default",     // git blame editor decoration foreground
         "gitDecoration.addedResourceForeground":         "#fac81e",     // git added resource foreground
         "gitDecoration.modifiedResourceForeground":      "#0064d2",     // git modified resource foreground
-        "gitDecoration.renamedResourceForeground":       "#46b4b4",     // git renamed resource foreground
+        "gitDecoration.renamedResourceForeground":       "#32afaf",     // git renamed resource foreground
         "gitDecoration.stageModifiedResourceForeground": "#0064d2",     // git stage modified resource foreground
         "gitDecoration.stageDeletedResourceForeground":  "#f03c3c",     // git stage deleted resource foreground
         "gitDecoration.deletedResourceForeground":       "#f03c3c",     // git deleted resource foreground
@@ -901,8 +901,8 @@
         "settings.numberInputBackground":         "#ffffff",     // settings number input background
         "settings.numberInputForeground":         "#dc465f",     // settings number input foreground
         "settings.numberInputBorder":             "#c8c8c8",     // settings number input border
-        "settings.focusedRowBackground":          "#ffc3821e",   // settings focused row background
-        "settings.focusedRowBorder":              "#ffc3823c",   // settings focused row border
+        "settings.focusedRowBackground":          "#ffe15f1e",   // settings focused row background
+        "settings.focusedRowBorder":              "#ffe15f3c",   // settings focused row border
         "settings.headerBorder":                  "#f0f0f0",     // settings header border
         "settings.sashBorder":                    "#f0f0f0",     // settings sash border
 
@@ -910,14 +910,14 @@
         "breadcrumb.foreground":                "#141414",     // breadcrumb foreground
         "breadcrumb.background":                "#fffffff0",   // breadcrumb background
         "breadcrumb.focusForeground":           "#dc465f",     // breadcrumb focus foreground
-        "breadcrumb.activeSelectionForeground": "#eb731e",     // breadcrumb active selection foreground
+        "breadcrumb.activeSelectionForeground": "#d29b14",     // breadcrumb active selection foreground
         "breadcrumbPicker.background":          "#fffffff0",   // breadcrumb picker background
 
         // Snippets (Update: 20261103)
         "editor.snippetTabstopHighlightBackground":      "#ffb4be28",   // editor snippet tabstop highlight background
         "editor.snippetTabstopHighlightBorder":          "#ffb4be64",   // editor snippet tabstop highlight border
-        "editor.snippetFinalTabstopHighlightBackground": "#ffcda028",   // editor snippet final tabstop highlight bg
-        "editor.snippetFinalTabstopHighlightBorder":     "#ffcda064",   // editor snippet final tabstop highlight border
+        "editor.snippetFinalTabstopHighlightBackground": "#ffeb7828",   // editor snippet final tabstop highlight bg
+        "editor.snippetFinalTabstopHighlightBorder":     "#ffeb7864",   // editor snippet final tabstop highlight border
 
         // Symbol Icons (Update: 20261103)
         "symbolIcon.arrayForeground":            "default",     // symbol array foreground
@@ -927,9 +927,9 @@
         "symbolIcon.constantForeground":         "default",     // symbol constant foreground
         "symbolIcon.constructorForeground":      "#1478e1",     // symbol constructor foreground
         "symbolIcon.enumeratorForeground":       "#554ba0",     // symbol enumerator foreground
-        "symbolIcon.enumeratorMemberForeground": "#147878",     // symbol enumerator member foreground
+        "symbolIcon.enumeratorMemberForeground": "#1e7d7d",     // symbol enumerator member foreground
         "symbolIcon.eventForeground":            "#c35564",     // symbol event foreground
-        "symbolIcon.fieldForeground":            "#0a8c8c",     // symbol field foreground
+        "symbolIcon.fieldForeground":            "#1e9696",     // symbol field foreground
         "symbolIcon.fileForeground":             "default",     // symbol file foreground
         "symbolIcon.folderForeground":           "default",     // symbol folder foreground
         "symbolIcon.functionForeground":         "#1478e1",     // symbol function foreground
@@ -952,7 +952,7 @@
         "symbolIcon.textForeground":             "default",     // symbol text foreground
         "symbolIcon.typeParameterForeground":    "default",     // symbol type parameter foreground
         "symbolIcon.unitForeground":             "default",     // symbol unit foreground
-        "symbolIcon.variableForeground":         "#0a8c8c",     // symbol variable foreground
+        "symbolIcon.variableForeground":         "#1e9696",     // symbol variable foreground
 
         // Notebook (Update: 20261103)
         "interactive.activeCodeBorder":                      "default",     // interactive active code border
@@ -1011,7 +1011,7 @@
         "chat.thinkingShimmer":                        "default",     // chat thinking shimmer
         "chat.voiceGlowBaseColor":                     "default",     // chat voice glow base color
         "chat.voiceListeningGlow":                     "default",     // chat voice listening glow
-        "chat.workingProgressInsidersIconForeground":  "#46b4b4",     // chat working progress insiders icon foreground
+        "chat.workingProgressInsidersIconForeground":  "#32afaf",     // chat working progress insiders icon foreground
         "chat.workingProgressStableIconForeground":    "#dc465f",     // chat working progress stable icon foreground
 
         // Inline Chat (Update: 20261103)
@@ -1093,7 +1093,7 @@
         "terminal.ansiYellow":                         "#f0be1e",     // ANSI yellow
         "terminal.ansiBlue":                           "#0f8cf0",     // ANSI blue
         "terminal.ansiMagenta":                        "#645ac8",     // ANSI magenta
-        "terminal.ansiCyan":                           "#46b4b4",     // ANSI cyan
+        "terminal.ansiCyan":                           "#32afaf",     // ANSI cyan
         "terminal.ansiWhite":                          "#c8c8c8",     // ANSI white
         "terminal.ansiBrightBlack":                    "#646464",     // ANSI bright black
         "terminal.ansiBrightRed":                      "#f03c3c",     // ANSI bright red
@@ -1101,12 +1101,12 @@
         "terminal.ansiBrightYellow":                   "#fac81e",     // ANSI bright yellow
         "terminal.ansiBrightBlue":                     "#14a0ff",     // ANSI bright blue
         "terminal.ansiBrightMagenta":                  "#a078ff",     // ANSI bright magenta
-        "terminal.ansiBrightCyan":                     "#64c8c8",     // ANSI bright cyan
+        "terminal.ansiBrightCyan":                     "#3cc8c8",     // ANSI bright cyan
         "terminal.ansiBrightWhite":                    "#f0f0f0",     // ANSI bright white
         "terminal.selectionBackground":                "#f5829150",   // terminal selection background
         "terminalCursor.background":                   "default",     // terminal cursor background
         "terminalCursor.foreground":                   "#cd3c50",     // terminal cursor foreground
-        "terminal.dropBackground":                     "#ffb46432",   // terminal drop background
+        "terminal.dropBackground":                     "#ffd21e32",   // terminal drop background
         "terminal.tab.activeBorder":                   "#f58291",     // terminal tab active border
 
         // Terminal: Symbol icons (Update: 20261103)
@@ -1261,7 +1261,7 @@
             "scope": "constant.character.escape", // \t, \n escapes
             "settings": 
             {
-                "foreground": "#3c7d7d"		// 060,125,125
+                "foreground": "#468282"		// 070,130,130
             }
         },
         {
@@ -1273,7 +1273,7 @@
             ],
               "settings": 
               {
-                "foreground": "#3c7d7d"		// 060,125,125
+                "foreground": "#468282"		// 070,130,130
               }
         },
         {
@@ -1296,7 +1296,7 @@
             ],  
             "settings": 
             {
-                "foreground": "#3c7d7d" 	// 060,125,125
+                "foreground": "#468282" 	// 070,130,130
             }
         },
         {
@@ -1823,7 +1823,7 @@
             "scope": "punctuation.terminator",	// C++ line-end semicolon
             "settings": 
             {
-                "foreground": "#147878"
+                "foreground": "#1e7d7d"
             }
         },
         {
@@ -1846,7 +1846,7 @@
             ],
                 "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -1866,7 +1866,7 @@
             "scope": "variable.other",
             "settings": 
             {
-              "foreground": "#147878"		// 020,120,120
+              "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1874,7 +1874,7 @@
             "scope": "variable.other.property, variable.other.object.property",
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1890,7 +1890,7 @@
             "scope": "variable.parameter",
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1902,7 +1902,7 @@
             ],
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -1910,7 +1910,7 @@
             "scope": "punctuation.definition.variable",
             "settings": 
             {
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -2434,7 +2434,7 @@
             "scope": "scss.meta.at-rule.import.string.quoted.single",
             "settings": 
             {
-                "foreground": "#3c7d7d"		// 060,125,125
+                "foreground": "#468282"		// 070,130,130
             }
         },
 //
@@ -2515,7 +2515,7 @@
             "scope": "source.diff meta.diff.range.context",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
                 
             }
         },
@@ -2524,7 +2524,7 @@
             "scope": "source.diff meta.diff.header.from-file",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2532,7 +2532,7 @@
             "scope": "source.diff punctuation.definition.from-file",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2540,7 +2540,7 @@
             "scope": "source.diff punctuation.definition.range",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2670,7 +2670,7 @@
             "scope": "source.java storage.modifier.import",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "scope": "source.java storage.modifier.package",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2686,7 +2686,7 @@
             "scope": "source.java storage.type",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2802,7 +2802,7 @@
             "scope": "source.js meta.var.expr variable.other.object",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2810,7 +2810,7 @@
             "scope": "source.js variable.other.readwrite.alias",
             "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -2903,7 +2903,7 @@
             "settings": 
             {
                 //"foreground": "#dc96c8"		// 220,150,200
-                "foreground": "#147878"		// 020,120,120
+                "foreground": "#1e7d7d"		// 030,125,125
             }
         },
         {
@@ -3169,7 +3169,7 @@
             ],
                 "settings": 
             {
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {
@@ -3185,7 +3185,7 @@
             "scope": "punctuation.terminator.expression.php",
             "settings": 
             {
-                "foreground": "#147878" 	// 020,120,120
+                "foreground": "#1e7d7d" 	// 030,125,125
             }
         },
         {
@@ -3391,7 +3391,7 @@
             "settings": 
             {
                 //"foreground": "#c8646e" 	// 200,100,110
-                "foreground": "#147878"    // 020,120,120
+                "foreground": "#1e7d7d"    // 030,125,125
             }
         },
         {

@@ -11,7 +11,7 @@
 
 ## About Photonica
 
-:rainbow: [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) is made for [VS Code](https://code.visualstudio.com/). It contains one dark theme and eight light themes. Its soft colors will be helpful for you to get inspired!
+:rainbow: [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) is made for [VS Code](https://code.visualstudio.com/). It contains one dark theme and thirteen light themes. Its soft colors will be helpful for you to get inspired!
 
 ## Getting started
 
@@ -54,9 +54,9 @@ Photonica Light Coral:
 
 ![Photonica Light Coral](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_coral_1.0.11.png)
 
-Photonica Light Warm (formerly Light Orange; existing settings switch to it automatically):
+Photonica Light Orange:
 
-![Photonica Light Warm](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_warm_1.0.11.png)
+![Photonica Light Orange](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_warm_1.0.11.png)
 
 Photonica Light Green:
 
