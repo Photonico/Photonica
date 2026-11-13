@@ -59,10 +59,10 @@ lime:     #64871e #739b1e #82aa1e #96be2d #aacd46 #b9dc6e #c8e696 #d7ebaa #e1f0c
 green:    #19642d #288237 #379b4b #46b45a #6ec878 #87dc9b #afe6b9 #beebbe #c8f0c8 #286e32 #468250 #5a9b64 #6eb478  
 cyan:     #196464 #147878 #0a8c8c #28a0a0 #46b4b4 #64c8c8 #96dcdc #a5e6e6 #bef0f0 #1e6e6e #3c7d7d #559191 #6eaaaa  
 azure:    #0050a0 #0064d2 #0a78e1 #0f8cff #14a5ff #32b9ff #6ec8ff #96dcff #beebff #145aaf #3c73be #4b8cd2 #5aa5e6  
-iris:     #37508c #4b64af #5578c8 #6e8cd7 #82a0e1 #96afe6 #aac3f0 #bed2f5 #d7e6ff #415a96 #5a6ea5 #6e82b4 #829bc8  
 violet:   #5a3ca5 #7350cd #8c64f0 #a078ff #af96ff #beafff #d2beff #dccdff #ebdcff #6446af #7864be #8c7dd2 #a596e6  
 purple:   #82288c #9b37aa #b946c3 #d25adc #e673f0 #eb96f5 #f5aff5 #fac3fa #ffd7fa #8c3796 #9655a0 #af69b9 #cd7dd2  
 silver:   #3c5078 #4b6491 #5073a5 #6487b4 #789bc3 #8caacd #a0b9d7 #b4cde1 #d2e1f0 #465a82 #5f7396 #7387aa #8ca0be  
+titanium: #37508c #4b64af #5578c8 #6e8cd7 #82a0e1 #96afe6 #aac3f0 #bed2f5 #d7e6ff #415a96 #5a6ea5 #6e82b4 #829bc8  
 
 * Dark theme colors
 
