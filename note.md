@@ -87,12 +87,12 @@ wine:     purple
 coral:    orange  
 crimson:  orange  
 orange:   lime  
-yellow:   lime  
-lime:     yellow  
-green:    azure  
+yellow:   orange  
+lime:     orange  
+green:    orange  
 cyan:     azure  
 azure:    violet  
-violet:   azure  
+violet:   titanium  
 purple:   coral  
 silver:   cyan  
 titanium: violet  
