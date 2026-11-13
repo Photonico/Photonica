@@ -52,14 +52,14 @@
 
 wine:     #963c4b #b4505f #c8646e #dc7882 #eb919b #f5aab4 #ffbec8 #ffcdd2 #ffdce1 #a04655 #aa6469 #be787d #d29196  
 coral:    #a5413c #c85046 #e15f50 #f57364 #ff8c78 #ffa591 #ffbeaf #ffcdbe #ffdcd2 #af4b46 #be645a #d2786e #e69182  
-crimson:  #a01423 #c81423 #e1322d #f03c3c #ff6464 #ff918c #ffafaa #ffc8c3 #ffdcd7 #aa2328 #b94b46 #cd5a55 #e16e69  
+crimson:  #c81423 #e1322d #f03c3c #ff645a #ff968c #ffaaa5 #ffc3be #ffd2cd #ffdcd7 #cd3232 #cd5a50 #dc786e #eb968c  
 orange:   #eb7823 #f08223 #ff8c28 #ffa02d #ffb464 #ffc382 #ffcda0 #ffdcb4 #ffe6c8 #dc6914 #e1915a #eba064 #f0b478  
 yellow:   #dcaa28 #e6b41e #f0be1e #fac828 #ffd732 #ffe15f #ffeb78 #fff096 #fff5b4 #d29b14 #dcb964 #e6c86e #f0d278  
 lime:     #64871e #739b1e #82aa1e #96be2d #aacd46 #b9dc6e #c8e696 #d7ebaa #e1f0c3 #6e912d #829b50 #96af5f #aac36e  
 green:    #19642d #288237 #379b4b #46b45a #6ec878 #87dc9b #afe6b9 #beebbe #c8f0c8 #286e32 #468250 #5a9b64 #6eb478  
 cyan:     #196464 #147878 #0a8c8c #28a0a0 #46b4b4 #64c8c8 #96dcdc #a5e6e6 #bef0f0 #1e6e6e #3c7d7d #559191 #6eaaaa  
 azure:    #0050a0 #0064d2 #0a78e1 #0f8cff #14a5ff #32b9ff #6ec8ff #96dcff #beebff #145aaf #3c73be #4b8cd2 #5aa5e6  
-violet:   #5a3ca5 #7350cd #8c64f0 #a078ff #af96ff #beafff #d2beff #dccdff #ebdcff #6446af #7864be #8c7dd2 #a596e6  
+violet:   #5a3ca5 #6e50cd #8764f0 #9b7dff #aa96ff #beafff #d2beff #dccdff #ebdcff #6446af #7364be #877dd2 #a096e6  
 purple:   #82288c #9b37aa #b946c3 #d25adc #e673f0 #eb96f5 #f5aff5 #fac3fa #ffd7fa #8c3796 #9655a0 #af69b9 #cd7dd2  
 silver:   #3c5078 #4b6491 #5073a5 #6487b4 #789bc3 #8caacd #a0b9d7 #b4cde1 #d2e1f0 #465a82 #5f7396 #7387aa #8ca0be  
 titanium: #37508c #4b64af #5578c8 #6e8cd7 #82a0e1 #96afe6 #aac3f0 #bed2f5 #d7e6ff #415a96 #5a6ea5 #6e82b4 #829bc8  
