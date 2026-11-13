@@ -56,9 +56,9 @@ warm:     #eb7823 #f08223 #ff8c28 #ffa02d #ffb432 #ffc83c #ffdc5a #ffe669 #fff07
 green:    #19642d #288237 #379b4b #46b45a #6ec878 #87dc9b #afe6b9 #beebbe #c8f0c8 #286e32 #468250 #5a9b64 #6eb478  
 cyan:     #196464 #147878 #0a8c8c #4ba0a0 #5ab4b4 #82c8c8 #9bdcdc #aae6e6 #bef0f0 #1e6e6e #3c7d7d #559191 #6eaaaa  
 azure:    #0050a0 #0064d2 #0078e1 #008cff #0aa5ff #32b9ff #6ec8ff #96dcff #beebff #145aaf #3c73be #4b8cd2 #5aa5e6  
+iris:     #82a0e1
 silver:   #3c5078 #4b6491 #5073a5 #6487b4 #789bc3 #8caacd #a0b9d7 #b4cde1 #d2e1f0 #465a82 #5f7396 #7387aa #8ca0be  
 violet:   #5541a0 #6955c8 #7d64e6 #9178f5 #a596ff #b9afff #cdbeff #dccdff #ebdcff #5f4baa #6e64b4 #8778c8 #a091dc  
-lens:     #82a0e1
 
 * Dark theme colors
 
