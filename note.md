@@ -60,9 +60,9 @@ coral:    #b42846 #cd3c50 #dc465f #f05a6e #f58291 #fa9ba5 #ffb4be #facdd2 #ffdcd
 crimson:  #c81423 #e1322d #f03c3c #ff645a #ff968c #ffaaa5 #ffc3be #ffd2cd #ffdcd7 #b42328 #c84b41 #e67869 #ffa08c #ff5523  
 orange:   #eb731e #f5820a #fa8c14 #faa03c #ffb464 #ffc382 #ffcda0 #ffdcb4 #ffe6c8 #dc6914 #eb8c41 #eba05f #f0b478 #ffaa31  
 yellow:   #e1b400 #ebb914 #f0be1e #fac81e #ffd21e #ffe15f #ffeb78 #fff096 #fff5b4 #d29b14 #e6b446 #ebc864 #f0d278 #fadc46  
-lime:     #82a019 #87aa1e #8cb423 #96be2d #aad241 #b4dc4b #c8e67d #d7eb9b #e6f0b9 #7d962d #8ca53c #96b446 #a0c85a #91d700  
-green:    #1e6e28 #1e8232 #329641 #41b450 #64c864 #87dc8c #aae6af #beebb9 #c8f5c8 #286e2d #46824b #559b64 #64b478 #73dcb9  
-cyan:     #1e6464 #1e7d7d #1e9696 #28a0a0 #32afaf #3cc8c8 #78e1e1 #9bebeb #bef0f0 #286e6e #468282 #509696 #50afaf  
+lime:     #82a019 #87aa1e #8cb423 #96be2d #aad241 #b4dc4b #c8e67d #d7eb9b #e6f0b9 #7d962d #8ca53c #96b446 #a0c85a  
+green:    #1e6e28 #1e8232 #329641 #41b450 #64c864 #87dc8c #aae6af #beebb9 #c8f5c8 #286e2d #46824b #559b64 #64b478 #91d700  
+cyan:     #1e6464 #1e7d7d #1e9696 #28a0a0 #32afaf #3cc8c8 #78e1e1 #9bebeb #bef0f0 #286e6e #468282 #509696 #50afaf #73dcb9  
 azure:    #0050a0 #0064d2 #1478e1 #0f8cf0 #14a0ff #32b9ff #6ec8ff #96dcff #beebff #145aaa #3c73be #4b8cd2 #5aa5e6 #82c8ff  
 violet:   #554ba0 #645ac8 #8269f0 #a078ff #aa96ff #beafff #d2beff #dccdff #ebdcff #463c96 #6e69b9 #8782d2 #a596e6  
 purple:   #6e2d8c #823ca5 #aa50c3 #d264e1 #f078ff #eb96f5 #f5aff5 #fac3fa #ffd7fa #783c78 #87559b #aa6ebe #d287dc #f0a0dc  
