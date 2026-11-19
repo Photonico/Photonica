@@ -79,7 +79,7 @@ green:    #7dbea0 #8cbe82 #8cc878 #a0c88c #5ae6aa #96e18c #afdc9b #64f050 #c8f06
 cyan:     #28b4b4 #50c3a0 #8cb4be #96bebe #8cc8b4 #64dcdc #8ce1e1 #78ebd7 #c8faff  
 azure:    #0a78E1 #008cf0 #788ca0 #6496c8 #1ea0ff #64a0dc #82a0c8 #3cbeff #8cb4ff #87c8e1 #64d2ff #a0c8ff #8cdcff #c8d7dc #b4dcf0 #c8ebff  
 violet:   #8C64f0 #9b91ff #af8cf0 #b49bff #c864eb  
-magenta:  #d25adc #f04096 #a078c8 #d28cfa #dc96be #dcaad2 #e1a0ff #d2b4ff #f0dcff  
+magenta:  #aa3cb9 #d25adc #f04096 #a078c8 #d28cfa #dc96be #dcaad2 #e1a0ff #d2b4ff #f0dcff  
 
 * secondary colors
 
